@@ -1,0 +1,1791 @@
+year,imdb,title,clean_test,binary,genre,age_rating,budget_2013$
+2013,tt1711425,21 &amp; Over,notalk,FAIL,comedy,R,13000000
+2012,tt1343727,Dredd 3D,ok,PASS,scifi,R,45658735
+2013,tt2024544,12 Years a Slave,notalk,FAIL,drama,R,20000000
+2013,tt1272878,2 Guns,notalk,FAIL,action,R,61000000
+2013,tt0453562,42,men,FAIL,drama,PG13,40000000
+2013,tt1335975,47 Ronin,men,FAIL,action,PG13,225000000
+2013,tt1606378,A Good Day to Die Hard,notalk,FAIL,action,R,92000000
+2013,tt2194499,About Time,ok,PASS,romance,R,12000000
+2013,tt1814621,Admission,ok,PASS,comedy,PG13,13000000
+2013,tt1815862,After Earth,notalk,FAIL,scifi,PG13,130000000
+2013,tt1800241,American Hustle,ok,PASS,drama,R,40000000
+2013,tt1322269,August: Osage County,ok,PASS,drama,R,25000000
+2013,tt1559547,Beautiful Creatures,ok,PASS,romance,PG13,50000000
+2013,tt2334873,Blue Jasmine,ok,PASS,drama,PG13,18000000
+2013,tt1535109,Captain Phillips,notalk,FAIL,drama,PG13,55000000
+2013,tt1939659,Carrie,ok,PASS,horror,R,30000000
+2013,tt1985966,Cloudy with a Chance of Meatballs 2,nowomen,FAIL,kids,PG,78000000
+2013,tt1690953,Despicable Me 2,ok,PASS,kids,PG,76000000
+2013,tt2229499,Don Jon,dubious,FAIL,comedy,R,5500000
+2013,tt1535108,Elysium,ok,PASS,scifi,R,120000000
+2013,tt1731141,Ender&#39;s Game,men,FAIL,scifi,PG13,110000000
+2013,tt0848537,Epic,ok,PASS,kids,PG,100000000
+2013,tt0765446,Escape from Planet Earth,ok,PASS,kids,PG,40000000
+2013,tt1211956,Escape Plan,men,FAIL,action,R,70000000
+2013,tt1288558,Evil Dead,ok,PASS,horror,R,17000000
+2013,tt1905041,Fast and Furious 6,ok,PASS,action,PG13,160000000
+2013,tt2294629,Frozen,ok,PASS,kids,PG,150000000
+2013,tt1583421,G.I. Joe: Retaliation,ok,PASS,action,PG13,140000000
+2013,tt1321870,Gangster Squad,notalk,FAIL,action,R,60000000
+2013,tt2425486,Gloria,ok,PASS,drama,R,30000000
+2013,tt1454468,Gravity,nowomen,FAIL,scifi,PG13,110000000
+2013,tt2191701,Grown Ups 2,men,FAIL,comedy,PG13,80000000
+2013,tt1428538,Hansel &amp; Gretel: Witch Hunters,ok,PASS,action,R,50000000
+2013,tt1798709,Her,men,FAIL,drama,R,23000000
+2013,tt2024432,Identity Thief,men,FAIL,comedy,R,35000000
+2013,tt2226417,Insidious: Chapter 2,men,FAIL,horror,PG13,5000000
+2013,tt1300854,Iron Man 3,dubious,FAIL,action,PG13,200000000
+2013,tt1351685,Jack the Giant Slayer,nowomen,FAIL,action,PG13,195000000
+2013,tt1650554,Kick-Ass 2,ok,PASS,action,R,28000000
+2013,tt1204975,Last Vegas,notalk,FAIL,comedy,PG13,28000000
+2013,tt1327773,Lee Daniels&#39; The Butler,ok,PASS,drama,PG13,30000000
+2013,tt2002718,Machete Kills,ok,PASS,action,R,2000000
+2013,tt2023587,Mama,ok,PASS,horror,PG13,15000000
+2013,tt0770828,Man of Steel,ok,PASS,action,PG13,225000000
+2013,tt1821549,Nebraska,ok,PASS,drama,R,12000000
+2013,tt1670345,Now You See Me,notalk,FAIL,drama,PG13,75000000
+2013,tt1483013,Oblivion,men,FAIL,action,PG13,120000000
+2013,tt2302755,Olympus Has Fallen,notalk,FAIL,action,R,70000000
+2013,tt1623205,Oz the Great and Powerful,ok,PASS,kids,PG,200000000
+2013,tt1663662,Pacific Rim,notalk,FAIL,action,PG13,190000000
+2013,tt1980209,Pain &amp; Gain,notalk,FAIL,action,R,26000000
+2013,tt1904996,Parker,ok,PASS,action,R,35000000
+2013,tt1699755,Peeples,dubious,FAIL,comedy,PG13,15000000
+2013,tt1854564,Percy Jackson: Sea of Monsters,ok,PASS,kids,PG,90000000
+2013,tt1392214,Prisoners,ok,PASS,drama,R,46000000
+2013,tt0790736,R.I.P.D.,notalk,FAIL,comedy,PG13,130000000
+2013,tt1821694,Red 2,ok,PASS,action,PG13,84000000
+2013,tt1411250,Riddick,notalk,FAIL,scifi,R,38000000
+2013,tt2364841,Runner Runner,nowomen,FAIL,action,R,30000000
+2013,tt1979320,Rush,notalk,FAIL,drama,R,38000000
+2013,tt1702439,Safe Haven,ok,PASS,romance,PG13,28000000
+2013,tt2140373,Saving Mr. Banks,ok,PASS,drama,PG13,35000000
+2013,tt2053463,Side Effects,ok,PASS,drama,R,30000000
+2013,tt1408101,Star Trek Into Darkness,notalk,FAIL,scifi,PG13,190000000
+2013,tt1572315,Texas Chainsaw 3D,ok,PASS,horror,R,20000000
+2013,tt1931435,The Big Wedding,ok,PASS,comedy,R,32500000
+2013,tt0816442,The Book Thief,ok,PASS,drama,PG13,19000000
+2013,tt1911644,The Call,ok,PASS,action,R,13000000
+2013,tt1457767,The Conjuring,ok,PASS,horror,R,20000000
+2013,tt2193215,The Counselor,ok,PASS,drama,R,25000000
+2013,tt0481499,The Croods,men,FAIL,,,135000000
+2013,tt2404311,The Family,men,FAIL,,,30000000
+2013,tt1837703,The Fifth Estate,notalk,FAIL,,,26000000
+2013,tt2005374,The Frozen Ground,nowomen,FAIL,,,19200000
+2013,tt1343092,The Great Gatsby,dubious,FAIL,,,190000000
+2013,tt1951261,The Hangover part 3,men,FAIL,,,103000000
+2013,tt2404463,The Heat,ok,PASS,comedy,R,43000000
+2013,tt1170358,The Hobbit: The Desolation of Smaug,notalk,FAIL,,,250000000
+2013,tt1517260,The Host,dubious,FAIL,,,50000000
+2013,tt1951264,The Hunger Games: Catching Fire,ok,PASS,scifi,PG13,130000000
+2013,tt0790628,The Incredible Burt Wonderstone,notalk,FAIL,,,32000000
+2013,tt2234155,The Internship,notalk,FAIL,,,58000000
+2013,tt2034139,The Last Exorcism Part II,ok,PASS,horror,PG13,4000000
+2013,tt1210819,The Lone Ranger,notalk,FAIL,,,275000000
+2013,tt1538403,The Mortal Instruments: City of Bones,ok,PASS,action,PG13,60000000
+2013,tt2184339,The Purge,dubious,FAIL,,,3000000
+2013,tt2017020,The Smurfs 2,ok,PASS,kids,PG,110000000
+2013,tt1758795,The To Do List,ok,PASS,comedy,R,1500000
+2013,tt1727388,The Way Way Back,ok,PASS,drama,PG13,5000000
+2013,tt0993846,The Wolf of Wall Street,notalk,FAIL,,,100000000
+2013,tt1430132,The Wolverine,ok,PASS,action,PG13,115000000
+2013,tt1213663,The World&#39;s End,men,FAIL,,,20000000
+2013,tt1245492,This Is the End,notalk,FAIL,,,32000000
+2013,tt1981115,Thor: The Dark World,dubious,FAIL,,,170000000
+2013,tt1924429,Trance,nowomen,FAIL,,,16000000
+2013,tt1860353,Turbo,dubious,FAIL,,,135000000
+2013,tt1588173,Warm Bodies,men,FAIL,,,30000000
+2013,tt1723121,We&#39;re the Millers,ok,PASS,comedy,R,37000000
+2013,tt2334879,White House Down,men,FAIL,,,150000000
+2013,tt0816711,World War Z,dubious,FAIL,,,190000000
+2012,tt1611224,Abraham Lincoln: Vampire Hunter,dubious,FAIL,,,68488103
+2012,tt1591479,Act of Valor,nowomen,FAIL,,,12175663
+2012,tt1602620,Amour,dubious,FAIL,,,9841994
+2012,tt1781769,Anna Karenina,men,FAIL,,,49717290
+2012,tt1024648,Argo,ok,PASS,drama,R,45151416
+2012,tt1440129,Battleship,notalk,FAIL,,,212059460
+2012,tt2125435,Beasts of the Southern Wild,dubious,FAIL,,,1826349
+2012,tt1758575,Blue Like Jazz,ok,PASS,drama,PG13,1217566
+2012,tt1217209,Brave,ok,PASS,kids,PG,187708135
+2012,tt1308729,Bullet to the Head,nowomen,FAIL,,,55805121
+2012,tt1991245,Chernobyl Diaries,notalk,FAIL,,,1014639
+2012,tt1706593,Chronicle,notalk,FAIL,,,12175663
+2012,tt1371111,Cloud Atlas,ok,PASS,scifi,R,103493134
+2012,tt1524137,Contraband,ok,PASS,action,R,25365964
+2012,tt1853728,Django Unchained,notalk,FAIL,,,101463857
+2012,tt1907668,Flight,dubious,FAIL,,,31453796
+2012,tt1142977,Frankenweenie,nowomen,FAIL,,,39570904
+2012,tt0837562,Hotel Transylvania,ok,PASS,kids,PG,86244278
+2012,tt0790724,Jack Reacher,notalk,FAIL,,,60878314
+2012,tt2106476,Jagten,men,FAIL,,,3500503
+2012,tt0401729,John Carter,ok,PASS,action,PG13,279025606
+2012,tt1764234,Killing Them Softly,nowomen,FAIL,,,15219578
+2012,tt1707386,Les Miserables,ok,PASS,drama,PG13,65951507
+2012,tt0454876,Life of Pi,notalk,FAIL,,,121756628
+2012,tt0443272,Lincoln,ok,PASS,drama,PG13,65951507
+2012,tt1277953,Madagascar 3: Europe&#39;s Most Wanted,men,FAIL,,,147122592
+2012,tt1409024,Men in Black III,notalk,FAIL,,,218147292
+2012,tt1667353,Mirror Mirror,dubious,FAIL,,,86244278
+2012,tt1748122,Moonrise Kingdom,ok,PASS,drama,PG13,16234217
+2012,tt2094064,Much Ado About Nothing,dubious,FAIL,,,8117109
+2012,tt1598828,One for the Money,ok,PASS,comedy,PG13,42614820
+2012,tt2109184,Paranormal Activity 4,ok,PASS,horror,R,5073193
+2012,tt1623288,ParaNorman,notalk,FAIL,,,60878314
+2012,tt1047540,Parental Guidance,ok,PASS,kids,PG,25365964
+2012,tt1716777,People Like Us,ok,PASS,drama,PG13,16234217
+2012,tt1981677,Pitch Perfect,ok,PASS,comedy,PG13,17248856
+2012,tt1547234,Premium Rush,ok,PASS,action,PG13,35512350
+2012,tt1234719,Red Dawn,notalk,FAIL,,,65951507
+2012,tt0485985,Red Tails,men,FAIL,,,58849037
+2012,tt1446192,Rise of the Guardians,notalk,FAIL,,,147122592
+2012,tt1336608,Rock of Ages,ok,PASS,comedy,PG13,71024700
+2012,tt1656190,Safe,notalk,FAIL,,,33483073
+2012,tt1862079,Safety Not Guaranteed,ok,PASS,drama,R,760979
+2012,tt1931533,Seven Psychopaths,notalk,FAIL,,,13697621
+2012,tt0938330,Silent Hill: Revelation 3D,ok,PASS,horror,R,20292771
+2012,tt1045658,Silver Linings Playbook,ok,PASS,drama,R,21307410
+2012,tt1922777,Sinister,men,FAIL,,,3043916
+2012,tt1074638,Skyfall,dubious,FAIL,,,202927713
+2012,tt1735898,Snow White and the Huntsman,ok,PASS,action,PG13,172488556
+2012,tt1876451,Sparkle,ok,PASS,drama,PG13,10146386
+2012,tt2101441,Spring Breakers,ok,PASS,drama,R,5073193
+2012,tt1800741,Step Up Revolution,ok,PASS,drama,PG13,33483073
+2012,tt1874789,Supporting Characters,men,FAIL,,,60878
+2012,tt1637725,Ted,men,FAIL,,,50731928
+2012,tt1232200,That&#39;s My Boy,notalk,FAIL,,,68488103
+2012,tt0948470,The Amazing Spider-Man,men,FAIL,,,223220484
+2012,tt0848228,The Avengers,notalk,FAIL,,,60878314
+2012,tt1345836,The Dark Knight Rises,notalk,FAIL,,,279025606
+2012,tt1560985,The Devil Inside,ok,PASS,horror,R,1014639
+2012,tt1645170,The Dictator,notalk,FAIL,,,65951507
+2012,tt1764651,The Expendables 2,ok,PASS,action,R,101463857
+2012,tt1601913,The Grey,nowomen,FAIL,,,25365964
+2012,tt0903624,The Hobbit: An Unexpected Journey,nowomen,FAIL,,,253659641
+2012,tt1392170,The Hunger Games,ok,PASS,scifi,PG13,81171085
+2012,tt1649419,The Impossible,men,FAIL,,,40585543
+2012,tt1258972,The Man with the Iron Fists,notalk,FAIL,,,15219578
+2012,tt1560747,The Master,notalk,FAIL,,,38048946
+2012,tt1430626,The Pirates! Band of Misfits,notalk,FAIL,,,55805121
+2012,tt1817273,The Place Beyond the Pines,notalk,FAIL,,,15219578
+2012,tt1673434,The Twilight Saga: Breaking Dawn - Part 2,dubious,FAIL,,,138193773
+2012,tt1606389,The Vow,ok,PASS,romance,PG13,8866236
+2012,tt1298649,The Watch,men,FAIL,,,55805121
+2012,tt1596365,The Woman in Black,notalk,FAIL,,,15219578
+2012,tt1840417,The Words,notalk,FAIL,,,6087831
+2012,tt1621045,Think Like a Man,ok,PASS,romance,PG13,12175663
+2012,tt1859650,To Rome With Love,men,FAIL,,,21814729
+2012,tt1386703,Total Recall,notalk,FAIL,,,126829821
+2012,tt1496025,Underworld: Awakening,ok,PASS,action,R,71024700
+2012,tt1655460,Wanderlust,ok,PASS,comedy,R,32975753
+2012,tt1586265,What to Expect When You&#39;re Expecting,ok,PASS,comedy,PG13,38048946
+2012,tt1870529,Won&#39;t Back Down,ok,PASS,drama,PG,19278133
+2012,tt1646987,Wrath of the Titans,notalk,FAIL,,,152195785
+2012,tt1772341,Wreck-It Ralph,ok,PASS,kids,PG,167415363
+2012,tt1790885,Zero Dark Thirty,ok,PASS,drama,R,53268525
+2011,tt1622547,30 Minutes or Less,notalk,FAIL,,,28999342
+2011,tt1306980,50/50,men,FAIL,,,8285526
+2011,tt1571222,A Dangerous Method,dubious,FAIL,,,20713816
+2011,tt1422136,A Lonely Place to Die,ok,PASS,action,R,4142763
+2011,tt1268799,A Very Harold &amp; Kumar 3D Christmas,notalk,FAIL,,,20713816
+2011,tt1549572,Another Earth,ok,PASS,drama,PG13,181246
+2011,tt1772240,Apollo 18,nowomen,FAIL,,,5178454
+2011,tt1430607,Arthur Christmas,notalk,FAIL,,,88033717
+2011,tt1478964,Attack the Block,ok,PASS,action,R,13463980
+2011,tt1284575,Bad Teacher,ok,PASS,comedy,R,19678125
+2011,tt1217613,Battle: Los Angeles,notalk,FAIL,,,72498355
+2011,tt1152398,Beastly,notalk,FAIL,,,17606743
+2011,tt1629705,Blackthorn,notalk,FAIL,,,4660609
+2011,tt1478338,Bridesmaids,ok,PASS,comedy,R,33659951
+2011,tt0458339,Captain America: The First Avenger,notalk,FAIL,,,144996710
+2011,tt1216475,Cars 2,men,FAIL,,,207138157
+2011,tt1684628,Circumstance,ok,PASS,drama,R,932122
+2011,tt1657507,Colombiana,notalk,FAIL,,,41427631
+2011,tt0816462,Conan the Barbarian,dubious,FAIL,,,20713816
+2011,tt1598778,Contagion,ok,PASS,drama,PG13,62141447
+2011,tt1372686,Coriolanus,men,FAIL,,,10356908
+2011,tt0409847,Cowboys &amp; Aliens,notalk,FAIL,,,168817598
+2011,tt1701990,Detention,ok,PASS,comedy,R,10356908
+2011,tt1650043,Diary of a Wimpy Kid: Rodrick Rules,notalk,FAIL,,,18642434
+2011,tt1564349,Dolphin Tale,men,FAIL,,,38320559
+2011,tt1462041,Dream House,ok,PASS,drama,PG13,51784539
+2011,tt0780504,Drive,dubious,FAIL,,,15535362
+2011,tt1596343,Fast Five,ok,PASS,action,PG13,129461348
+2011,tt1622979,Final Destination 5,men,FAIL,,,41427631
+2011,tt1068242,Footloose,ok,PASS,drama,PG13,24856579
+2011,tt1438176,Fright Night,dubious,FAIL,,,31070724
+2011,tt1133985,Green Lantern,notalk,FAIL,,,207138157
+2011,tt0480687,Hall Pass,men,FAIL,,,37284868
+2011,tt0993842,Hanna,ok,PASS,action,PG13,31070724
+2011,tt1201607,Harry Potter and the Deathly Hallows: Part 2,notalk,FAIL,,,129461348
+2011,tt1506999,Haywire,nowomen,FAIL,,,23820888
+2011,tt1403177,Hesher,notalk,FAIL,,,7249836
+2011,tt1562568,Higher Ground,ok,PASS,drama,R,1864243
+2011,tt1640459,Hobo with a Shotgun,nowomen,FAIL,,,3107072
+2011,tt1411704,Hop,men,FAIL,,,65248520
+2011,tt1499658,Horrible Bosses,ok,PASS,comedy,R,36249178
+2011,tt0970179,Hugo,dubious,FAIL,,,186424342
+2011,tt1464540,I Am Number Four,notalk,FAIL,,,51784539
+2011,tt1253864,Immortals,men,FAIL,,,77676809
+2011,tt1637688,In Time,notalk,FAIL,,,36249178
+2011,tt1410063,Jin ling shi san chai,ok,PASS,drama,R,103569079
+2011,tt1634122,Johnny English Reborn,dubious,FAIL,,,46606085
+2011,tt1640484,Jumping the Broom,ok,PASS,comedy,PG13,7249836
+2011,tt1564367,Just Go with It,dubious,FAIL,,,82855263
+2011,tt1788391,Kill List,dubious,FAIL,,,828553
+2011,tt1448755,Killer Elite,nowomen,FAIL,,,72498355
+2011,tt1302011,Kung Fu Panda 2,ok,PASS,kids,PG,155353618
+2011,tt1508675,Le Havre,dubious,FAIL,,,5696299
+2011,tt1758692,Like Crazy,ok,PASS,romance,PG13,258923
+2011,tt1219289,Limitless,notalk,FAIL,,,27963651
+2011,tt0466893,Margaret,ok,PASS,drama,R,14499671
+2011,tt1615147,Margin Call,notalk,FAIL,,,3521349
+2011,tt1305591,Mars Needs Moms,dubious,FAIL,,,155353618
+2011,tt1441326,Martha Marcy May Marlene,ok,PASS,drama,R,1035691
+2011,tt1527186,Melancholia,ok,PASS,drama,R,9735493
+2011,tt1605783,Midnight in Paris,ok,PASS,romance,PG13,31070724
+2011,tt1229238,Mission: Impossible - Ghost Protocol,notalk,FAIL,,,150175164
+2011,tt1210166,Moneyball,notalk,FAIL,,,51784539
+2011,tt1396218,Mr. Popper&#39;s Penguins,notalk,FAIL,,,56962993
+2011,tt1598822,New Year&#39;s Eve,ok,PASS,comedy,PG13,26927960
+2011,tt1411238,No Strings Attached,ok,PASS,romance,R,25892270
+2011,tt1720182,October Baby,ok,PASS,drama,PG13,1035691
+2011,tt1637706,Our Idiot Brother,ok,PASS,comedy,R,5178454
+2011,tt1778304,Paranormal Activity 3,ok,PASS,horror,R,5178454
+2011,tt1092026,Paul,ok,PASS,comedy,R,41427631
+2011,tt1298650,Pirates of the Caribbean: On Stranger Tides,notalk,FAIL,,,258922697
+2011,tt0822847,Priest,notalk,FAIL,,,62141447
+2011,tt0448694,Puss in Boots,notalk,FAIL,,,134639802
+2011,tt1192628,Rango,notalk,FAIL,,,139818256
+2011,tt0433035,Real Steel,notalk,FAIL,,,113925987
+2011,tt1486185,Red Riding Hood,ok,PASS,horror,PG13,43499013
+2011,tt0873886,Red State,ok,PASS,horror,R,4142763
+2011,tt1498569,Restless,ok,PASS,romance,PG13,8285526
+2011,tt1436562,Rio,notalk,FAIL,,,93212171
+2011,tt1318514,Rise of the Planet of the Apes,notalk,FAIL,,,96319243
+2011,tt1723811,Shame,notalk,FAIL,,,6731990
+2011,tt1541995,Snow Flower and the Secret Fan,ok,PASS,drama,PG13,6214145
+2011,tt1596346,Soul Surfer,ok,PASS,drama,PG,18642434
+2011,tt0945513,Source Code,notalk,FAIL,,,33142105
+2011,tt0999913,Straw Dogs,ok,PASS,horror,R,25892270
+2011,tt0978764,Sucker Punch,ok,PASS,action,PG13,77676809
+2011,tt1650062,Super 8,ok,PASS,scifi,PG13,51784539
+2011,tt1675192,Take Shelter,ok,PASS,drama,R,4919531
+2011,tt1385826,The Adjustment Bureau,dubious,FAIL,,,51991677
+2011,tt0983193,The Adventures of Tintin,notalk,FAIL,,,134639802
+2011,tt1655442,The Artist,notalk,FAIL,,,16571053
+2011,tt1412386,The Best Exotic Marigold Hotel,ok,PASS,drama,PG13,10356908
+2011,tt1259521,The Cabin in the Woods,dubious,FAIL,,,31070724
+2011,tt1093357,The Darkest Hour,ok,PASS,action,PG13,36042039
+2011,tt1535616,The Divide,ok,PASS,drama,R,3107072
+2011,tt1235170,The Future,ok,PASS,drama,R,1035691
+2011,tt1568346,The Girl with the Dragon Tattoo,notalk,FAIL,,,93212171
+2011,tt0990407,The Green Hornet,notalk,FAIL,,,113925987
+2011,tt1540133,The Guard,notalk,FAIL,,,6214145
+2011,tt1454029,The Help,ok,PASS,drama,PG13,25892270
+2011,tt1007029,The Iron Lady,ok,PASS,drama,PG13,14499671
+2011,tt1189340,The Lincoln Lawyer,notalk,FAIL,,,41427631
+2011,tt0472399,The Mechanic,nowomen,FAIL,,,44016858
+2011,tt1204342,The Muppets,notalk,FAIL,,,46606085
+2011,tt1161864,The Rite,dubious,FAIL,,,38320559
+2011,tt1265990,The Roommate,ok,PASS,horror,PG13,16571053
+2011,tt0472181,The Smurfs,ok,PASS,kids,PG,113925987
+2011,tt1509767,The Three Musketeers,men,FAIL,,,93212171
+2011,tt0478304,The Tree of Life,nowomen,FAIL,,,36249178
+2011,tt1324999,The Twilight Saga: Breaking Dawn - Part 1,ok,PASS,drama,PG13,132050575
+2011,tt0800369,Thor,ok,PASS,action,PG13,155353618
+2011,tt1340800,Tinker Tailor Soldier Spy,notalk,FAIL,,,21749507
+2011,tt0471042,Tower Heist,notalk,FAIL,,,88033717
+2011,tt1399103,Transformers: Dark of the Moon,ok,PASS,action,PG13,201959703
+2011,tt1568911,War Horse,notalk,FAIL,,,72498355
+2011,tt1291584,Warrior,notalk,FAIL,,,25892270
+2011,tt1389137,We Bought a Zoo,men,FAIL,,,51784539
+2011,tt1714210,Weekend,notalk,FAIL,,,196781
+2011,tt0770703,What&#39;s Your Number,ok,PASS,comedy,R,20713816
+2011,tt1449283,Winnie the Pooh,nowomen,FAIL,,,31070724
+2011,tt1270798,X-Men: First Class,ok,PASS,action,PG13,165710526
+2011,tt1625346,Young Adult,ok,PASS,drama,R,12428289
+2011,tt1742336,Your Sister&#39;s Sister,ok,PASS,drama,R,124283
+2010,tt1542344,127 Hours,dubious,FAIL,,,19228173
+2010,tt1014759,Alice in Wonderland,ok,PASS,kids,PG,213646368
+2010,tt1313092,Animal Kingdom,notalk,FAIL,,,4486574
+2010,tt1431181,Another Year,ok,PASS,drama,PG13,8545855
+2010,tt1423894,Barney&#39;s Version,ok,PASS,drama,R,32046955
+2010,tt1532503,Beginners,notalk,FAIL,,,3418342
+2010,tt1164999,Biutiful,notalk,FAIL,,,37388114
+2010,tt0947798,Black Swan,ok,PASS,drama,R,13887014
+2010,tt1120985,Blue Valentine,men,FAIL,,,1068232
+2010,tt1126591,Burlesque,ok,PASS,drama,PG13,58752751
+2010,tt1194417,Casino Jack,notalk,FAIL,,,13352898
+2010,tt1020558,Centurion,notalk,FAIL,,,16023478
+2010,tt1438254,Charlie St. Cloud,notalk,FAIL,,,47002201
+2010,tt0800320,Clash of the Titans,dubious,FAIL,,,133528980
+2010,tt1244754,Conviction,ok,PASS,drama,R,13352898
+2010,tt1385867,Cop Out,notalk,FAIL,,,39524578
+2010,tt1555064,Country Strong,ok,PASS,drama,PG13,16023478
+2010,tt1336617,Cyrus,notalk,FAIL,,,7477623
+2010,tt1279935,Date Night,ok,PASS,comedy,PG13,58752751
+2010,tt0989757,Dear John,nowomen,FAIL,,,26705796
+2010,tt1323594,Despicable Me,ok,PASS,kids,PG,73707997
+2010,tt1314655,Devil,ok,PASS,horror,PG13,10682318
+2010,tt1196141,Diary of a Wimpy Kid,ok,PASS,kids,PG,16023478
+2010,tt0427152,Dinner for Schmucks,notalk,FAIL,,,73707997
+2010,tt1270761,Don&#39;t Be Afraid of the Dark,ok,PASS,horror,R,26705796
+2010,tt1231583,Due Date,notalk,FAIL,,,69435070
+2010,tt1013860,Dylan Dog: Dead of Night,nowomen,FAIL,,,21364637
+2010,tt1282140,Easy A,ok,PASS,comedy,PG13,8545855
+2010,tt0879870,"Eat, Pray, Love",ok,PASS,drama,PG13,64093910
+2010,tt1226273,Edge of Darkness,notalk,FAIL,,,64093910
+2010,tt1531663,Everything Must Go,notalk,FAIL,,,5341159
+2010,tt0977855,Fair Game,ok,PASS,drama,PG13,53411592
+2010,tt1433108,Faster,nowomen,FAIL,,,12818782
+2010,tt1405500,For Colored Girls,ok,PASS,drama,R,22432869
+2010,tt1323045,Frozen,notalk,FAIL,,,160234776
+2010,tt1226229,Get Him To The Greek,notalk,FAIL,,,42729274
+2010,tt1322312,Going the Distance,ok,PASS,romance,R,34183419
+2010,tt0947810,Green Zone,nowomen,FAIL,,,106823184
+2010,tt1375670,Grown Ups,ok,PASS,comedy,PG13,80117388
+2010,tt1376195,Gunless,men,FAIL,,,10575495
+2010,tt0926084,Harry Potter and the Deathly Hallows: Part 1,ok,PASS,drama,PG13,133528980
+2010,tt1231587,Hot Tub Time Machine,notalk,FAIL,,,38456346
+2010,tt0892769,How to Train Your Dragon,ok,PASS,kids,PG,176258254
+2010,tt1226236,I Am Love,ok,PASS,romance,R,10682318
+2010,tt1375666,Inception,dubious,FAIL,,,170917095
+2010,tt1591095,Insidious,ok,PASS,horror,PG13,1602348
+2010,tt1228705,Iron Man 2,ok,PASS,action,PG13,181599413
+2010,tt0804497,It&#39;s Kind of a Funny Story,notalk,FAIL,,,8545855
+2010,tt1250777,Kick-Ass,notalk,FAIL,,,29910492
+2010,tt1013743,Knight and Day,men,FAIL,,,124983125
+2010,tt1038686,Legion,ok,PASS,action,R,27774028
+2010,tt1228987,Let Me In,notalk,FAIL,,,21364637
+2010,tt0892318,Letters to Juliet,dubious,FAIL,,,32046955
+2010,tt0758752,Love and Other Drugs,men,FAIL,,,32046955
+2010,tt0985694,Machete,ok,PASS,action,R,13352898
+2010,tt1371155,Made In Dagenham,ok,PASS,drama,R,8545855
+2010,tt1518812,Meek&#39;s Cutoff,men,FAIL,,,2136464
+2010,tt1001526,Megamind,nowomen,FAIL,,,138870139
+2010,tt1470827,Monsters,nowomen,FAIL,,,534116
+2010,tt1126618,Morning Glory,ok,PASS,drama,PG13,42729274
+2010,tt1415283,Nanny McPhee and the Big Bang,ok,PASS,kids,PG,37388114
+2010,tt1334260,Never Let Me Go,ok,PASS,drama,R,16023478
+2010,tt1536044,Paranormal Activity 2,ok,PASS,horror,R,3204696
+2010,tt0814255,Percy Jackson &amp; the Olympians: The Lightning Thief,dubious,FAIL,,,101482025
+2010,tt0878835,Please Give,ok,PASS,drama,R,3204696
+2010,tt1424381,Predators,nowomen,FAIL,,,42729274
+2010,tt0473075,Prince of Persia: The Sands of Time,nowomen,FAIL,,,213646368
+2010,tt0935075,Rabbit Hole,ok,PASS,drama,PG13,5341159
+2010,tt0493949,Ramona and Beezus,ok,PASS,kids,G,16023478
+2010,tt1245526,Red,men,FAIL,,,64093910
+2010,tt1403981,Remember Me,ok,PASS,romance,PG13,17091709
+2010,tt1053424,Repo Men,ok,PASS,action,R,34183419
+2010,tt0955308,Robin Hood,dubious,FAIL,,,224328687
+2010,tt0944835,Salt,ok,PASS,action,PG13,138870139
+2010,tt0446029,Scott Pilgrim vs. the World,ok,PASS,comedy,PG13,90799707
+2010,tt1028576,Secretariat,ok,PASS,drama,PG,37388114
+2010,tt1261945,Sex and the city 2,ok,PASS,drama,R,101482025
+2010,tt0892791,Shrek Forever After,notalk,FAIL,,,176258254
+2010,tt1130884,Shutter Island,notalk,FAIL,,,85458547
+2010,tt1564585,Skyline,dubious,FAIL,,,10682318
+2010,tt1421051,Somewhere,dubious,FAIL,,,7477623
+2010,tt1440292,Submarine,notalk,FAIL,,,2029641
+2010,tt1512235,Super,notalk,FAIL,,,2670580
+2010,tt1135084,Takers,notalk,FAIL,,,34183419
+2010,tt0398286,Tangled,ok,PASS,kids,PG,277740279
+2010,tt0429493,The A-Team,nowomen,FAIL,,,117505503
+2010,tt1212436,The Back-up Plan,ok,PASS,comedy,PG13,37388114
+2010,tt0980970,The Chronicles of Narnia: The Voyage of the Dawn Treader,ok,PASS,kids,PG,165575935
+2010,tt0968264,The Conspirator,dubious,FAIL,,,26705796
+2010,tt0455407,The Crazies,ok,PASS,horror,R,20296405
+2010,tt1226753,The Debt,ok,PASS,drama,R,21364637
+2010,tt1320253,The Expendables,notalk,FAIL,,,87595011
+2010,tt0964517,The Fighter,men,FAIL,,,11750550
+2010,tt1139328,The Ghost Writer,men,FAIL,,,48070433
+2010,tt0775489,The Illusionist,nowomen,FAIL,,,17625825
+2010,tt1155076,The Karate Kid,dubious,FAIL,,,42729274
+2010,tt0842926,The Kids Are All Right,ok,PASS,drama,R,4272927
+2010,tt0954947,The Killer Inside Me,notalk,FAIL,,,13887014
+2010,tt1504320,The King&#39;s Speech,ok,PASS,drama,R,16023478
+2010,tt0938283,The Last Airbender,notalk,FAIL,,,160234776
+2010,tt1320244,The Last Exorcism,ok,PASS,horror,PG13,1922817
+2010,tt0480255,The Losers,notalk,FAIL,,,26705796
+2010,tt1458175,The Next Three Days,ok,PASS,drama,PG13,32046955
+2010,tt1386588,The Other Guys,nowomen,FAIL,,,106823184
+2010,tt1017451,The Runaways,ok,PASS,drama,R,10148202
+2010,tt1285016,The Social Network,notalk,FAIL,,,42729274
+2010,tt0963966,The Sorcerer&#39;s Apprentice,notalk,FAIL,,,170917095
+2010,tt1273678,The Spy Next Door,ok,PASS,action,PG,29910492
+2010,tt0889573,The Switch,men,FAIL,,,20296405
+2010,tt1274300,The Tempest,ok,PASS,drama,PG13,21364637
+2010,tt1243957,The Tourist,nowomen,FAIL,,,106823184
+2010,tt0840361,The Town,notalk,FAIL,,,39524578
+2010,tt1325004,The Twilight Saga: Eclipse,ok,PASS,drama,PG13,72639765
+2010,tt0780653,The Wolfman,notalk,FAIL,,,160234776
+2010,tt1570989,Tiny Furniture,ok,PASS,drama,NR,53412
+2010,tt0435761,Toy Story 3,dubious,FAIL,,,213646368
+2010,tt1104001,Tron Legacy,notalk,FAIL,,,213646368
+2010,tt1403865,True Grit,ok,PASS,drama,PG13,37388114
+2010,tt1465522,Tucker and Dale vs Evil,ok,PASS,horror,R,5341159
+2010,tt0477080,Unstoppable,dubious,FAIL,,,101482025
+2010,tt0817230,Valentine&#39;s Day,ok,PASS,romance,PG13,55548056
+2010,tt1027718,Wall Street: Money Never Sleeps,dubious,FAIL,,,74776229
+2010,tt1183923,Welcome to the Rileys,ok,PASS,drama,R,10682318
+2010,tt1235189,Wild Target,notalk,FAIL,,,8545855
+2010,tt1399683,Winter&#39;s Bone,ok,PASS,drama,R,2136464
+2010,tt1216520,Womb,ok,PASS,drama,NR,13887014
+2010,tt1302067,Yogi Bear,nowomen,FAIL,,,85458547
+2010,tt1414382,You Again,ok,PASS,comedy,PG,21364637
+2010,tt1182350,You Will Meet a Tall Dark Stranger,ok,PASS,drama,R,16023478
+2009,tt1022603,(500) Days of Summer,notalk,FAIL,,,8142987
+2009,tt0974661,17 Again,ok,PASS,comedy,PG13,43429264
+2009,tt1190080,2012,notalk,FAIL,,,217146319
+2009,tt0472033,9,nowomen,FAIL,,,32571948
+2009,tt0971209,A Perfect Getaway,dubious,FAIL,,,15200242
+2009,tt1019452,A Serious Man,men,FAIL,,,7600121
+2009,tt1315981,A Single Man,notalk,FAIL,,,7600121
+2009,tt1185836,Adam,men,FAIL,,,3474341
+2009,tt1091722,Adventureland,men,FAIL,,,10640170
+2009,tt1186830,Agora,notalk,FAIL,,,76001212
+2009,tt1077262,Ajami,men,FAIL,,,1085732
+2009,tt0881891,All About Steve,ok,PASS,comedy,PG13,16285974
+2009,tt1174732,An Education,ok,PASS,drama,PG13,8142987
+2009,tt0808151,Angels &amp; Demons,nowomen,FAIL,,,162859739
+2009,tt0913354,Armored,nowomen,FAIL,,,21714632
+2009,tt0375568,Astro Boy,dubious,FAIL,,,70572554
+2009,tt0499549,Avatar,men,FAIL,,,461435929
+2009,tt1176740,Away We Go,ok,PASS,comedy,R,22800364
+2009,tt0889583,Br&uuml;no,nowomen,FAIL,,,45600727
+2009,tt0901476,Bride Wars,ok,PASS,comedy,PG,32571948
+2009,tt0810784,Bright Star,ok,PASS,romance,PG,9228719
+2009,tt1210042,Brooklyn&#39;s Finest,notalk,FAIL,,,18457437
+2009,tt0765010,Brothers,ok,PASS,drama,R,28229022
+2009,tt1232207,Capitalism: A Love Story,notalk,FAIL,,,21714632
+2009,tt0795351,Case 39,ok,PASS,horror,R,29314753
+2009,tt1352824,Chloe,men,FAIL,,,14114511
+2009,tt0844471,Cloudy with a Chance of Meatballs,notalk,FAIL,,,108573160
+2009,tt1035736,Coco avant Chanel,ok,PASS,drama,PG13,24971827
+2009,tt0327597,Coraline,ok,PASS,kids,PG,65143896
+2009,tt0433362,Daybreakers,notalk,FAIL,,,21714632
+2009,tt1278340,Dead Snow,men,FAIL,,,868585
+2009,tt1136608,District 9,notalk,FAIL,,,32571948
+2009,tt1127180,Drag Me to Hell,ok,PASS,horror,PG13,32571948
+2009,tt1191111,Enter the Void,notalk,FAIL,,,17371706
+2009,tt0780511,Everybody&#39;s Fine,men,FAIL,,,21714632
+2009,tt0432283,Fantastic Mr. Fox,notalk,FAIL,,,43429264
+2009,tt1013752,Fast &amp; Furious,notalk,FAIL,,,92287186
+2009,tt1083456,Fired Up!,notalk,FAIL,,,21714632
+2009,tt1232776,Fish Tank,ok,PASS,drama,NR,3257195
+2009,tt0758746,Friday the 13th,men,FAIL,,,18457437
+2009,tt1201167,Funny People,notalk,FAIL,,,78715541
+2009,tt0436339,G-Force,notalk,FAIL,,,162859739
+2009,tt1046173,G.I. Joe: The Rise of Cobra,notalk,FAIL,,,190003029
+2009,tt1034032,Gamer,notalk,FAIL,,,54286580
+2009,tt1194263,Get Low,notalk,FAIL,,,7600121
+2009,tt1289406,Harry Brown,notalk,FAIL,,,7925841
+2009,tt0417741,Harry Potter and the Half-Blood Prince,ok,PASS,drama,PG,271432899
+2009,tt1001508,He&#39;s Just Not That Into You,ok,PASS,romance,PG13,43429264
+2009,tt1024744,I Come with the Rain,nowomen,FAIL,,,19543169
+2009,tt1045772,I Love You Phillip Morris,notalk,FAIL,,,14114511
+2009,tt1155056,"I Love You, Man",men,FAIL,,,43429264
+2009,tt1080016,Ice Age: Dawn of the Dinosaurs,notalk,FAIL,,,97715844
+2009,tt0361748,Inglourious Basterds,dubious,FAIL,,,76001212
+2009,tt1057500,Invictus,notalk,FAIL,,,53200848
+2009,tt1230414,It&#39;s Complicated,ok,PASS,romance,R,92287186
+2009,tt1131734,Jennifer&#39;s Body,ok,PASS,horror,R,17371706
+2009,tt1135503,Julie &amp; Julia,ok,PASS,drama,PG13,43429264
+2009,tt0448011,Knowing,notalk,FAIL,,,54286580
+2009,tt1197624,Law Abiding Citizen,notalk,FAIL,,,57543775
+2009,tt0808526,Life During Wartime,ok,PASS,drama,R,4885792
+2009,tt1149361,Micmacs (Micmacs &agrave; tire-larigot),dubious,FAIL,,,45600727
+2009,tt0892782,Monsters vs Aliens,dubious,FAIL,,,190003029
+2009,tt1182345,Moon,notalk,FAIL,,,5428658
+2009,tt1121977,Mother and Child,ok,PASS,drama,R,7600121
+2009,tt1179891,My Bloody Valentine 3D,men,FAIL,,,15200242
+2009,tt1078588,My Sister&#39;s Keeper,ok,PASS,drama,PG13,29857619
+2009,tt0875034,Nine,men,FAIL,,,86858528
+2009,tt1186367,Ninja Assassin,notalk,FAIL,,,54286580
+2009,tt1266029,Nowhere Boy,dubious,FAIL,,,2062890
+2009,tt1235796,Ondine,ok,PASS,romance,PG13,13028779
+2009,tt1532957,Paa,men,FAIL,,,4668646
+2009,tt1188729,Pandorum,notalk,FAIL,,,43429264
+2009,tt1003034,Perrier&#39;s Bounty,nowomen,FAIL,,,7165829
+2009,tt0762125,Planet 51,notalk,FAIL,,,65143896
+2009,tt0929632,Precious: Based on the Novel Push by Sapphire,ok,PASS,drama,R,10857316
+2009,tt1152836,Public Enemies,notalk,FAIL,,,111287489
+2009,tt0465580,Push,ok,PASS,action,PG13,41257801
+2009,tt0988045,Sherlock Holmes,notalk,FAIL,,,97715844
+2009,tt1017460,Splice,ok,PASS,horror,R,32571948
+2009,tt0796366,Star Trek,ok,PASS,action,PG13,152002424
+2009,tt0473705,State of Play,ok,PASS,drama,PG13,65143896
+2009,tt0986263,Surrogates,notalk,FAIL,,,86858528
+2009,tt0438488,Terminator Salvation,men,FAIL,,,217146319
+2009,tt0878804,The Blind Side,men,FAIL,,,38000606
+2009,tt1131729,The Boat That Rocked,nowomen,FAIL,,,54286580
+2009,tt1300851,The Boondock Saints II: All Saints Day,nowomen,FAIL,,,8685853
+2009,tt0362478,The Box,ok,PASS,drama,PG13,27143290
+2009,tt0896923,The City of Your Final Destination,ok,PASS,drama,PG13,9011572
+2009,tt1144884,The Final Destination,ok,PASS,horror,R,43429264
+2009,tt1220198,The Fourth Kind,ok,PASS,horror,PG13,10857316
+2009,tt1132620,The Girl with the Dragon Tattoo,dubious,FAIL,,,97715844
+2009,tt1103982,The Girlfriend Experience,dubious,FAIL,,,1411451
+2009,tt1247662,The Good Guy,ok,PASS,romance,R,10857316
+2009,tt1119646,The Hangover,notalk,FAIL,,,38000606
+2009,tt1054606,The Imaginarium of Doctor Parnassus,notalk,FAIL,,,32571948
+2009,tt1130080,The Informant!,notalk,FAIL,,,23886095
+2009,tt1058017,The Invention of Lying,men,FAIL,,,20086035
+2009,tt0824758,The Last Station,ok,PASS,drama,R,19543169
+2009,tt0380510,The Lovely Bones,ok,PASS,drama,PG13,103144502
+2009,tt1234548,The Men Who Stare at Goats,nowomen,FAIL,,,26057558
+2009,tt0790712,The Messenger,notalk,FAIL,,,7057255
+2009,tt0780521,The Princess and the Frog,ok,PASS,kids,G,114001818
+2009,tt1041829,The Proposal,men,FAIL,,,43429264
+2009,tt0898367,The Road,notalk,FAIL,,,27143290
+2009,tt0485601,The Secret of Kells,nowomen,FAIL,,,8685853
+2009,tt0821642,The Soloist,notalk,FAIL,,,65143896
+2009,tt1111422,The Taking of Pelham 123,nowomen,FAIL,,,119430476
+2009,tt0452694,The Time Traveler&#39;s Wife,dubious,FAIL,,,42343532
+2009,tt1142988,The Ugly Truth,men,FAIL,,,41257801
+2009,tt1139668,The Unborn,ok,PASS,horror,PG13,17371706
+2009,tt0962736,The Young Victoria,ok,PASS,drama,PG,38000606
+2009,tt1055369,Transformers: Revenge of the Fallen,ok,PASS,action,PG13,228003635
+2009,tt1049413,Up,notalk,FAIL,,,190003029
+2009,tt1193138,Up in the Air,men,FAIL,,,32571948
+2009,tt1068678,Veronika Decides to Die,ok,PASS,drama,R,9771584
+2009,tt0409459,Watchmen,men,FAIL,,,149830960
+2009,tt1178663,Whatever Works,dubious,FAIL,,,16285974
+2009,tt0386117,Where the Wild Things Are,notalk,FAIL,,,108573160
+2009,tt1172233,Whip It,ok,PASS,drama,PG13,16285974
+2009,tt0365929,Whiteout,ok,PASS,action,R,38000606
+2009,tt0458525,X-Men Origins: Wolverine,dubious,FAIL,,,162859739
+2009,tt0448182,Yesterday Was a Lie,ok,PASS,drama,PG,217146
+2009,tt0403702,Youth in Revolt,notalk,FAIL,,,19543169
+2009,tt1156398,Zombieland,ok,PASS,comedy,R,25623266
+2008,tt0478087,21,ok,PASS,drama,PG13,37878971
+2008,tt0800308,Appaloosa,notalk,FAIL,,,21645126
+2008,tt0455824,Australia,men,FAIL,,,140693320
+2008,tt0871426,Baby Mama,ok,PASS,comedy,PG13,32467689
+2008,tt0799934,Be Kind Rewind,notalk,FAIL,,,21645126
+2008,tt0960731,Bedtime Stories,ok,PASS,kids,PG,86580505
+2008,tt0861689,Blindness,ok,PASS,drama,R,27056408
+2008,tt0397892,Bolt,ok,PASS,kids,PG,162338447
+2008,tt0887883,Burn After Reading,notalk,FAIL,,,40043484
+2008,tt0824747,Changeling,ok,PASS,drama,R,59524097
+2008,tt0892255,Che: Part One,notalk,FAIL,,,62770866
+2008,tt0970411,City of Ember,ok,PASS,kids,PG,41125740
+2008,tt1060277,Cloverfield,ok,PASS,scifi,PG13,27056408
+2008,tt0489018,Day of the Dead,ok,PASS,horror,R,19480614
+2008,tt0452608,Death Race,notalk,FAIL,,,70346660
+2008,tt1034303,Defiance,ok,PASS,drama,R,54112816
+2008,tt0832266,"Definitely, Maybe",ok,PASS,romance,PG13,7575794
+2008,tt0483607,Doomsday,ok,PASS,action,R,35714458
+2008,tt0918927,Doubt,ok,PASS,drama,PG13,21645126
+2008,tt1059786,Eagle Eye,notalk,FAIL,,,86580505
+2008,tt0808244,Easy Virtue,ok,PASS,romance,PG13,15151588
+2008,tt1129423,Fireproof,men,FAIL,,,541128
+2008,tt0486321,Fly Me to the Moon,nowomen,FAIL,,,27056408
+2008,tt0800039,Forgetting Sarah Marshall,ok,PASS,comedy,R,32467689
+2008,tt0369436,Four Christmases,ok,PASS,comedy,PG13,86580505
+2008,tt0870111,Frost/Nixon,notalk,FAIL,,,31385433
+2008,tt0978759,Frozen River,ok,PASS,drama,R,1082256
+2008,tt0876563,Gake no ue no Ponyo,ok,PASS,kids,G,36796715
+2008,tt0995039,Ghost Town,notalk,FAIL,,,21645126
+2008,tt1205489,Gran Torino,men,FAIL,,,27056408
+2008,tt1104733,Hamlet 2,ok,PASS,comedy,R,9740307
+2008,tt0448157,Hancock,nowomen,FAIL,,,162338447
+2008,tt1227929,Herb &amp; Dorothy,ok,PASS,drama,NR,89286146
+2008,tt0962726,High School Musical 3: Senior Year,ok,PASS,kids,G,11904819
+2008,tt0465502,Igor,men,FAIL,,,32467689
+2008,tt0780536,In Bruges,notalk,FAIL,,,16233845
+2008,tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,notalk,FAIL,,,200217418
+2008,tt0494238,Inkheart,ok,PASS,kids,PG,64935379
+2008,tt0371746,Iron Man,men,FAIL,,,201299674
+2008,tt0373051,Journey to the Center of the Earth,notalk,FAIL,,,48701534
+2008,tt0489099,Jumper,notalk,FAIL,,,89286146
+2008,tt0441773,Kung Fu Panda,notalk,FAIL,,,140693320
+2008,tt1139797,L&aring;t den r&auml;tte komma in (Let the Right One In),notalk,FAIL,,,4870153
+2008,tt0866439,Made of Honor,men,FAIL,,,43290252
+2008,tt0467197,Max Payne,ok,PASS,action,PG13,37878971
+2008,tt0765476,Meet Dave,notalk,FAIL,,,64935379
+2008,tt1013753,Milk,notalk,FAIL,,,21645126
+2008,tt1046997,Miracle at St. Anna,men,FAIL,,,48701534
+2008,tt0981227,Nick and Norah&#39;s Infinite Playlist,ok,PASS,comedy,PG13,10822563
+2008,tt0410377,Nim&#39;s Island,ok,PASS,kids,PG,40043484
+2008,tt0910936,Pineapple Express,men,FAIL,,,28138664
+2008,tt1226681,Pontypool,nowomen,FAIL,,,1623384
+2008,tt0368563,Possession,ok,PASS,drama,PG13,27056408
+2008,tt0926129,Prom Night,ok,PASS,horror,PG13,19480614
+2008,tt0830515,Quantum of Solace,notalk,FAIL,,,248918952
+2008,tt1082868,Quarantine,ok,PASS,horror,R,12987076
+2008,tt1084950,Rachel Getting Married,ok,PASS,drama,R,12987076
+2008,tt0959337,Revolutionary Road,ok,PASS,romance,R,48701534
+2008,tt1032755,RocknRolla,notalk,FAIL,,,19480614
+2008,tt0814314,Seven Pounds,ok,PASS,drama,PG13,58441841
+2008,tt1000774,Sex and the City,ok,PASS,romance,R,62229738
+2008,tt1010048,Slumdog Millionaire,notalk,FAIL,,,15151588
+2008,tt0811080,Speed Racer,ok,PASS,kids,PG,129870757
+2008,tt0942903,Stargate: The Ark of Truth,dubious,FAIL,,,7575794
+2008,tt0838283,Step Brothers,notalk,FAIL,,,70346660
+2008,tt0862846,Sunshine Cleaning,ok,PASS,drama,R,5411282
+2008,tt0383028,"Synecdoche, New York",dubious,FAIL,,,21645126
+2008,tt0936501,Taken,ok,PASS,action,PG13,27056408
+2008,tt0200465,The Bank Job,ok,PASS,action,R,21645126
+2008,tt0844286,The Brothers Bloom,dubious,FAIL,,,21645126
+2008,tt0499448,The Chronicles of Narnia: Prince Caspian,ok,PASS,kids,PG,243507670
+2008,tt0421715,The Curious Case of Benjamin Button,dubious,FAIL,,,173161010
+2008,tt0468569,The Dark Knight,dubious,FAIL,,,200217418
+2008,tt0970416,The Day the Earth Stood Still,ok,PASS,scifi,PG13,86580505
+2008,tt0406759,The Eye,ok,PASS,horror,PG13,12987076
+2008,tt0865556,The Forbidden Kingdom,notalk,FAIL,,,59524097
+2008,tt0852713,The House Bunny,ok,PASS,comedy,PG13,27056408
+2008,tt0887912,The Hurt Locker,notalk,FAIL,,,16233845
+2008,tt0800080,The Incredible Hulk,notalk,FAIL,,,148810243
+2008,tt0981072,The Lucky Ones,ok,PASS,drama,R,15151588
+2008,tt0467200,The Other Boleyn Girl,ok,PASS,drama,PG13,43290252
+2008,tt0976051,The Reader,notalk,FAIL,,,35173330
+2008,tt0416212,The Secret Life of Bees,ok,PASS,drama,PG13,11904819
+2008,tt1018785,The Sisterhood of the Traveling Pants 2,ok,PASS,romance,PG13,29220920
+2008,tt0482606,The Strangers,dubious,FAIL,,,9740307
+2008,tt420238,The Tale of Despereaux,ok,PASS,kids,G,64935379
+2008,tt0430770,The Women,ok,PASS,comedy,PG13,17316101
+2008,tt1125849,The Wrestler,notalk,FAIL,,,6493538
+2008,tt0882978,Three Kingdoms: Resurrection of the Dragon,notalk,FAIL,,,21645126
+2008,tt0800241,Transsiberian,ok,PASS,drama,R,16233845
+2008,tt0942385,Tropic Thunder,nowomen,FAIL,,,97403068
+2008,tt1099212,Twilight,ok,PASS,romance,PG13,40043484
+2008,tt0985699,Valkyrie,notalk,FAIL,,,97403068
+2008,tt0497465,Vicky Cristina Barcelona,ok,PASS,romance,PG13,17316101
+2008,tt0910970,WALL-E,notalk,FAIL,,,194806136
+2008,tt1185616,Waltz with Bashir,nowomen,FAIL,,,2164513
+2008,tt0493464,Wanted,notalk,FAIL,,,81169223
+2008,tt0494652,"Welcome Home, Roscoe Jenkins",dubious,FAIL,,,29762049
+2008,tt1152850,Wendy and Lucy,ok,PASS,drama,R,324677
+2008,tt1033643,What Happens In Vegas,ok,PASS,comedy,PG13,37878971
+2008,tt1068680,Yes Man,notalk,FAIL,,,54112816
+2007,tt1038988,[Rec],ok,PASS,horror,R,2359441
+2007,tt0450385,1408,ok,PASS,horror,PG13,25279728
+2007,tt0463854,28 Weeks Later,ok,PASS,horror,R,16853152
+2007,tt0381849,3:10 to Yuma,nowomen,FAIL,,,53930087
+2007,tt0389722,30 Days of Night,men,FAIL,,,33706305
+2007,tt0411061,88 Minutes,notalk,FAIL,,,33706305
+2007,tt0445922,Across the Universe,ok,PASS,drama,PG13,50559457
+2007,tt0783233,Atonement,ok,PASS,drama,R,33706305
+2007,tt0416508,Becoming Jane,ok,PASS,drama,PG,18538467
+2007,tt0442933,Beowulf,ok,PASS,action,PG13,168531522
+2007,tt0445934,Blades of Glory,ok,PASS,comedy,PG13,68536152
+2007,tt0398808,Bridge to Terabithia,ok,PASS,drama,PG,28088587
+2007,tt0283503,Brooklyn Rules,ok,PASS,drama,R,8988348
+2007,tt0423977,Charlie Bartlett,men,FAIL,,,13482522
+2007,tt0472062,Charlie Wilson&#39;s War,ok,PASS,drama,R,84265761
+2007,tt0795368,Death at a Funeral,ok,PASS,comedy,R,23594413
+2007,tt0848557,Diary of the Dead,ok,PASS,horror,R,3089745
+2007,tt0486822,Disturbia,ok,PASS,horror,PG13,22470870
+2007,tt0765443,Eastern Promises,ok,PASS,drama,R,56177174
+2007,tt0461770,Enchanted,ok,PASS,kids,PG,95501196
+2007,tt0486576,Fantastic Four: Rise of the Silver Surfer,dubious,FAIL,,,134825218
+2007,tt0452623,Gone Baby Gone,ok,PASS,drama,R,21347326
+2007,tt0427327,Hairspray,ok,PASS,comedy,PG,84265761
+2007,tt0373883,Halloween,ok,PASS,horror,R,16853152
+2007,tt0367959,Hannibal Rising,notalk,FAIL,,,56177174
+2007,tt0373889,Harry Potter and the Order of the Phoenix,ok,PASS,drama,PG13,168531522
+2007,tt0465494,Hitman,nowomen,FAIL,,,19662011
+2007,tt0498353,Hostel: Part II,ok,PASS,horror,R,8426576
+2007,tt0425112,Hot Fuzz,notalk,FAIL,,,17976696
+2007,tt0787475,Hot Rod,notalk,FAIL,,,28088587
+2007,tt0480249,I Am Legend,ok,PASS,scifi,PG13,168531522
+2007,tt0758758,Into the Wild,notalk,FAIL,,,22470870
+2007,tt0467406,Juno,ok,PASS,comedy,PG13,7864804
+2007,tt0478311,Knocked Up,ok,PASS,comedy,R,30897446
+2007,tt0805564,Lars and the real Girl,ok,PASS,comedy,PG13,14044294
+2007,tt0337978,Live Free or Die Hard,notalk,FAIL,,,123589783
+2007,tt0465538,Michael Clayton,men,FAIL,,,24156185
+2007,tt0758766,Music and Lyrics,men,FAIL,,,44941739
+2007,tt0477348,No Country for Old Men,dubious,FAIL,,,28088587
+2007,tt0481141,No Reservations,ok,PASS,drama,PG,31459218
+2007,tt1179904,Paranormal Activity,dubious,FAIL,,,505595
+2007,tt0808417,Persepolis,ok,PASS,drama,PG13,8201867
+2007,tt0449088,Pirates of the Caribbean: At World&#39;s End,ok,PASS,action,PG13,337063045
+2007,tt0477071,Premonition,ok,PASS,drama,PG13,22470870
+2007,tt0382932,Ratatouille,nowomen,FAIL,,,168531522
+2007,tt0432021,Resident Evil: Extinction,ok,PASS,horror,R,50559457
+2007,tt00293564,Rush Hour 3,notalk,FAIL,,,202237827
+2007,tt0822854,Shooter,notalk,FAIL,,,67412609
+2007,tt0413267,Shrek the Third,ok,PASS,kids,PG,179766957
+2007,tt0964587,St. Trinian&#39;s,ok,PASS,comedy,PG13,12808396
+2007,tt0486655,Stardust,ok,PASS,kids,PG13,78648044
+2007,tt0448134,Sunshine,notalk,FAIL,,,44941739
+2007,tt0829482,Superbad,notalk,FAIL,,,19662011
+2007,tt0815244,Sydney White,ok,PASS,romance,PG13,18538467
+2007,tt0780622,Teeth,dubious,FAIL,,,2247087
+2007,tt0825232,The Bucket List,notalk,FAIL,,,50559457
+2007,tt0385752,The Golden Compass,ok,PASS,kids,PG13,230326414
+2007,tt0419887,The Kite Runner,nowomen,FAIL,,,22470870
+2007,tt0756683,The Man from Earth,notalk,FAIL,,,224709
+2007,tt0425430,The Messengers,ok,PASS,horror,PG13,17976696
+2007,tt0884328,The Mist,ok,PASS,horror,R,14606065
+2007,tt0481369,The Number 23,notalk,FAIL,,,35953391
+2007,tt0775529,The Savages,ok,PASS,drama,R,10111891
+2007,tt0780607,The Signal,men,FAIL,,,56177
+2007,tt0462538,The Simpsons Movie,ok,PASS,comedy,PG13,81456903
+2007,tt0857191,The Visitor,dubious,FAIL,,,4494174
+2007,tt0469494,There Will Be Blood,nowomen,FAIL,,,28088587
+2007,tt0453556,TMNT,notalk,FAIL,,,39324022
+2007,tt0418279,Transformers,notalk,FAIL,,,169655066
+2007,tt0861739,Tropa de Elite,ok,PASS,action,R,7345604
+2007,tt0473308,Waitress,ok,PASS,drama,PG13,1685315
+2007,tt0498399,We Own the Night,nowomen,FAIL,,,31459218
+2007,tt0496436,White Noise 2: The Light,notalk,FAIL,,,11235435
+2006,tt0416449,300,nowomen,FAIL,,,69347781
+2006,tt0405296,A Scanner Darkly,notalk,FAIL,,,23115927
+2006,tt0437800,Akeelah and the Bee,ok,PASS,drama,PG,9246371
+2006,tt0429591,Aquamarine,ok,PASS,kids,PG,13869556
+2006,tt0416496,Bandidas,ok,PASS,action,PG13,40452872
+2006,tt0454082,Black Christmas,ok,PASS,horror,R,10402167
+2006,tt0450259,Blood Diamond,notalk,FAIL,,,115579635
+2006,tt0479647,"Bon Cop, Bad Cop",notalk,FAIL,,,9246371
+2006,tt0443453,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,notalk,FAIL,,,20804334
+2006,tt0470705,Bug,ok,PASS,horror,R,4623185
+2006,tt0317219,Cars,notalk,FAIL,,,80905744
+2006,tt0381061,Casino Royale,notalk,FAIL,,,117891227
+2006,tt0206634,Children of Men,ok,PASS,drama,R,87840522
+2006,tt0424345,Clerks II,dubious,FAIL,,,5778982
+2006,tt0479884,Crank,nowomen,FAIL,,,13869556
+2006,tt0405094,Das Leben Der Anderen,nowomen,FAIL,,,2311593
+2006,tt0398913,DOA: Dead or Alive,ok,PASS,action,PG13,34673890
+2006,tt0457430,El laberinto del fauno (Pan's Labyrinth),ok,PASS,drama,R,18492742
+2006,tt0449010,Eragon,notalk,FAIL,,,115579635
+2006,tt0457572,Fido,men,FAIL,,,9246371
+2006,tt0414982,Final Destination 3,ok,PASS,horror,R,28894909
+2006,tt0424095,Flushed Away,nowomen,FAIL,,,172213656
+2006,tt0470765,For Your Consideration,ok,PASS,comedy,PG13,13869556
+2006,tt0436331,Friends with Money,ok,PASS,comedy,R,7512676
+2006,tt0438097,Ice Age: The Meltdown,notalk,FAIL,,,86684726
+2006,tt0417225,Idlewild,ok,PASS,drama,R,17336945
+2006,tt0454848,Inside Man,dubious,FAIL,,,57789817
+2006,tt0493430,Jackass Number Two,notalk,FAIL,,,12713760
+2006,tt0452637,Lady in the Water,men,FAIL,,,86684726
+2006,tt0408985,Last Holiday,ok,PASS,comedy,PG13,52010836
+2006,tt0498380,Letters from Iwo Jima,notalk,FAIL,,,15025353
+2006,tt0404203,Little Children,ok,PASS,drama,R,16181149
+2006,tt0449059,Little Miss Sunshine,ok,PASS,comedy,R,9246371
+2006,tt0490166,London To Brighton,ok,PASS,drama,R,953532
+2006,tt0425210,Lucky Number Slevin,notalk,FAIL,,,31206501
+2006,tt0483726,Man of the Year,notalk,FAIL,,,23115927
+2006,tt0422720,Marie Antoinette,ok,PASS,drama,PG13,46231854
+2006,tt0482546,Miss Potter,ok,PASS,drama,PG,34673890
+2006,tt0385880,Monster House,ok,PASS,kids,PG,86684726
+2006,tt0457510,Nacho Libre,nowomen,FAIL,,,36985483
+2006,tt0477347,Night at the Museum,ok,PASS,comedy,PG,127137598
+2006,tt0465551,Notes on a Scandal,ok,PASS,drama,R,31784400
+2006,tt0907657,Once,men,FAIL,,,173369
+2006,tt0400717,Open Season,notalk,FAIL,,,98242689
+2006,tt0401711,Paris je t&#39;aime,dubious,FAIL,,,15025353
+2006,tt0396171,Perfume: The Story of a Murderer,ok,PASS,drama,R,73624227
+2006,tt0383574,Pirates of the Caribbean: Dead Man&#39;s Chest,men,FAIL,,,260054178
+2006,tt0409182,Poseidon,men,FAIL,,,184927415
+2006,tt0451176,Quinceanera,ok,PASS,drama,R,462319
+2006,tt0405508,Rang De Basanti,ok,PASS,drama,NR,6125721
+2006,tt0439289,Running with Scissors,ok,PASS,drama,R,13869556
+2006,tt0454945,She&#39;s the Man,men,FAIL,,,28894909
+2006,tt0423169,Sherrybaby,dubious,FAIL,,,2311593
+2006,tt0367027,Shortbus,ok,PASS,drama,NR,2311593
+2006,tt0384537,Silent Hill,ok,PASS,horror,R,57789817
+2006,tt0439815,Slither,ok,PASS,horror,R,17625894
+2006,tt0475394,Smokin&#39; Aces,dubious,FAIL,,,19648538
+2006,tt0417148,Snakes on a Plane,ok,PASS,action,R,38141279
+2006,tt0405336,Southland Tales,ok,PASS,drama,R,19648538
+2006,tt0430634,Stick It,ok,PASS,comedy,PG13,23115927
+2006,tt0420223,Stranger Than Fiction,ok,PASS,drama,PG13,34673890
+2006,tt0348150,Superman Returns,notalk,FAIL,,,268144752
+2006,tt0446046,Take the Lead,ok,PASS,drama,PG13,34673890
+2006,tt0429589,The Ant Bully,men,FAIL,,,52010836
+2006,tt0452594,The Break Up,notalk,FAIL,,,60101410
+2006,tt0382625,The Da Vinci Code,notalk,FAIL,,,144474543
+2006,tt0783238,The Dead Girl,ok,PASS,drama,R,3814128
+2006,tt0407887,The Departed,notalk,FAIL,,,104021671
+2006,tt0458352,The Devil Wears Prada,ok,PASS,drama,PG13,40452872
+2006,tt0414993,The Fountain,dubious,FAIL,,,40452872
+2006,tt0433386,The Grudge 2,ok,PASS,horror,PG13,23115927
+2006,tt0464049,The History Boys,notalk,FAIL,,,4276446
+2006,tt0457939,The Holiday,ok,PASS,romance,PG13,98242689
+2006,tt0468492,The Host,ok,PASS,horror,R,57789817
+2006,tt0443543,The Illusionist,nowomen,FAIL,,,19070640
+2006,tt0410297,The Lake House,dubious,FAIL,,,46231854
+2006,tt0446755,The Painted Veil,dubious,FAIL,,,22422449
+2006,tt0482571,The Prestige,notalk,FAIL,,,46231854
+2006,tt0454921,The Pursuit of Happyness,nowomen,FAIL,,,63568799
+2006,tt0436697,The Queen,dubious,FAIL,,,17336945
+2006,tt0460989,The Wind That Shakes the Barley,notalk,FAIL,,,9593110
+2006,tt0370032,Ultraviolet,notalk,FAIL,,,34673890
+2006,tt0441909,Volver,ok,PASS,drama,R,10864486
+2006,tt0758794,We Are Marshall,notalk,FAIL,,,75126763
+2006,tt0455857,When a Stranger Calls,ok,PASS,horror,PG13,17336945
+2006,tt0477139,Wristcutters: A Love Story,notalk,FAIL,,,1155796
+2006,tt0376994,X-Men: The Last Stand,ok,PASS,action,PG13,242717233
+2006,tt0463034,"You, Me and Dupree",notalk,FAIL,,,62413003
+2006,tt0383060,Zoom,ok,PASS,kids,PG,40452872
+2006,tt0389557,Zwartboek,ok,PASS,drama,R,25427520
+2005,tt0402022,AEon Flux,ok,PASS,action,PG13,65616822
+2005,tt0398712,Assault on Precinct 13,ok,PASS,action,R,35790994
+2005,tt0372784,Batman Begins,notalk,FAIL,,,178954969
+2005,tt0388500,Beauty Shop,ok,PASS,comedy,PG13,29825828
+2005,tt0374536,Bewitched,ok,PASS,comedy,PG13,95442650
+2005,tt0383222,BloodRayne,dubious,FAIL,,,29825828
+2005,tt0357507,Boogeyman,men,FAIL,,,23860663
+2005,tt0439478,Boynton Beach Club,ok,PASS,romance,R,3459796
+2005,tt0393109,Brick,notalk,FAIL,,,536865
+2005,tt0388795,Brokeback Mountain,notalk,FAIL,,,16583160
+2005,tt0379725,Capote,dubious,FAIL,,,8351232
+2005,tt0367594,Charlie and the Chocolate Factory,ok,PASS,kids,PG,178954969
+2005,tt0451094,Chinjeolhan geumjassi,ok,PASS,drama,R,5368649
+2005,tt0352248,Cinderella Man,men,FAIL,,,104986915
+2005,tt0393162,Coach Carter,ok,PASS,drama,PG13,53686491
+2005,tt0360486,Constantine,notalk,FAIL,,,89477485
+2005,tt0435623,Conversations with Other Women,nowomen,FAIL,,,536865
+2005,tt0121164,Corpse Bride,dubious,FAIL,,,35790994
+2005,tt0257516,Cursed,ok,PASS,horror,PG13,41756160
+2005,tt0342258,Danny the dog,notalk,FAIL,,,51300425
+2005,tt0382628,Dark Water,ok,PASS,horror,PG13,71581988
+2005,tt0342272,Dear Wendy,notalk,FAIL,,,9544265
+2005,tt0421054,Domino,ok,PASS,action,R,59651656
+2005,tt0419706,Doom,notalk,FAIL,,,83512319
+2005,tt0120667,Fantastic Four,notalk,FAIL,,,104390399
+2005,tt0408790,Flightplan,ok,PASS,drama,PG13,65616822
+2005,tt0369441,Fun with Dick and Jane,ok,PASS,comedy,PG13,167024638
+2005,tt0433383,"Good Night, and Good Luck.",notalk,FAIL,,,8351232
+2005,tt0424136,Hard Candy,ok,PASS,drama,R,1133381
+2005,tt0330373,Harry Potter and the Goblet of Fire,notalk,FAIL,,,178954969
+2005,tt0400497,Herbie Fully Loaded,ok,PASS,kids,G,59651656
+2005,tt0382077,Hide and Seek,ok,PASS,horror,R,29825828
+2005,tt0386588,Hitch,men,FAIL,,,65616822
+2005,tt0443536,Hoodwinked!,ok,PASS,kids,PG,20878080
+2005,tt0450278,Hostel,notalk,FAIL,,,5726559
+2005,tt0410097,Hustle &amp; Flow,dubious,FAIL,,,3340493
+2005,tt0396652,Ice Princess,ok,PASS,kids,G,29825828
+2005,tt0418763,Jarhead,nowomen,FAIL,,,85898385
+2005,tt0418773,Junebug,ok,PASS,drama,R,1193033
+2005,tt0425123,Just Like Heaven,ok,PASS,romance,PG13,69195921
+2005,tt0360717,King Kong,nowomen,FAIL,,,246957858
+2005,tt0320661,Kingdom of Heaven,nowomen,FAIL,,,131233644
+2005,tt0373469,Kiss Kiss Bang Bang,notalk,FAIL,,,17895497
+2005,tt0399295,Lord of War,men,FAIL,,,50107391
+2005,tt0351283,Madagascar,nowomen,FAIL,,,89477485
+2005,tt0331933,Man of the House,ok,PASS,comedy,PG13,59651656
+2005,tt0416320,Match Point,ok,PASS,drama,R,17895497
+2005,tt0415978,Me and You and Everyone We Know,ok,PASS,drama,R,2386066
+2005,tt0397535,Memoirs of a Geisha,ok,PASS,drama,PG13,101407816
+2005,tt0366780,MirrorMask,ok,PASS,drama,PG,4772133
+2005,tt0385307,Miss Congeniality 2: Armed &amp; Fabulous,ok,PASS,comedy,PG13,71581988
+2005,tt0356910,Mr. &amp; Mrs. Smith,men,FAIL,,,131233644
+2005,tt0408306,Munich,notalk,FAIL,,,89477485
+2005,tt0395972,North Country,ok,PASS,drama,R,35790994
+2005,tt0380599,Oliver Twist,notalk,FAIL,,,77547153
+2005,tt0414387,Pride and Prejudice,ok,PASS,romance,PG,33404928
+2005,tt0377107,Proof,ok,PASS,drama,PG13,23860663
+2005,tt0421239,Red Eye,ok,PASS,drama,PG13,31018861
+2005,tt0294870,Rent,ok,PASS,drama,PG13,47721325
+2005,tt0358082,Robots,notalk,FAIL,,,95442650
+2005,tt0432348,Saw II,dubious,FAIL,,,5965166
+2005,tt0379786,Serenity,ok,PASS,scifi,PG13,46528292
+2005,tt0338427,Shopgirl,men,FAIL,,,8947748
+2005,tt0401792,Sin City,ok,PASS,drama,R,47721325
+2005,tt0474361,Sisters in Law,ok,PASS,drama,NR,357910
+2005,tt0405325,Sky High,ok,PASS,kids,PG,71581988
+2005,tt0362165,Son of the Mask,notalk,FAIL,,,119303313
+2005,tt0121766,Star Wars: Episode III - Revenge of the Sith,notalk,FAIL,,,137198810
+2005,tt0382992,Stealth,notalk,FAIL,,,164638572
+2005,tt0369994,Strangers with Candy,ok,PASS,comedy,R,2386066
+2005,tt0427944,Thank You for Smoking,notalk,FAIL,,,8947748
+2005,tt0405422,The 40 Year Old Virgin,men,FAIL,,,31018861
+2005,tt0424774,The Adventures of Sharkboy and Lavagirl 3-D,notalk,FAIL,,,59651656
+2005,tt0384806,The Amityville Horror,ok,PASS,horror,R,22071113
+2005,tt0357110,The Ballad of Jack and Rose,ok,PASS,drama,R,1789550
+2005,tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",ok,PASS,kids,PG,214745963
+2005,tt0387131,The Constant Gardener,ok,PASS,drama,R,30422345
+2005,tt0435625,The Descent,ok,PASS,horror,R,8351232
+2005,tt0395584,The Devil&#39;s Rejects,ok,PASS,horror,R,8351232
+2005,tt0404032,The Exorcism of Emily Rose,ok,PASS,horror,PG13,21474596
+2005,tt0432291,The Fog,ok,PASS,horror,PG13,21474596
+2005,tt0371724,The Hitchhiker&#39;s Guide to the Galaxy,notalk,FAIL,,,53686491
+2005,tt0399201,The Island,ok,PASS,scifi,PG13,143163975
+2005,tt0366627,The Jacket,men,FAIL,,,34001444
+2005,tt0386140,The Legend of Zorro,notalk,FAIL,,,95442650
+2005,tt0402399,The New World,dubious,FAIL,,,35790994
+2005,tt0377109,The Ring Two,ok,PASS,horror,PG13,59651656
+2005,tt0397101,The Skeleton Key,ok,PASS,horror,PG13,47721325
+2005,tt0367089,The Squid and the Whale,men,FAIL,,,1789550
+2005,tt0372532,The Wedding Date,ok,PASS,romance,PG13,17895497
+2005,tt0407265,Transamerica,ok,PASS,drama,R,1193033
+2005,tt0423409,Tristram Shandy: A Cock and Bull Story,men,FAIL,,,5666907
+2005,tt0434409,V for Vendetta,ok,PASS,action,R,59651656
+2005,tt0348333,Waiting...,ok,PASS,comedy,R,1342162
+2005,tt0358273,Walk the Line,ok,PASS,drama,PG13,34597961
+2005,tt0407304,War of the Worlds,notalk,FAIL,,,157480373
+2005,tt0240200,Water,ok,PASS,drama,PG13,3579099
+2005,tt0375210,White Noise,notalk,FAIL,,,11930331
+2005,tt0443295,"Yours, Mine and Ours",ok,PASS,kids,PG,53686491
+2005,tt0406375,Zathura: A Space Adventure,nowomen,FAIL,,,77547153
+2004,tt0337563,13 Going on 30,ok,PASS,romance,PG13,36995786
+2004,tt0212712,2046,ok,PASS,drama,R,14798315
+2004,tt0343660,50 First Dates,men,FAIL,,,92489466
+2004,tt0356470,A Cinderella Story,ok,PASS,kids,PG,23430665
+2004,tt0359423,A Home at the End of The World,dubious,FAIL,,,8015754
+2004,tt0344510,A Very Long Engagement,ok,PASS,drama,R,67825608
+2004,tt0357413,Anchorman: The Legend of Ron Burgundy,men,FAIL,,,30829822
+2004,tt0327437,Around the World in 80 Days,notalk,FAIL,,,135651216
+2004,tt0370263,AVP: Alien vs. Predator,dubious,FAIL,,,86323501
+2004,tt0414852,Banlieue 13,nowomen,FAIL,,,18497893
+2004,tt0381681,Before Sunset,nowomen,FAIL,,,2466386
+2004,tt0317198,Bridget Jones: The Edge of Reason,ok,PASS,romance,R,61659644
+2004,tt0327554,Catwoman,ok,PASS,action,PG13,123319288
+2004,tt0337921,Cellular,ok,PASS,action,PG13,55493679
+2004,tt0376541,Closer,ok,PASS,romance,R,43161751
+2004,tt0369339,Collateral,nowomen,FAIL,,,73991573
+2004,tt0345074,Connie and Carla,ok,PASS,comedy,PG13,24663858
+2004,tt0375679,Crash,ok,PASS,drama,R,9006109
+2004,tt0367631,D.E.B.S.,ok,PASS,romance,PG13,4316175
+2004,tt0363547,Dawn of the Dead,ok,PASS,horror,R,34529401
+2004,tt0364725,Dodgeball: A True Underdog Story,ok,PASS,comedy,PG13,36995786
+2004,tt0327679,Ella Enchanted,ok,PASS,kids,PG,43161751
+2004,tt0338013,Eternal Sunshine of the Spotless Mind,men,FAIL,,,24663858
+2004,tt0349416,Eulogy,ok,PASS,drama,R,12331929
+2004,tt0308644,Finding Neverland,ok,PASS,kids,PG,30829822
+2004,tt0377062,Flight of the Phoenix,nowomen,FAIL,,,92489466
+2004,tt0333766,Garden State,ok,PASS,drama,R,3082982
+2004,tt0366551,Harold and Kumar Go to White Castle,ok,PASS,comedy,R,11098736
+2004,tt0304141,Harry Potter and the Prisoner of  Azkaban,ok,PASS,action,PG,160315074
+2004,tt0167190,Hellboy,notalk,FAIL,,,73991573
+2004,tt0299172,Home on the Range,ok,PASS,kids,PG,135651216
+2004,tt0356721,I Heart Huckabees,ok,PASS,comedy,R,27130243
+2004,tt0343818,"I, Robot",notalk,FAIL,,,129485252
+2004,tt0385267,In Good Company,notalk,FAIL,,,32063015
+2004,tt0362269,Kinsey,ok,PASS,drama,R,13565122
+2004,tt0373074,Kung Fu Hustle,nowomen,FAIL,,,24663858
+2004,tt0375912,Layer Cake,notalk,FAIL,,,8015754
+2004,tt0339291,Lemony Snicket&#39;s A Series of Unfortunate Events,ok,PASS,kids,PG,123319288
+2004,tt0390221,Maria Full of Grace,ok,PASS,drama,R,3946217
+2004,tt0377092,Mean Girls,ok,PASS,comedy,PG13,22197472
+2004,tt0405159,Million Dollar Baby,ok,PASS,drama,PG13,36995786
+2004,tt0349825,Miracle,notalk,FAIL,,,34529401
+2004,tt0382189,My Summer of Love,ok,PASS,romance,R,2096428
+2004,tt0374900,Napoleon Dynamite,notalk,FAIL,,,493277
+2004,tt0363282,New York Minute,notalk,FAIL,,,49327715
+2004,tt0390384,Primer,notalk,FAIL,,,8632
+2004,tt0350028,Raising Helen,ok,PASS,comedy,PG13,61659644
+2004,tt0350258,Ray,dubious,FAIL,,,49327715
+2004,tt0318627,Resident Evil: Apocalypse,ok,PASS,horror,R,61659644
+2004,tt0332375,Saved!,ok,PASS,comedy,PG13,6165964
+2004,tt0387564,Saw,men,FAIL,,,1479831
+2004,tt0363988,Secret Window,notalk,FAIL,,,49327715
+2004,tt0307453,Shark Tale,notalk,FAIL,,,92489466
+2004,tt0365748,Shaun of the Dead,ok,PASS,comedy,R,6165964
+2004,tt0298148,Shrek 2,ok,PASS,kids,PG,86323501
+2004,tt0375063,Sideways,ok,PASS,drama,R,20964279
+2004,tt0346156,Sky Captain and the World of Tomorrow,ok,PASS,action,PG,86323501
+2004,tt0371246,Spanglish,ok,PASS,drama,PG13,92489466
+2004,tt0316654,Spider-Man 2,notalk,FAIL,,,246638575
+2004,tt0372588,Team America: World Police,men,FAIL,,,24663858
+2004,tt0338751,The Aviator,notalk,FAIL,,,135651216
+2004,tt0372183,The Bourne Supremacy,men,FAIL,,,104821395
+2004,tt0289879,The Butterfly Effect,men,FAIL,,,16031507
+2004,tt0296572,The Chronicles of Riddick,men,FAIL,,,147983145
+2004,tt0319262,The Day After Tomorrow,ok,PASS,action,PG13,154149110
+2004,tt0391198,The Grudge,ok,PASS,horror,PG13,12331929
+2004,tt0317705,The Incredibles,ok,PASS,kids,PG,113453745
+2004,tt0362270,The Life Aquatic with Steve Zissou,men,FAIL,,,61659644
+2004,tt0332280,The Notebook,dubious,FAIL,,,36995786
+2004,tt0293508,The Phantom of the Opera,men,FAIL,,,67825608
+2004,tt0338348,The Polar Express,notalk,FAIL,,,209642789
+2004,tt0368933,The Princess Diaries 2: Royal Engagement,ok,PASS,drama,G,55493679
+2004,tt0327162,The Stepford Wives,ok,PASS,drama,PG13,123319288
+2004,tt0362227,The Terminal,notalk,FAIL,,,92489466
+2004,tt0368447,The Village,ok,PASS,drama,PG13,88398934
+2004,tt0327247,The Whole Ten Yards,notalk,FAIL,,,36995786
+2004,tt0332452,Troy,notalk,FAIL,,,184978932
+2004,tt0338526,Van Helsing,ok,PASS,action,PG13,209642789
+2004,tt0383694,Vera Drake,ok,PASS,drama,R,13565122
+2004,tt0381707,White Chicks,ok,PASS,comedy,PG13,24663858
+2004,tt0360201,Wimbledon,ok,PASS,romance,PG13,43161751
+2003,tt0322259,2 Fast 2 Furious,notalk,FAIL,,,96222609
+2003,tt0315733,21 grams,dubious,FAIL,,,25321739
+2003,tt0319061,Big Fish,notalk,FAIL,,,88626087
+2003,tt0310778,Bon voyage,ok,PASS,drama,PG13,25321739
+2003,tt0315327,Bruce Almighty,ok,PASS,comedy,PG13,102553043
+2003,tt0305357,Charlie&#39;s Angels: Full Throttle,ok,PASS,action,PG13,151930435
+2003,tt0159365,Cold Mountain,ok,PASS,drama,R,101286957
+2003,tt0306685,Cradle 2 the Grave,notalk,FAIL,,,31652174
+2003,tt0317303,Daddy Day Care,ok,PASS,kids,PG,75965217
+2003,tt0287978,Daredevil,nowomen,FAIL,,,101286957
+2003,tt0282209,Darkness Falls,notalk,FAIL,,,8862609
+2003,tt0285531,Dreamcatcher,nowomen,FAIL,,,86093913
+2003,tt0309593,Final Destination 2,ok,PASS,horror,R,32918261
+2003,tt0266543,Finding Nemo,notalk,FAIL,,,119012174
+2003,tt0322330,Freaky Friday,ok,PASS,kids,PG,32918261
+2003,tt0335119,Girl with a Pearl Earring,ok,PASS,drama,PG13,15193043
+2003,tt0301357,Goodbye Lenin!,ok,PASS,drama,R,8102957
+2003,tt0311289,Holes,men,FAIL,,,25321739
+2003,tt0329717,Hollywood Homicide,notalk,FAIL,,,94956522
+2003,tt0315983,House of Sand and Fog,ok,PASS,drama,R,20890435
+2003,tt0251127,How to Lose a Guy in 10 Days,men,FAIL,,,63304348
+2003,tt0286716,Hulk,notalk,FAIL,,,173453913
+2003,tt0309698,Identity,notalk,FAIL,,,35450435
+2003,tt0199626,In the Cut,ok,PASS,drama,R,15193043
+2003,tt0301470,Jeepers Creepers II,ok,PASS,horror,R,31652174
+2003,tt0266697,Kill Bill: Vol. 1,ok,PASS,action,R,69634783
+2003,tt0325703,Lara Croft Tomb Raider: The Cradle of Life,nowomen,FAIL,,,113947826
+2003,tt0333780,"Legally Blonde 2: Red, White &amp; Blonde",ok,PASS,comedy,PG13,31652174
+2003,tt0286244,Les triplettes de Belleville,ok,PASS,comedy,PG13,2532174
+2003,tt0335266,Lost In Translation,dubious,FAIL,,,5064348
+2003,tt0314331,Love Actually,ok,PASS,romance,R,56973913
+2003,tt0311113,Master and Commander: The Far Side of the World,nowomen,FAIL,,,170921739
+2003,tt0304415,Mona Lisa Smile,ok,PASS,drama,PG13,82295652
+2003,tt0340855,Monster,ok,PASS,drama,R,6330435
+2003,tt0327056,Mystic River,ok,PASS,drama,R,37982609
+2003,tt0316396,Peter Pan,ok,PASS,kids,PG,126608696
+2003,tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,men,FAIL,,,158260870
+2003,tt0366920,Pride and Prejudice,ok,PASS,romance,PG,35450435
+2003,tt0257076,S.W.A.T.,ok,PASS,action,PG13,88626087
+2003,tt0306047,Scary Movie 3,ok,PASS,comedy,PG13,56973913
+2003,tt0327137,Secondhand Lions,notalk,FAIL,,,37982609
+2003,tt0300471,Shanghai Knights,notalk,FAIL,,,63304348
+2003,tt0323944,Shattered Glass,men,FAIL,,,7596522
+2003,tt0165982,Sinbad: Legend of the Seven Seas,men,FAIL,,,75965217
+2003,tt0337741,Something&#39;s Gotta Give,dubious,FAIL,,,101286957
+2003,tt0338459,Spy Kids 3-D: Game Over,ok,PASS,kids,PG,50643478
+2003,tt0324133,Swimming Pool,ok,PASS,drama,R,9875478
+2003,tt0181852,Terminator 3: Rise of the Machines,ok,PASS,action,R,215234783
+2003,tt0298814,The Core,ok,PASS,action,PG13,107617391
+2003,tt0317740,The Italian Job,notalk,FAIL,,,75965217
+2003,tt0283426,The Jungle Book 2,nowomen,FAIL,,,25321739
+2003,tt0325710,The Last Samurai,nowomen,FAIL,,,177252174
+2003,tt0311429,The League of Extraordinary Gentlemen,nowomen,FAIL,,,98754783
+2003,tt0167260,The Lord of the Rings: The Return of the King,notalk,FAIL,,,119012174
+2003,tt0234215,The Matrix Reloaded,ok,PASS,action,R,160793043
+2003,tt0242653,The Matrix Revolutions,ok,PASS,action,R,139269565
+2003,tt0338188,The Missing,ok,PASS,drama,R,82295652
+2003,tt0332379,The School of Rock,dubious,FAIL,,,25321739
+2003,tt0328538,Thirteen,ok,PASS,drama,R,2532174
+2003,tt0300556,Timeline,notalk,FAIL,,,101286957
+2003,tt0339840,Undead,ok,PASS,horror,R,949565
+2003,tt0320691,Underworld,dubious,FAIL,,,27853913
+2003,tt0295700,Wrong Turn,ok,PASS,horror,R,12660870
+2003,tt0290334,X2 (X-Men 2),ok,PASS,action,PG13,158260870
+2002,tt0307901,25th Hour,men,FAIL,,,5828306
+2002,tt0289043,28 Days Later...,ok,PASS,horror,R,10361434
+2002,tt0283832,8 femmes,ok,PASS,comedy,R,10361434
+2002,tt0298203,8 Mile,notalk,FAIL,,,53102348
+2002,tt0257360,About Schmidt,notalk,FAIL,,,38855376
+2002,tt0268126,Adaptation,dubious,FAIL,,,23960815
+2002,tt0286261,All or Nothing,ok,PASS,drama,R,11656613
+2002,tt0168786,Antwone Fisher,notalk,FAIL,,,16189740
+2002,tt0295178,Austin Powers in Goldmember,notalk,FAIL,,,81596291
+2002,tt0286499,Bend It Like Beckham,ok,PASS,comedy,PG13,7253004
+2002,tt0187738,Blade II,notalk,FAIL,,,69939678
+2002,tt0300532,Blue Crush,ok,PASS,romance,PG13,38855376
+2002,tt0303816,Cabin Fever,ok,PASS,horror,R,1942769
+2002,tt0319970,Carrie,ok,PASS,horror,PG13,38855376
+2002,tt0264464,Catch Me If You Can,notalk,FAIL,,,67349319
+2002,tt0299658,Chicago,ok,PASS,drama,PG13,38855376
+2002,tt0275022,Crossroads,ok,PASS,drama,PG13,15542151
+2002,tt0266452,Death to Smoochy,men,FAIL,,,64758961
+2002,tt0246460,Die Another Day,men,FAIL,,,183915449
+2002,tt0303933,Drumline,notalk,FAIL,,,25903584
+2002,tt0238380,Equilibrium,notalk,FAIL,,,25903584
+2002,tt0297884,Far from Heaven,ok,PASS,drama,PG13,17484919
+2002,tt0120679,Frida,men,FAIL,,,15542151
+2002,tt0327753,Funny Ha Ha,ok,PASS,drama,NR,38855
+2002,tt0217505,Gangs of New York,notalk,FAIL,,,125632384
+2002,tt0302674,Gerry,nowomen,FAIL,,,9066255
+2002,tt0295297,Harry Potter and the Chamber of Secrets,ok,PASS,action,PG,129517922
+2002,tt0257756,High Crimes,ok,PASS,drama,PG13,54397527
+2002,tt0297181,I Spy,notalk,FAIL,,,90662545
+2002,tt0268380,Ice Age,nowomen,FAIL,,,84186649
+2002,tt0280760,Igby Goes Down,men,FAIL,,,11656613
+2002,tt0278504,Insomnia,notalk,FAIL,,,59578244
+2002,tt0275847,Lilo and Stitch,ok,PASS,kids,PG,103614337
+2002,tt0252076,Maid in Manhattan,ok,PASS,romance,PG13,71234857
+2002,tt0303361,May,ok,PASS,horror,R,2266564
+2002,tt0120912,Men in Black II,notalk,FAIL,,,181325090
+2002,tt0181689,Minority Report,notalk,FAIL,,,132108280
+2002,tt0280590,Mr Deeds,men,FAIL,,,64758961
+2002,tt0259446,My Big Fat Greek Wedding,ok,PASS,romance,PG,6475896
+2002,tt0258000,Panic Room,ok,PASS,horror,R,62168602
+2002,tt0183649,Phone Booth,notalk,FAIL,,,14246971
+2002,tt0238546,Queen of the Damned,ok,PASS,horror,R,45331273
+2002,tt0252444,Rabbit-Proof Fence,ok,PASS,drama,PG,9066255
+2002,tt0296166,Real Women Have Curves,ok,PASS,drama,PG13,3885538
+2002,tt0289765,Red Dragon,notalk,FAIL,,,101023979
+2002,tt0253556,Reign of Fire,notalk,FAIL,,,77710753
+2002,tt0120804,Resident Evil,ok,PASS,horror,R,45331273
+2002,tt0267913,Scooby-Doo,ok,PASS,comedy,PG,108795054
+2002,tt0286106,Signs,notalk,FAIL,,,91572563
+2002,tt0281373,Snow Dogs,notalk,FAIL,,,41445735
+2002,tt0307479,Solaris,notalk,FAIL,,,60873423
+2002,tt0145487,Spider-Man,notalk,FAIL,,,180029911
+2002,tt0166813,Spirit: Stallion of the Cimarron,nowomen,FAIL,,,103614337
+2002,tt0283003,Spun,ok,PASS,drama,R,5828306
+2002,tt0287717,Spy Kids 2: Island of Lost Dreams,ok,PASS,kids,PG,49216810
+2002,tt0253754,Star Trek: Nemesis,notalk,FAIL,,,77710753
+2002,tt0121765,Star Wars: Episode II - Attack of the Clones,dubious,FAIL,,,148945610
+2002,tt0180052,The Adventures of Pluto Nash,men,FAIL,,,129517922
+2002,tt0280460,The Banger Sisters,ok,PASS,drama,R,12951792
+2002,tt0258463,The Bourne Identity,notalk,FAIL,,,77710753
+2002,tt0238924,The Dangerous Lives of Altar Boys,notalk,FAIL,,,15542151
+2002,tt0279113,The Good Girl,ok,PASS,romance,R,10361434
+2002,tt0274558,The Hours,ok,PASS,drama,PG13,32379480
+2002,tt0278500,The Importance of Being Earnest,ok,PASS,romance,PG,19427688
+2002,tt0167261,The Lord of the Rings: The Two Towers,notalk,FAIL,,,121746846
+2002,tt0289408,The Powerpuff Girls,ok,PASS,kids,PG,32379480
+2002,tt0258068,The Quiet American,men,FAIL,,,25903584
+2002,tt0298130,The Ring,ok,PASS,horror,PG13,62168602
+2002,tt0292644,The Rules of Attraction,dubious,FAIL,,,5180717
+2002,tt0304669,The Santa Clause 2,notalk,FAIL,,,84186649
+2002,tt0253867,The Sweetest Thing,ok,PASS,romance,R,55692706
+2002,tt0293662,The Transporter,nowomen,FAIL,,,27198764
+2002,tt0290095,The Tuxedo,nowomen,FAIL,,,77710753
+2002,tt0133240,Treasure Planet,notalk,FAIL,,,129517922
+2002,tt0283084,Tuck Everlasting,ok,PASS,romance,PG,19427688
+2002,tt0313737,Two Weeks Notice,ok,PASS,romance,PG13,77710753
+2002,tt0277434,We Were Soldiers,ok,PASS,action,R,90662545
+2002,tt0298228,Whale Rider,ok,PASS,drama,PG13,5569271
+2002,tt0283139,White Oleander,ok,PASS,drama,PG13,20722867
+2002,tt0295701,xXx,notalk,FAIL,,,90662545
+2001,tt0268978,A Beautiful Mind,notalk,FAIL,,,102635985
+2001,tt0183790,A Knight&#39;s Tale,men,FAIL,,,53949684
+2001,tt0164334,Along Came A Spider,ok,PASS,drama,R,36843687
+2001,tt0244000,American Outlaws,notalk,FAIL,,,46054609
+2001,tt0218817,Antitrust,men,FAIL,,,39475379
+2001,tt0212720,Artificial Intelligence: AI,notalk,FAIL,,,118426136
+2001,tt0230011,Atlantis: The Lost Empire,notalk,FAIL,,,118426136
+2001,tt0265086,Black Hawk Down,nowomen,FAIL,,,125005366
+2001,tt0221027,Blow,notalk,FAIL,,,39475379
+2001,tt0243155,Bridget Jones&#39;s Diary,ok,PASS,romance,R,32896149
+2001,tt0260866,Don&#39;t Say A Word,ok,PASS,horror,R,65792298
+2001,tt0246578,Donnie Darko,dubious,FAIL,,,5921307
+2001,tt0240462,Dr. Dolittle 2,ok,PASS,comedy,PG,94740909
+2001,tt0251075,Evolution,ok,PASS,comedy,PG13,105267677
+2001,tt0120681,From Hell,dubious,FAIL,,,46054609
+2001,tt0162346,Ghost World,ok,PASS,drama,R,7237153
+2001,tt0280707,Gosford Park,ok,PASS,drama,R,23685227
+2001,tt0212985,Hannibal,ok,PASS,drama,R,114478598
+2001,tt0241527,Harry Potter and the Sorcerer&#39;s Stone,ok,PASS,action,PG,164480745
+2001,tt0248845,Hedwig and the Angry Inch,ok,PASS,comedy,R,7895076
+2001,tt0253126,High Heels and Low Lifes,ok,PASS,comedy,R,13158460
+2001,tt0160399,Impostor,nowomen,FAIL,,,52633838
+2001,tt0211443,Jason X,ok,PASS,horror,R,18421843
+2001,tt0261392,Jay and Silent Bob Strike Back,ok,PASS,comedy,R,28948611
+2001,tt0263488,Jeepers Creepers,ok,PASS,horror,R,13158460
+2001,tt0236348,Josie and the Pussycats,ok,PASS,comedy,PG13,28948611
+2001,tt0035423,Kate &amp; Leopold,men,FAIL,,,63160606
+2001,tt0271027,Kiss of the Dragon,notalk,FAIL,,,32896149
+2001,tt0264761,Kissing Jessica Stein,ok,PASS,romance,R,1973769
+2001,tt0242587,L.I.E.,notalk,FAIL,,,921092
+2001,tt0146316,Lara Croft: Tomb Raider,nowomen,FAIL,,,123689520
+2001,tt0250494,Legally Blonde,ok,PASS,comedy,PG13,23685227
+2001,tt0258273,Lovely and Amazing,ok,PASS,drama,R,328961
+2001,tt0166276,Monkeybone,dubious,FAIL,,,98688447
+2001,tt0265343,Monsoon Wedding,ok,PASS,drama,R,1579015
+2001,tt0198781,"Monsters, Inc.",notalk,FAIL,,,151322285
+2001,tt0203009,Moulin Rouge!,ok,PASS,drama,PG13,69739836
+2001,tt0166924,Mulholland Dr.,ok,PASS,drama,R,19737689
+2001,tt0161860,Nowhere in Africa,ok,PASS,drama,R,8552999
+2001,tt0240772,Ocean&#39;s Eleven,notalk,FAIL,,,111846906
+2001,tt0181739,Osmosis Jones,dubious,FAIL,,,92109217
+2001,tt0213149,Pearl Harbor,men,FAIL,,,199350663
+2001,tt0206275,Save the Last Dance,ok,PASS,drama,PG13,17105997
+2001,tt0256380,Shallow Hal,ok,PASS,comedy,PG13,52633838
+2001,tt0286112,Shaolin Soccer,nowomen,FAIL,,,13158460
+2001,tt0126029,Shrek,notalk,FAIL,,,65792298
+2001,tt0244970,Someone Like You...,ok,PASS,romance,PG13,30264457
+2001,tt0227538,Spy Kids,ok,PASS,kids,PG,46054609
+2001,tt0247745,Super Troopers,notalk,FAIL,,,3947538
+2001,tt0232500,The Fast and the Furious,notalk,FAIL,,,50002146
+2001,tt0221218,The Glass House,ok,PASS,horror,PG13,28948611
+2001,tt0290879,The Legend of Suriyothai,ok,PASS,drama,R,11842614
+2001,tt0120737,The Lord of the Rings: The Fellowship of the Ring,notalk,FAIL,,,143427209
+2001,tt0268995,The Majestic,notalk,FAIL,,,94740909
+2001,tt0267804,The One,nowomen,FAIL,,,64476452
+2001,tt0230600,The Others,ok,PASS,horror,PG13,22369381
+2001,tt0247638,The Princess Diaries,ok,PASS,kids,G,39475379
+2001,tt0265666,The Royal Tenenbaums,ok,PASS,drama,R,36843687
+2001,tt0209475,The Wedding Planner,ok,PASS,romance,PG13,36843687
+2001,tt0245674,Thir13en Ghosts,notalk,FAIL,,,25001073
+2001,tt0139654,Training Day,notalk,FAIL,,,59213068
+2001,tt0242998,Valentine,men,FAIL,,,13158460
+2001,tt0259711,Vanilla Sky,notalk,FAIL,,,92109217
+2001,tt0196229,Zoolander,ok,PASS,comedy,PG13,36843687
+2000,tt0191754,28 Days,ok,PASS,drama,PG13,58175060
+2000,tt0181875,Almost Famous,ok,PASS,drama,R,81174503
+2000,tt0144084,American Psycho,notalk,FAIL,,,10823267
+2000,tt0221889,Beautiful Creatures,ok,PASS,comedy,R,67645419
+2000,tt0218839,Best in Show,ok,PASS,comedy,PG13,8117450
+2000,tt0249462,Billy Elliot,ok,PASS,drama,PG13,6764542
+2000,tt0181984,Boiler Room,notalk,FAIL,,,12176175
+2000,tt0204946,Bring It On,ok,PASS,comedy,PG13,13529084
+2000,tt0162222,Cast Away,notalk,FAIL,,,114997212
+2000,tt0173716,Cecil B. Demented,ok,PASS,drama,R,13529084
+2000,tt0210616,Center Stage,ok,PASS,drama,PG13,24352351
+2000,tt0160127,Charlie&#39;s Angels,ok,PASS,action,PG13,121761754
+2000,tt0120630,Chicken Run,ok,PASS,kids,G,56822152
+2000,tt0241303,Chocolat,ok,PASS,romance,PG13,33822710
+2000,tt0200550,Coyote Ugly,men,FAIL,,,60880877
+2000,tt0168629,Dancer in the Dark,ok,PASS,drama,R,16911355
+2000,tt0242423,"Dude, Where&#39;s My Car",men,FAIL,,,18940717
+2000,tt0195685,Erin Brockovich,ok,PASS,drama,R,67645419
+2000,tt0195714,Final Destination,notalk,FAIL,,,31116893
+2000,tt0172495,Gladiator,nowomen,FAIL,,,139349563
+2000,tt0187078,Gone in Sixty Seconds,notalk,FAIL,,,139755436
+2000,tt0146882,High Fidelity,men,FAIL,,,27058168
+2000,tt0164052,Hollow Man,ok,PASS,scifi,R,121761754
+2000,tt0185431,Little Nicky,notalk,FAIL,,,108232671
+2000,tt0199725,Love &amp; Basketball,ok,PASS,drama,PG13,20293626
+2000,tt0212338,Meet the Parents,men,FAIL,,,74409961
+2000,tt0209144,Memento,notalk,FAIL,,,6764542
+2000,tt0212346,Miss Congeniality,ok,PASS,comedy,PG13,60880877
+2000,tt0183523,Mission to Mars,notalk,FAIL,,,121761754
+2000,tt0190590,"O Brother, Where Art Thou?",nowomen,FAIL,,,35175618
+2000,tt0134847,Pitch Black,ok,PASS,horror,R,31116893
+2000,tt0257001,Pokemon: The Movie 2000,men,FAIL,,,40587251
+2000,tt0199753,Red Planet,nowomen,FAIL,,,108232671
+2000,tt0210945,Remember the Titans,notalk,FAIL,,,40587251
+2000,tt0180093,Requiem for a Dream,ok,PASS,drama,R,6088088
+2000,tt0122459,Return to Me,dubious,FAIL,,,32469801
+2000,tt0165929,Romeo Must Die,nowomen,FAIL,,,33822710
+2000,tt0213203,Rugrats in Paris:,ok,PASS,kids,G,40587251
+2000,tt0195234,Saving Grace,ok,PASS,comedy,R,5411634
+2000,tt0134084,Scream 3,ok,PASS,horror,R,54116335
+2000,tt0203119,Sexy Beast,men,FAIL,,,5817506
+2000,tt0184894,Shanghai Noon,notalk,FAIL,,,74409961
+2000,tt0208092,Snatch.,nowomen,FAIL,,,13529084
+2000,tt0210299,Songcatcher,ok,PASS,drama,PG13,2435235
+2000,tt0163978,The Beach,notalk,FAIL,,,67645419
+2000,tt0209958,The Cell,men,FAIL,,,47351793
+2000,tt0120917,The Emperor&#39;s New Groove,ok,PASS,kids,G,135290838
+2000,tt0219699,The Gift,dubious,FAIL,,,13529084
+2000,tt0187393,The Patriot,dubious,FAIL,,,148819922
+2000,tt0138749,The Road to El Dorado,nowomen,FAIL,,,128526296
+2000,tt0202677,The Way of the Gun,men,FAIL,,,12176175
+2000,tt0190138,The Whole Nine Yards,ok,PASS,comedy,R,32469801
+2000,tt0146309,Thirteen days,notalk,FAIL,,,108232671
+2000,tt0120913,Titan A.E.,ok,PASS,kids,PG,101468129
+2000,tt0217869,Unbreakable,nowomen,FAIL,,,99091212
+2000,tt0182508,Urbania,notalk,FAIL,,,304404
+2000,tt0190865,Vertical Limit,notalk,FAIL,,,101468129
+2000,tt0161081,What Lies Beneath,ok,PASS,horror,PG13,121761754
+2000,tt0207201,What Women Want,notalk,FAIL,,,87939045
+2000,tt0198021,Where the Heart Is,ok,PASS,drama,PG13,20293626
+2000,tt0190332,"Wo hu cang long (Crouching Tiger, Hidden Dragon)",ok,PASS,action,PG13,20293626
+2000,tt0120903,X-Men,notalk,FAIL,,,101468129
+1999,tt0147800,10 Things I Hate About You,ok,PASS,comedy,PG13,18180006
+1999,tt0134273,8MM,notalk,FAIL,,,55938481
+1999,tt0169547,American Beauty,ok,PASS,drama,R,20976930
+1999,tt0163651,American Pie,men,FAIL,,,16781544
+1999,tt0122933,Analyze This,notalk,FAIL,,,41953861
+1999,tt0166485,Anna and the King,men,FAIL,,,104884652
+1999,tt0149691,Anywhere But Here,dubious,FAIL,,,32164627
+1999,tt0145660,Austin Powers: The Spy Who Shagged Me,notalk,FAIL,,,48946171
+1999,tt0120601,Being John Malkovich,ok,PASS,drama,R,18180006
+1999,tt0165643,Black and White,ok,PASS,drama,R,13984620
+1999,tt0181316,Blue Streak,notalk,FAIL,,,50344633
+1999,tt0171804,Boys Don&#39;t Cry,ok,PASS,drama,R,2796924
+1999,tt0179116,But I&#39;m a Cheerleader,ok,PASS,comedy,R,1678154
+1999,tt0144814,Carrie 2: The Rage,ok,PASS,horror,R,29367703
+1999,tt0139134,Cruel Intentions,ok,PASS,drama,R,15383082
+1999,tt0144168,Dick,ok,PASS,comedy,PG13,18180006
+1999,tt0120655,Dogma,dubious,FAIL,,,13984620
+1999,tt0157503,Drop Dead Gorgeous,ok,PASS,comedy,PG13,13984620
+1999,tt0126886,Election,ok,PASS,comedy,R,11886927
+1999,tt0120663,Eyes Wide Shut,ok,PASS,drama,R,90900032
+1999,tt0137523,Fight Club,notalk,FAIL,,,90900032
+1999,tt0155711,Flawless,notalk,FAIL,,,37758475
+1999,tt0126916,For Love of the Game,men,FAIL,,,69923101
+1999,tt0177789,Galaxy Quest,notalk,FAIL,,,62930791
+1999,tt0172493,"Girl, Interrupted",ok,PASS,drama,R,33563089
+1999,tt0139239,Go!,ok,PASS,comedy,R,9090003
+1999,tt0155776,Jawbreaker,ok,PASS,comedy,R,4195386
+1999,tt0175880,Magnolia,notalk,FAIL,,,51743095
+1999,tt0158811,Muppets From Space,ok,PASS,kids,G,33563089
+1999,tt0132347,Mystery Men,nowomen,FAIL,,,95095418
+1999,tt0125439,Notting Hill,ok,PASS,romance,PG13,58735405
+1999,tt0151804,Office Space,notalk,FAIL,,,13984620
+1999,tt0120784,Payback,notalk,FAIL,,,69923101
+1999,tt0190641,Pocket Monsters: Mewtwo Strikes Back!,notalk,FAIL,,,41953861
+1999,tt0129332,Ravenous,notalk,FAIL,,,16781544
+1999,tt0162661,Sleepy Hollow,ok,PASS,drama,R,97892342
+1999,tt0158983,South Park: Bigger Longer &amp; Uncut,dubious,FAIL,,,29367703
+1999,tt0120915,Star Wars: Episode I - The Phantom Menace,ok,PASS,action,PG,160823133
+1999,tt0164912,Stuart Little,notalk,FAIL,,,146838513
+1999,tt0120855,Tarzan,men,FAIL,,,202776994
+1999,tt0120657,The 13th Warrior,dubious,FAIL,,,174807753
+1999,tt0185937,The Blair Witch Project,ok,PASS,horror,R,839077
+1999,tt0144117,The Boondock Saints,nowomen,FAIL,,,9789234
+1999,tt0120689,The Green Mile,notalk,FAIL,,,83907722
+1999,tt0171363,The Haunting,ok,PASS,horror,PG13,111876962
+1999,tt0129167,The Iron Giant,nowomen,FAIL,,,69923101
+1999,tt0133093,The Matrix,ok,PASS,scifi,R,90900032
+1999,tt0120616,The Mummy,notalk,FAIL,,,111876962
+1999,tt0167404,The Sixth Sense,dubious,FAIL,,,55938481
+1999,tt0134119,The Talented Mr. Ripley,dubious,FAIL,,,55938481
+1999,tt0144640,Three to Tango,notalk,FAIL,,,27969241
+1999,tt0151568,Topsy-Turvy,ok,PASS,drama,R,27969241
+1999,tt0120363,Toy Story 2,notalk,FAIL,,,125861583
+1999,tt0120458,Virus,dubious,FAIL,,,104884652
+1999,tt0120891,Wild Wild West,men,FAIL,,,244730855
+1999,tt0131646,Wing Commander,men,FAIL,,,41953861
+1998,tt0120577,54,notalk,FAIL,,,18578720
+1998,tt0120623,A Bug&#39;s Life,ok,PASS,kids,G,64310954
+1998,tt0120586,American History X,men,FAIL,,,14291323
+1998,tt0120591,Armageddon,notalk,FAIL,,,200078524
+1998,tt0120603,Beloved,ok,PASS,horror,R,75744013
+1998,tt0120611,Blade,notalk,FAIL,,,64310954
+1998,tt0144120,Bride of Chucky,notalk,FAIL,,,35728308
+1998,tt0118789,Buffalo &#39;66,notalk,FAIL,,,2143698
+1998,tt0118929,Dark City,notalk,FAIL,,,38586572
+1998,tt0120647,Deep Impact,ok,PASS,drama,PG13,114330585
+1998,tt0134619,Disturbing Behavior,notalk,FAIL,,,21436985
+1998,tt0127536,Elizabeth,ok,PASS,drama,R,35728308
+1998,tt0120660,Enemy of the State,notalk,FAIL,,,121476247
+1998,tt0120631,Ever After,ok,PASS,romance,PG13,37157440
+1998,tt0120669,Fear and Loathing in Las Vegas,notalk,FAIL,,,26438948
+1998,tt0154420,Festen (The Celebration),dubious,FAIL,,,1857872
+1998,tt0162973,Get Real,men,FAIL,,,2858265
+1998,tt0120685,Godzilla,dubious,FAIL,,,178641539
+1998,tt0120694,Halloween H20: 20 Years Later,ok,PASS,horror,R,24295249
+1998,tt0147612,Happiness,ok,PASS,drama,NR,4287397
+1998,tt0119313,Hope Floats,ok,PASS,romance,PG13,42873969
+1998,tt0147004,Little Voice,ok,PASS,drama,R,8574794
+1998,tt0120735,"Lock, Stock and Two Smoking Barrels",notalk,FAIL,,,1929329
+1998,tt0120738,Lost in Space,ok,PASS,action,PG13,114330585
+1998,tt0120749,Mercury Rising,notalk,FAIL,,,85747939
+1998,tt0120762,Mulan,dubious,FAIL,,,128621908
+1998,tt0120780,Out of Sight,men,FAIL,,,68598351
+1998,tt0138704,Pi,men,FAIL,,,97181
+1998,tt0120791,Practical Magic,ok,PASS,romance,PG13,85747939
+1998,tt0119942,Primary Colors,ok,PASS,drama,R,92893600
+1998,tt0120800,Quest for Camelot,ok,PASS,kids,G,57165293
+1998,tt0128442,Rounders,notalk,FAIL,,,17149588
+1998,tt0130827,Run Lola Run,notalk,FAIL,,,2500982
+1998,tt0120812,Rush Hour,ok,PASS,action,PG13,50019631
+1998,tt0128445,Rushmore,notalk,FAIL,,,14291323
+1998,tt0120813,Safe Men,nowomen,FAIL,,,1429132
+1998,tt0120815,Saving Private Ryan,nowomen,FAIL,,,92893600
+1998,tt0138097,Shakespeare in Love,ok,PASS,romance,R,37157440
+1998,tt0120828,Six Days Seven Nights,notalk,FAIL,,,114330585
+1998,tt0120148,Sliding Doors,ok,PASS,drama,R,8574794
+1998,tt0120831,Slums of Beverly Hills,ok,PASS,drama,R,7145662
+1998,tt0122718,Small Soldiers,notalk,FAIL,,,57165293
+1998,tt0120321,Smoke Signals,ok,PASS,drama,PG13,2858265
+1998,tt0120184,Sphere,notalk,FAIL,,,104326659
+1998,tt0120844,Star Trek: Insurrection,ok,PASS,scifi,PG,100039262
+1998,tt0120686,Stepmom,ok,PASS,drama,PG13,71456616
+1998,tt0118661,The Avengers,ok,PASS,action,PG13,85747939
+1998,tt0118715,The Big Lebowski,notalk,FAIL,,,21436985
+1998,tt0133751,The Faculty,dubious,FAIL,,,21436985
+1998,tt0120744,The Man in the Iron Mask,notalk,FAIL,,,50019631
+1998,tt0120746,The Mask of Zorro,notalk,FAIL,,,92893600
+1998,tt0120768,The Negotiator,notalk,FAIL,,,71456616
+1998,tt0120794,The Prince of Egypt,notalk,FAIL,,,85747939
+1998,tt0120108,The Proposition,men,FAIL,,,28582646
+1998,tt0120863,The Thin Red Line,notalk,FAIL,,,74314880
+1998,tt0120382,The Truman Show,notalk,FAIL,,,85747939
+1998,tt0129387,There&#39;s Something About Mary,ok,PASS,romance,R,31440911
+1998,tt0146336,Urban Legend,ok,PASS,horror,R,20007852
+1998,tt0120877,Vampires (John Carpenter&#39;s),nowomen,FAIL,,,28582646
+1998,tt0120879,Velvet Goldmine,men,FAIL,,,12862191
+1998,tt0120890,Wild Things,men,FAIL,,,28582646
+1998,tt0128853,You&#39;ve Got Mail,ok,PASS,drama,PG,92893600
+1997,tt0120133,A Simple Wish,ok,PASS,comedy,PG,40634668
+1997,tt0118570,Air Bud,notalk,FAIL,,,4353714
+1997,tt0118571,Air Force One,notalk,FAIL,,,123355241
+1997,tt0118583,Alien: Resurrection,ok,PASS,scifi,R,87074287
+1997,tt0118617,Anastasia,ok,PASS,kids,G,76915621
+1997,tt0119822,As Good as It Gets,ok,PASS,drama,PG13,72561906
+1997,tt0118655,Austin Powers: International Man of Mystery,men,FAIL,,,26122286
+1997,tt0118688,Batman &amp; Robin,men,FAIL,,,181404766
+1997,tt0118749,Boogie Nights,dubious,FAIL,,,21768572
+1997,tt0118829,Cats Don&#39;t Dance,ok,PASS,kids,G,46439620
+1997,tt0118842,Chasing Amy,ok,PASS,romance,R,362810
+1997,tt0128996,Cinderella,ok,PASS,kids,G,4208591
+1997,tt0118866,Clockwatchers,ok,PASS,comedy,PG13,2902476
+1997,tt0118880,Con Air,notalk,FAIL,,,116099050
+1997,tt0118883,Conspiracy Theory,men,FAIL,,,116099050
+1997,tt0118884,Contact,ok,PASS,drama,PG,130611431
+1997,tt0119080,Eve&#39;s Bayou,ok,PASS,drama,R,7256191
+1997,tt0119081,Event Horizon,ok,PASS,horror,R,87074287
+1997,tt0119114,Fever Pitch,ok,PASS,romance,R,58049525
+1997,tt0119137,Flubber,men,FAIL,,,116099050
+1997,tt0119173,G.I. Jane,ok,PASS,drama,R,72561906
+1997,tt0119177,Gattaca,notalk,FAIL,,,52244573
+1997,tt0119190,George of the Jungle,ok,PASS,kids,PG,79818097
+1997,tt0119217,Good Will Hunting,nowomen,FAIL,,,14512381
+1997,tt0119229,Grosse Pointe Blank,ok,PASS,comedy,R,21768572
+1997,tt0119282,Hercules,ok,PASS,kids,G,101586669
+1997,tt0119345,I Know What You Did Last Summer,ok,PASS,horror,R,24671048
+1997,tt0119361,In the Company of Men,notalk,FAIL,,,36281
+1997,tt0119396,Jackie Brown,ok,PASS,drama,R,17414858
+1997,tt0119468,Kiss the Girls,men,FAIL,,,39183429
+1997,tt0119488,L.A. Confidential,notalk,FAIL,,,50793334
+1997,tt0119528,Liar Liar,notalk,FAIL,,,65305716
+1997,tt0119654,Men in Black,notalk,FAIL,,,130611431
+1997,tt0119698,Mononoke-hime,ok,PASS,action,PG13,29024763
+1997,tt0119707,Mortal Kombat: Annihilation,ok,PASS,action,PG13,43537144
+1997,tt0417001,Must love Dogs,men,FAIL,,,50793334
+1997,tt0119738,My Best Friend&#39;s Wedding,men,FAIL,,,66756954
+1997,tt0124819,Orgazmo,notalk,FAIL,,,1451238
+1997,tt0120082,Scream 2,ok,PASS,horror,R,34829715
+1997,tt0120094,Selena,ok,PASS,drama,PG,29024763
+1997,tt0120152,Smilla&#39;s Sense of Snow,ok,PASS,action,R,50793334
+1997,tt0120177,Spawn,ok,PASS,horror,R,58049525
+1997,tt0120201,Starship Troopers,ok,PASS,action,R,145123812
+1997,tt0118971,The Devil&#39;s Advocate,ok,PASS,drama,R,82720573
+1997,tt0119116,The Fifth Element,notalk,FAIL,,,137867622
+1997,tt0119174,The Game,notalk,FAIL,,,72561906
+1997,tt0119567,The Lost World: Jurassic Park,dubious,FAIL,,,108842859
+1997,tt0119874,The Peacemaker,dubious,FAIL,,,72561906
+1997,tt0119925,The Postman,notalk,FAIL,,,116099050
+1997,tt0120338,Titanic,ok,PASS,romance,PG13,290247625
+1997,tt0120461,Volcano,ok,PASS,action,PG13,130611431
+1996,tt0115591,August,dubious,FAIL,,,5049561
+1996,tt0115736,Bound,ok,PASS,romance,R,6683242
+1996,tt0115759,Broken Arrow,nowomen,FAIL,,,96535720
+1996,tt0115857,Chain Reaction,notalk,FAIL,,,81684071
+1996,tt0116136,DragonHeart,men,FAIL,,,84654401
+1996,tt0116191,Emma,ok,PASS,romance,PG,8762473
+1996,tt0116225,Escape from L.A.,notalk,FAIL,,,74258246
+1996,tt0116260,Eye for an Eye,ok,PASS,drama,R,29703299
+1996,tt0116282,Fargo,ok,PASS,drama,R,10396154
+1996,tt0116361,Freeway,ok,PASS,drama,R,4455495
+1996,tt0116367,From Dusk Till Dawn,notalk,FAIL,,,29703299
+1996,tt0116477,Hamlet,notalk,FAIL,,,2970330
+1996,tt0116493,Harriet the Spy,ok,PASS,kids,PG,19307144
+1996,tt0116629,Independence Day,ok,PASS,action,PG13,111387369
+1996,tt0116705,Jingle All the Way,notalk,FAIL,,,89109896
+1996,tt0116778,Kingpin,notalk,FAIL,,,37129123
+1996,tt0116931,Love and Other Catastrophes,ok,PASS,romance,R,371291
+1996,tt0116996,Mars Attacks!,ok,PASS,comedy,PG13,118813194
+1996,tt0117060,Mission: Impossible,notalk,FAIL,,,118813194
+1996,tt0117509,Romeo + Juliet,dubious,FAIL,,,21534891
+1996,tt0117571,Scream,ok,PASS,horror,R,22277474
+1996,tt0117589,Secrets &amp; Lies,ok,PASS,drama,R,6683242
+1996,tt0117603,Set It Off,ok,PASS,drama,R,13366484
+1996,tt0117705,Space Jam,notalk,FAIL,,,118813194
+1996,tt0117723,Spy Hard,notalk,FAIL,,,26732969
+1996,tt0117731,Star Trek: First Contact,ok,PASS,action,PG13,68317587
+1996,tt0117765,Striptease,dubious,FAIL,,,74258246
+1996,tt0117887,That Thing You Do!,ok,PASS,comedy,PG,3712912
+1996,tt0115798,The Cable Guy,notalk,FAIL,,,69802752
+1996,tt0115963,The Craft,ok,PASS,drama,R,22277474
+1996,tt0116209,The English Patient,ok,PASS,drama,R,51980772
+1996,tt0116277,The Fan,notalk,FAIL,,,81684071
+1996,tt0116313,The First Wives Club,ok,PASS,comedy,PG,44554948
+1996,tt0116421,The Glimmer Man,notalk,FAIL,,,66832422
+1996,tt0116583,The Hunchback of Notre Dame,notalk,FAIL,,,148516493
+1996,tt0116908,The Long Kiss Goodnight,notalk,FAIL,,,96535720
+1996,tt0117057,The Mirror Has Two Faces,ok,PASS,romance,PG13,62376927
+1996,tt0117500,The Rock,notalk,FAIL,,,111387369
+1996,tt0117951,Trainspotting,men,FAIL,,,4604011
+1996,tt0117998,Twister,ok,PASS,action,PG13,130694514
+1996,tt0118113,Walking and Talking,ok,PASS,romance,R,1485165
+1996,tt0115856,When the Cat&#39;s Away,ok,PASS,romance,R,445549
+1995,tt0112384,Apollo 13,ok,PASS,drama,PG,99370665
+1995,tt0112401,Assassins,notalk,FAIL,,,76438973
+1995,tt0112462,Batman Forever,notalk,FAIL,,,152877946
+1995,tt0112471,Before Sunrise,nowomen,FAIL,,,3821949
+1995,tt0112573,Braveheart,men,FAIL,,,110072121
+1995,tt0112641,Casino,men,FAIL,,,79496532
+1995,tt0112642,Casper,ok,PASS,kids,PG,84082870
+1995,tt0112697,Clueless,ok,PASS,romance,PG13,20944279
+1995,tt0112715,Congo,nowomen,FAIL,,,76438973
+1995,tt0112722,Copycat,dubious,FAIL,,,30575589
+1995,tt0112864,Die Hard: With a Vengeance,notalk,FAIL,,,137590151
+1995,tt0113101,Four rooms,notalk,FAIL,,,6115118
+1995,tt0113321,Home for the holidays,ok,PASS,romance,PG13,30575589
+1995,tt0113497,Jumanji,ok,PASS,kids,PG,99370665
+1995,tt0113749,Mallrats,notalk,FAIL,,,9325555
+1995,tt0113855,Mortal Kombat,notalk,FAIL,,,30575589
+1995,tt0114069,Outbreak,ok,PASS,drama,R,76438973
+1995,tt0114148,Pocahontas,ok,PASS,kids,G,84082870
+1995,tt0114319,Sabrina,ok,PASS,drama,PG,88669209
+1995,tt0114323,Safe,ok,PASS,drama,R,50449722
+1995,tt0114369,Se7en,notalk,FAIL,,,45863384
+1995,tt0114388,Sense and Sensibility,ok,PASS,romance,PG,25224861
+1995,tt0114436,Showgirls,ok,PASS,drama,R,61151178
+1995,tt0114508,Species,dubious,FAIL,,,53507281
+1995,tt0114614,Tank Girl,ok,PASS,comedy,R,38219486
+1995,tt0112346,The American President,ok,PASS,drama,PG13,94784326
+1995,tt0112579,The Bridges of Madison County,ok,PASS,romance,PG13,33633148
+1995,tt0113416,The Incredibly True Adventures of Two Girls in Love,ok,PASS,romance,R,382195
+1995,tt0113957,The Net,ok,PASS,drama,PG13,33633148
+1995,tt0114214,The Quick and the Dead,notalk,FAIL,,,48920943
+1995,tt0114814,The Usual Suspects,notalk,FAIL,,,9172677
+1995,tt0114709,Toy Story,notalk,FAIL,,,45863384
+1995,tt0114746,Twelve Monkeys,notalk,FAIL,,,44334604
+1995,tt0114898,Waterworld,nowomen,FAIL,,,267536405
+1995,tt0114906,Welcome to the Dollhouse,ok,PASS,comedy,R,1223024
+1994,tt0109040,Ace Ventura: Pet Detective,men,FAIL,,,18859976
+1994,tt0109254,Beverly Hills Cop III,nowomen,FAIL,,,78583235
+1994,tt0109445,Clerks.,notalk,FAIL,,,42435
+1994,tt0109504,Crooklyn,ok,PASS,drama,PG13,22003306
+1994,tt0109686,Dumb &amp; Dumber,men,FAIL,,,25146635
+1994,tt0109707,Ed Wood,ok,PASS,drama,R,28289965
+1994,tt0109830,Forrest Gump,notalk,FAIL,,,86441558
+1994,tt0110322,Legends of the Fall,ok,PASS,drama,R,47149941
+1994,tt0110367,Little Women,ok,PASS,romance,PG,23574970
+1994,tt0110622,Naked Gun 33 1/3: The Final Insult,men,FAIL,,,47149941
+1994,tt0110857,Police Academy: Mission to Moscow,notalk,FAIL,,,15716647
+1994,tt0110889,Priest,ok,PASS,drama,R,94299882
+1994,tt0110912,Pulp Fiction,ok,PASS,drama,R,12573318
+1994,tt0111257,Speed,ok,PASS,action,R,47149941
+1994,tt0111282,Stargate,notalk,FAIL,,,86441558
+1994,tt0111301,Street Fighter,ok,PASS,action,PG13,55008264
+1994,tt0109446,The Client,ok,PASS,drama,PG13,70724911
+1994,tt0110074,The Hudsucker Proxy,notalk,FAIL,,,62866588
+1994,tt0110357,The Lion King,notalk,FAIL,,,124633011
+1994,tt0110475,The Mask,notalk,FAIL,,,28289965
+1994,tt0111070,The Santa Clause,notalk,FAIL,,,34576623
+1994,tt0111143,The Shadow,nowomen,FAIL,,,62866588
+1994,tt0111161,The Shawshank Redemption,nowomen,FAIL,,,39291617
+1994,tt0111255,The Specialist,notalk,FAIL,,,70724911
+1994,tt0111438,Timecop,notalk,FAIL,,,44006612
+1994,tt0111503,True Lies,notalk,FAIL,,,157166470
+1993,tt0106582,Cliffhanger,notalk,FAIL,,,104809829
+1993,tt0106611,Cool Runnings,notalk,FAIL,,,22574425
+1993,tt0106677,Dazed and Confused,ok,PASS,comedy,R,11125966
+1993,tt0107007,Gettysburg,nowomen,FAIL,,,40311473
+1993,tt0107048,Groundhog Day,men,FAIL,,,23541900
+1993,tt0107120,Hocus Pocus,ok,PASS,kids,PG,45148849
+1993,tt0107290,Jurassic Park,ok,PASS,action,PG13,101584911
+1993,tt0107614,Mrs. Doubtfire,ok,PASS,comedy,PG13,40311473
+1993,tt0311648,Pieces of April,ok,PASS,drama,PG13,483738
+1993,tt0108052,Schindler&#39;s List,ok,PASS,drama,R,40311473
+1993,tt0108255,Super Mario Bros.,dubious,FAIL,,,67723274
+1993,tt0106226,The Age of Innocence,ok,PASS,romance,PG,54823603
+1993,tt0106977,The Fugitive,men,FAIL,,,70948192
+1993,tt0112389,The Princess and the Cobbler,nowomen,FAIL,,,38699014
+1993,tt0107943,The Remains of the Day,nowomen,FAIL,,,24186884
+1993,tt0108358,Tombstone,ok,PASS,drama,R,40311473
+1992,tt0104257,A Few Good Men,notalk,FAIL,,,54791459
+1992,tt0104694,A League of Their Own,ok,PASS,comedy,PG,66413889
+1992,tt0103639,Aladdin,nowomen,FAIL,,,46489723
+1992,tt0103644,Alien 3,nowomen,FAIL,,,91319098
+1992,tt0106308,Army of Darkness,men,FAIL,,,18263820
+1992,tt0103776,Batman Returns,nowomen,FAIL,,,132827779
+1992,tt0103893,Buffy the Vampire Slayer,ok,PASS,comedy,PG13,11622431
+1992,tt0104070,Death Becomes Her,ok,PASS,comedy,PG13,91319098
+1992,tt0104815,El Mariachi,nowomen,FAIL,,,11622
+1992,tt0104348,Glengarry Glen Ross,nowomen,FAIL,,,20754340
+1992,tt0104412,Hero,notalk,FAIL,,,69734584
+1992,tt0104431,Home Alone 2: Lost in New York,notalk,FAIL,,,33206945
+1992,tt0104797,Malcolm X,dubious,FAIL,,,58112153
+1992,tt0104952,My Cousin Vinny,notalk,FAIL,,,18263820
+1992,tt0105236,Reservoir Dogs,nowomen,FAIL,,,1992417
+1992,tt0104036,The Crying Game,men,FAIL,,,6641389
+1992,tt0104868,The Mighty Ducks,notalk,FAIL,,,16603472
+1992,tt0104940,The Muppet Christmas Carol,notalk,FAIL,,,19924167
+1992,tt0105151,The Player,ok,PASS,comedy,R,13282778
+1992,tt0105793,Wayne&#39;s World,notalk,FAIL,,,33206945
+1991,tt0101414,Beauty and the Beast,ok,PASS,kids,G,34216807
+1991,tt0101452,Bill &amp; Ted&#39;s Bogus Journey,notalk,FAIL,,,34216807
+1991,tt0102057,Hook,men,FAIL,,,119758826
+1991,tt0102070,Hudson Hawk,ok,PASS,action,R,111204624
+1991,tt0102798,Robin Hood: Prince of Thieves,dubious,FAIL,,,85542018
+1991,tt0102943,Slacker,ok,PASS,comedy,R,39349
+1991,tt0102975,Star Trek VI: The Undiscovered Country,men,FAIL,,,46192690
+1991,tt0103060,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,ok,PASS,action,PG,42771009
+1991,tt0103064,Terminator 2: Judgement Day,dubious,FAIL,,,171084037
+1991,tt0101272,The Addams Family,ok,PASS,comedy,PG13,51325211
+1991,tt0102510,The Naked Gun 2 1/2: The Smell of Fear,notalk,FAIL,,,39349328
+1991,tt0102926,The Silence of the Lambs,ok,PASS,horror,R,34216807
+1991,tt0103247,White Fang,notalk,FAIL,,,23951765
+1990,tt0099088,Back to the Future Part III,notalk,FAIL,,,71319016
+1990,tt0099253,Child&#39;s Play 2,ok,PASS,horror,R,23178680
+1990,tt0099817,Dark Angel (I Come in Peace),nowomen,FAIL,,,12480828
+1990,tt0099423,Die Hard 2,dubious,FAIL,,,124808278
+1990,tt0099487,Edward Scissorhands,ok,PASS,drama,PG13,35659508
+1990,tt0099582,Flatliners,ok,PASS,horror,R,46357360
+1990,tt0099653,Ghost,men,FAIL,,,39225459
+1990,tt0099685,Goodfellas,men,FAIL,,,44574385
+1990,tt0099785,Home Alone,men,FAIL,,,26744631
+1990,tt0100263,Nikita,ok,PASS,action,R,12480828
+1990,tt0100403,Predator 2,men,FAIL,,,62404139
+1990,tt0100405,Pretty Woman,ok,PASS,romance,R,24961656
+1990,tt0099810,The Hunt for Red October,notalk,FAIL,,,53489262
+1990,tt0100802,Total Recall,notalk,FAIL,,,222871925
+1990,tt0100814,Tremors,ok,PASS,horror,PG13,17829754
+1989,tt0096874,Back to the Future Part II,ok,PASS,comedy,PG,75183554
+1989,tt0096895,Batman,notalk,FAIL,,,65785609
+1989,tt0096928,Bill &amp; Ted&#39;s Excellent Adventure,men,FAIL,,,18795888
+1989,tt0097165,Dead Poets Society,notalk,FAIL,,,30825257
+1989,tt0097499,Henry V,ok,PASS,drama,PG13,16916300
+1989,tt0097576,Indiana Jones and the Last Crusade,nowomen,FAIL,,,90220264
+1989,tt0097742,Licence to Kill,men,FAIL,,,78942731
+1989,tt0097815,Major League,notalk,FAIL,,,20675477
+1989,tt0098206,Road House,notalk,FAIL,,,18795888
+1989,tt0098724,"Sex, Lies, and Videotape",men,FAIL,,,2255507
+1989,tt0098382,Star Trek V: The Final Frontier,notalk,FAIL,,,56387665
+1989,tt0096754,The Abyss,ok,PASS,scifi,PG13,131571219
+1989,tt0098519,Troop Beverly Hills,ok,PASS,comedy,PG,33832599
+1989,tt0098546,UHF,notalk,FAIL,,,9397944
+1988,tt0094612,Action Jackson,notalk,FAIL,,,13787529
+1988,tt0094625,Akira,notalk,FAIL,,,15757176
+1988,tt0094721,Beetle Juice,ok,PASS,comedy,PG,29544705
+1988,tt0092675,Bloodsport,notalk,FAIL,,,2954471
+1988,tt0094862,Child&#39;s Play,ok,PASS,horror,R,17726823
+1988,tt0094947,Dangerous Liaisons,ok,PASS,romance,R,27575058
+1988,tt0095016,Die Hard,ok,PASS,action,R,55150116
+1988,tt0095631,Midnight Run,men,FAIL,,,59089410
+1988,tt0095687,My Stepmother Is an Alien,ok,PASS,comedy,PG13,31514352
+1988,tt0095690,Mystic Pizza,ok,PASS,romance,R,11817882
+1988,tt0095889,Poltergeist III,ok,PASS,horror,PG13,18711647
+1988,tt0095953,Rain Man,notalk,FAIL,,,49241175
+1988,tt0096061,Scrooged,ok,PASS,comedy,PG13,63028704
+1988,tt0095489,The Land Before Time,ok,PASS,kids,G,24226658
+1988,tt0095497,The Last Temptation of Christ,men,FAIL,,,13787529
+1988,tt0096256,They Live,nowomen,FAIL,,,7878588
+1988,tt0096320,Twins,men,FAIL,,,29544705
+1988,tt0096438,Who Framed Roger Rabbit,notalk,FAIL,,,137875291
+1988,tt0096487,Young Guns,notalk,FAIL,,,25605411
+1987,tt0092644,Beverly Hills Cop II,notalk,FAIL,,,41007948
+1987,tt0092991,Evil Dead II,dubious,FAIL,,,7176391
+1987,tt0093010,Fatal Attraction,dubious,FAIL,,,28705563
+1987,tt0093105,"Good Morning, Vietnam",notalk,FAIL,,,26655166
+1987,tt0093177,Hellraiser,ok,PASS,horror,R,2050397
+1987,tt0093409,Lethal Weapon,notalk,FAIL,,,30755961
+1987,tt0093773,Predator,nowomen,FAIL,,,36907153
+1987,tt0093818,Radio Days,notalk,FAIL,,,32806358
+1987,tt0093870,RoboCop,notalk,FAIL,,,246047687
+1987,tt0094012,Spaceballs,dubious,FAIL,,,46544021
+1987,tt0094074,Superman IV: The Quest for Peace,ok,PASS,action,PG,34856756
+1987,tt0093389,The Last Emperor,dubious,FAIL,,,51259935
+1987,tt0093437,The Lost Boys,notalk,FAIL,,,17428378
+1987,tt0093779,The Princess Bride,men,FAIL,,,30755961
+1986,tt0090605,Aliens,ok,PASS,action,R,36104000
+1986,tt0090555,Crocodile Dundee,dubious,FAIL,,,10618824
+1986,tt0091203,Highlander,ok,PASS,action,R,33980236
+1986,tt0091225,Howard The Duck,dubious,FAIL,,,63712942
+1986,tt0091419,Little Shop of Horrors,notalk,FAIL,,,63712942
+1986,tt0091738,Peggy Sue Got Married,ok,PASS,comedy,PG13,38227765
+1986,tt0091763,Platoon,nowomen,FAIL,,,12742588
+1986,tt0092005,Stand By Me,nowomen,FAIL,,,16990118
+1986,tt0090848,The Clan of the Cave Bear,ok,PASS,drama,R,31856471
+1986,tt0092099,Top Gun,men,FAIL,,,31856471
+1985,tt0088763,Back to the Future,notalk,FAIL,,,41136059
+1985,tt0088846,Brazil,ok,PASS,scifi,R,32475836
+1985,tt0088944,Commando,notalk,FAIL,,,21650558
+1985,tt0088993,Day of the Dead,nowomen,FAIL,,,38971004
+1985,tt0089457,Ladyhawke,nowomen,FAIL,,,43301115
+1985,tt0089469,Legend,dubious,FAIL,,,54126394
+1985,tt0091578,My Beautiful Laundrette,men,FAIL,,,866022
+1985,tt0089893,Red Sonja,ok,PASS,action,PG13,38754498
+1985,tt0089908,Return to Oz,ok,PASS,kids,PG,58456506
+1985,tt0088939,The Color Purple,ok,PASS,drama,PG13,32475836
+1984,tt0087800,A nightmare on Elm Street,men,FAIL,,,78450540
+1984,tt0086879,Amadeus,ok,PASS,drama,R,40345992
+1984,tt0086960,Beverly Hills Cop,nowomen,FAIL,,,33621660
+1984,tt0086984,Body Double,men,FAIL,,,22414440
+1984,tt0087078,Conan the Destroyer,dubious,FAIL,,,40345992
+1984,tt0087182,Dune,dubious,FAIL,,,100864980
+1984,tt0087298,Friday the 13th Part IV: The Final Chapter,ok,PASS,horror,R,5827754
+1984,tt0087332,Ghostbusters,notalk,FAIL,,,67243320
+1984,tt0087363,Gremlins,notalk,FAIL,,,24655884
+1984,tt0087469,Indiana Jones and the Temple of Doom,nowomen,FAIL,,,62760432
+1984,tt0087928,Police Academy,dubious,FAIL,,,10086498
+1984,tt0087995,Repo Man,men,FAIL,,,3362166
+1984,tt0088161,Splash,notalk,FAIL,,,17931552
+1984,tt0088170,Star Trek III: The Search for Spock,notalk,FAIL,,,40345992
+1984,tt0087538,The Karate Kid,ok,PASS,action,PG,89657760
+1984,tt0088247,The Terminator,men,FAIL,,,14345242
+1983,tt0085549,Flashdance,ok,PASS,drama,R,16375486
+1983,tt0086190,Star Wars: Episode VI - Return of the Jedi,nowomen,FAIL,,,76029041
+1983,tt0086393,Superman III,ok,PASS,action,PG,91234849
+1983,tt0086541,Videodrome,men,FAIL,,,13923842
+1983,tt0086567,WarGames,notalk,FAIL,,,28072261
+1982,tt0083658,Blade Runner,notalk,FAIL,,,67571504
+1982,tt0083722,Cat People,ok,PASS,horror,R,30165850
+1982,tt0082198,Conan the Barbarian,notalk,FAIL,,,48265360
+1982,tt0083833,Diner,notalk,FAIL,,,12066340
+1982,tt0083866,E.T.: The Extra-Terrestrial,dubious,FAIL,,,25339314
+1982,tt0083929,Fast Times at Ridgemont High,men,FAIL,,,10859706
+1982,tt0083944,First Blood,nowomen,FAIL,,,33785752
+1982,tt0083972,Friday the 13th Part III,dubious,FAIL,,,5429853
+1982,tt0084516,Poltergeist,ok,PASS,horror,PG,25821968
+1982,tt0084522,Porky&#39;s,men,FAIL,,,9653072
+1982,tt0084726,Star Trek: The Wrath of Khan,dubious,FAIL,,,28959216
+1982,tt0083642,The Best Little Whorehouse in Texas,ok,PASS,comedy,R,49471994
+1982,tt0084805,Tootsie,notalk,FAIL,,,36199020
+1982,tt0084827,TRON,nowomen,FAIL,,,41025556
+1981,tt0082096,Das Boot,nowomen,FAIL,,,30742635
+1981,tt0082340,Escape from New York,nowomen,FAIL,,,15371317
+1981,tt0082418,Friday the 13th Part 2,notalk,FAIL,,,3202358
+1981,tt0082495,Halloween II,ok,PASS,horror,R,6404716
+1981,tt0082509,Heavy Metal,notalk,FAIL,,,23825542
+1981,tt0082517,History of the World: Part I,notalk,FAIL,,,28180748
+1981,tt0082971,Raiders of the Lost Ark,nowomen,FAIL,,,51237724
+1981,tt0083907,The Evil Dead,notalk,FAIL,,,960707
+1981,tt0081633,Time Bandits,notalk,FAIL,,,30742635
+1980,tt0080339,Airplane!,dubious,FAIL,,,9897188
+1980,tt0080492,Can&#39;t Stop the Music,ok,PASS,comedy,PG,56555357
+1980,tt0080716,Fame,ok,PASS,drama,R,50899822
+1980,tt0080745,Flash Gordon,dubious,FAIL,,,98971875
+1980,tt0080761,Friday the 13th,men,FAIL,,,48072054
+1980,tt0080855,Heaven&#39;s Gate,nowomen,FAIL,,,124421786
+1980,tt0081375,Private Benjamin,ok,PASS,comedy,R,42416518
+1980,tt0081398,Raging Bull,notalk,FAIL,,,50899822
+1980,tt0081534,Somewhere in Time,men,FAIL,,,14421616
+1980,tt0080684,Star Wars: Episode V - The Empire Strikes Back,nowomen,FAIL,,,65038661
+1980,tt0081573,Superman II,dubious,FAIL,,,152699465
+1980,tt0080455,The Blues Brothers,notalk,FAIL,,,76349732
+1980,tt0080749,The Fog,ok,PASS,horror,R,50899822
+1980,tt0081505,The Shining,men,FAIL,,,53727589
+1979,tt0078748,Alien,ok,PASS,horror,R,28886103
+1979,tt0078788,Apocalypse Now,nowomen,FAIL,,,101101360
+1979,tt0079574,Moonraker,notalk,FAIL,,,99496576
+1979,tt0079945,Star Trek: The Motion Picture,notalk,FAIL,,,112334844
+1979,tt0078767,The Amityville Horror,ok,PASS,horror,R,59376989
+1978,tt0077975,Animal House,men,FAIL,,,10712118
+1978,tt0077402,Dawn of the Dead,nowomen,FAIL,,,99979768
+1978,tt0077405,Days of Heaven,ok,PASS,romance,PG,10712118
+1978,tt0077631,Grease,ok,PASS,romance,PG13,21424236
+1978,tt0077651,Halloween,dubious,FAIL,,,53560590
+1978,tt0077713,I Spit on Your Grave,nowomen,FAIL,,,6248735
+1978,tt0078346,Superman,notalk,FAIL,,,196388829
+1978,tt0077416,The Deer Hunter,notalk,FAIL,,,53560590
+1977,tt0075784,A Bridge Too Far,notalk,FAIL,,,99921804
+1977,tt0075686,Annie Hall,ok,PASS,drama,PG,15372585
+1977,tt0075860,Close Encounters of the Third Kind,notalk,FAIL,,,76862926
+1977,tt0074486,Eraserhead,nowomen,FAIL,,,384315
+1977,tt0076141,High Anxiety,notalk,FAIL,,,13066697
+1977,tt0076245,Julia,ok,PASS,drama,PG,23058878
+1977,tt0076759,Star Wars,notalk,FAIL,,,42274609
+1976,tt0074156,Assault on Precinct 13,notalk,FAIL,,,122754817
+1976,tt0074512,Family Plot,ok,PASS,drama,PG,12275482
+1976,tt0074812,Logan&#39;s Run,men,FAIL,,,28642791
+1976,tt0074958,Network,ok,PASS,drama,R,15548943
+1976,tt0075148,Rocky,notalk,FAIL,,,4091827
+1976,tt0075222,Silent Movie,notalk,FAIL,,,18004040
+1976,tt0075249,Sparkle,ok,PASS,drama,PG,40918272
+1976,tt0075314,Taxi Driver,notalk,FAIL,,,4091827
+1975,tt0072684,Barry Lyndon,notalk,FAIL,,,47609104
+1975,tt0073195,Jaws,notalk,FAIL,,,51937204
+1975,tt0071853,Monty Python and the Holy Grail,men,FAIL,,,1731240
+1975,tt0073486,One Flew Over the Cuckoo&#39;s Nest,men,FAIL,,,19043641
+1975,tt0073629,The Rocky Horror Picture Show,dubious,FAIL,,,5193720
+1974,tt0071222,Black Christmas,ok,PASS,horror,R,42513535
+1974,tt0071230,Blazing Saddles,notalk,FAIL,,,12281688
+1974,tt0071360,The Conversation,notalk,FAIL,,,7557962
+1974,tt0071562,The Godfather: Part II,ok,PASS,drama,R,61408439
+1974,tt0072271,The Texas Chain Saw Massacre,notalk,FAIL,,,661322
+1974,tt0072308,The Towering Inferno,notalk,FAIL,,,661322
+1974,tt0072431,Young Frankenstein,men,FAIL,,,13226433
+1973,tt0069704,American Graffiti,men,FAIL,,,4074506
+1973,tt0068699,High Plains Drifter,notalk,FAIL,,,82329139
+1973,tt0070707,Sleeper,notalk,FAIL,,,10487788
+1973,tt0070047,The Exorcist,ok,PASS,horror,R,62926730
+1973,tt0070735,The Sting,notalk,FAIL,,,28841418
+1972,tt0068156,1776,notalk,FAIL,,,22288557
+1972,tt0069089,Pink Flamingos,ok,PASS,comedy,R,66866
+1972,tt0068646,The Godfather,notalk,FAIL,,,39004975
+1971,tt0067065,Escape from the Planet of the Apes,notalk,FAIL,,,14386286
+1971,tt0067741,Shaft,notalk,FAIL,,,305063707
+1971,tt0067800,Straw Dogs,notalk,FAIL,,,143862856
+1971,tt0067116,The French Connection,notalk,FAIL,,,12659931
+1971,tt0067992,Willy Wonka &amp; the Chocolate Factory,men,FAIL,,,17263543
+1970,tt0065466,Beyond the Valley of the Dolls,ok,PASS,comedy,R,5997631

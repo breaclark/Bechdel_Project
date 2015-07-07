@@ -1,0 +1,1791 @@
+,year,imdb,title,clean_test,binary,genre,age_rating,budget_2013$,star_rating,director,cast,writer
+0,2013,tt1711425,21 &amp; Over,notalk,0,Comedy,R,13000000,5.9,Jon Lucas,0.59999999999999998,0
+1,2012,tt1343727,Dredd 3D,ok,1,Action,R,45658735,7.0,Pete Travis,1.0,1.3333333333333333
+2,2013,tt2024544,12 Years a Slave,notalk,0,Biography,R,20000000,8.1,Steve McQueen,0.0,0.0
+3,2013,tt1272878,2 Guns,notalk,0,Action,R,61000000,6.8,Baltasar Kormákur,1.3999999999999999,0.0
+4,2013,tt0453562,42,men,0,Biography,PG13,40000000,7.5,Brian Helgeland,0.59999999999999998,0.0
+5,2013,tt1335975,47 Ronin,men,0,Action,PG13,225000000,6.3,Carl Rinsch,1.0,0.75
+6,2013,tt1606378,A Good Day to Die Hard,notalk,0,Action,R,92000000,5.3,John Moore,1.3999999999999999,0.0
+7,2013,tt2194499,About Time,ok,1,Drama,R,12000000,7.8,Richard Curtis,1.6000000000000001,3.0
+8,2013,tt1814621,Admission,ok,1,Comedy,PG13,13000000,5.7,Paul Weitz,1.0,1.0
+9,2013,tt1815862,After Earth,notalk,0,Action,PG13,130000000,4.9,M. Night Shyamalan,0.40000000000000002,0
+10,2013,tt1800241,American Hustle,ok,1,Crime,R,40000000,7.3,David O. Russell,3.6000000000000001,1.0
+11,2013,tt1322269,August: Osage County,ok,1,Drama,R,25000000,7.3,John Wells,4.4000000000000004,2.0
+12,2013,tt1559547,Beautiful Creatures,ok,1,Drama,PG13,50000000,6.2,Richard LaGravenese,2.3999999999999999,1.3333333333333333
+13,2013,tt2334873,Blue Jasmine,ok,1,Drama,PG13,18000000,7.3,Woody Allen,2.0,5.0
+14,2013,tt1535109,Captain Phillips,notalk,0,Biography,PG13,55000000,7.9,Paul Greengrass,2.0,0.0
+15,2013,tt1939659,Carrie,ok,1,Drama,R,30000000,6.0,Kimberly Peirce,2.0,1.3333333333333333
+16,2013,tt1985966,Cloudy with a Chance of Meatballs 2,nowomen,0,Animation,PG,78000000,6.5,Cody Cameron,0.80000000000000004,0.25
+17,2013,tt1690953,Despicable Me 2,ok,1,Animation,PG,76000000,7.5,Pierre Coffin,2.7999999999999998,2.0
+18,2013,tt2229499,Don Jon,dubious,0,Comedy,R,5500000,6.6,Joseph Gordon-Levitt,2.2000000000000002,0.0
+19,2013,tt1535108,Elysium,ok,1,Action,R,120000000,6.7,Neill Blomkamp,2.0,1.0
+20,2013,tt1731141,Ender&#39;s Game,men,0,Action,PG13,110000000,6.7,Gavin Hood,1.6000000000000001,0.0
+21,2013,tt0848537,Epic,ok,1,Animation,PG,100000000,6.7,Chris Wedge,1.0,1.8888888888888888
+22,2013,tt0765446,Escape from Planet Earth,ok,1,Animation,PG,40000000,5.9,Cal Brunker,1.8,1.3999999999999999
+23,2013,tt1211956,Escape Plan,men,0,Action,R,70000000,6.8,Mikael Håfström,0.59999999999999998,0
+24,2013,tt1288558,Evil Dead,ok,1,Horror,R,17000000,6.5,Fede Alvarez,1.3999999999999999,1.0
+25,2013,tt1905041,Fast and Furious 6,ok,1,Action,PG13,160000000,7.2,Justin Lin,2.7999999999999998,2.0
+26,2013,tt2294629,Frozen,ok,1,Animation,PG,150000000,7.7,Chris Buck,1.3999999999999999,1.6666666666666667
+27,2013,tt1583421,G.I. Joe: Retaliation,ok,1,Action,PG13,140000000,5.8,Jon M. Chu,1.0,2.0
+28,2013,tt1321870,Gangster Squad,notalk,0,Action,R,60000000,6.8,Ruben Fleischer,0.20000000000000001,0.0
+29,2013,tt2425486,Gloria,ok,1,Comedy,R,30000000,6.7,Sebastián Lelio,1.0,1.0
+30,2013,tt1454468,Gravity,nowomen,0,Sci-Fi,PG13,110000000,7.9,Alfonso Cuarón,3.0,0.33333333333333331
+31,2013,tt2191701,Grown Ups 2,men,0,Comedy,PG13,80000000,5.4,Dennis Dugan,1.8,0.20000000000000001
+32,2013,tt1428538,Hansel &amp; Gretel: Witch Hunters,ok,1,Action,R,50000000,6.1,Tommy Wirkola,2.0,1.0
+33,2013,tt1798709,Her,men,0,Drama,R,23000000,8.0,Spike Jonze,0.40000000000000002,0.0
+34,2013,tt2024432,Identity Thief,men,0,Comedy,R,35000000,5.7,Seth Gordon,0.80000000000000004,0.33333333333333331
+35,2013,tt2226417,Insidious: Chapter 2,men,0,Horror,PG13,5000000,6.6,James Wan,1.6000000000000001,0.25
+36,2013,tt1300854,Iron Man 3,dubious,0,Action,PG13,200000000,7.3,Shane Black,1.6000000000000001,0.5
+37,2013,tt1351685,Jack the Giant Slayer,nowomen,0,Adventure,PG13,195000000,6.3,Bryan Singer,2.0,0.0
+38,2013,tt1650554,Kick-Ass 2,ok,1,Action,R,28000000,6.7,Jeff Wadlow,1.6000000000000001,1.0
+39,2013,tt1204975,Last Vegas,notalk,0,Comedy,PG13,28000000,6.7,Jon Turteltaub,2.6000000000000001,2.0
+40,2013,tt1327773,Lee Daniels&#39; The Butler,ok,1,Biography,PG13,30000000,7.1,Lee Daniels,1.2,1.0
+41,2013,tt2002718,Machete Kills,ok,1,Action,R,2000000,5.6,Robert Rodriguez,2.7999999999999998,1.0
+42,2013,tt2023587,Mama,ok,1,Horror,PG13,15000000,6.2,Andrés Muschietti,1.0,1.3999999999999999
+43,2013,tt0770828,Man of Steel,ok,1,Action,PG13,225000000,7.2,Zack Snyder,2.7999999999999998,1.3999999999999999
+44,2013,tt1821549,Nebraska,ok,1,Adventure,R,12000000,7.8,Alexander Payne,1.0,1.0
+45,2013,tt1670345,Now You See Me,notalk,0,Crime,PG13,75000000,7.3,Louis Leterrier,1.3999999999999999,0
+46,2013,tt1483013,Oblivion,men,0,Action,PG13,120000000,7.0,Joseph Kosinski,1.8,0.66666666666666663
+47,2013,tt2302755,Olympus Has Fallen,notalk,0,Action,R,70000000,6.5,Antoine Fuqua,1.0,0.0
+48,2013,tt1623205,Oz the Great and Powerful,ok,1,Adventure,PG,200000000,6.4,Sam Raimi,3.2000000000000002,1.5
+49,2013,tt1663662,Pacific Rim,notalk,0,Action,PG13,190000000,7.0,Guillermo del Toro,0.59999999999999998,0.0
+50,2013,tt1980209,Pain &amp; Gain,notalk,0,Action,R,26000000,6.5,Michael Bay,1.8,1.0
+51,2013,tt1904996,Parker,ok,1,Action,R,35000000,6.2,Taylor Hackford,1.3999999999999999,1.5
+52,2013,tt1699755,Peeples,dubious,0,Comedy,PG13,15000000,5.2,Tina Gordon Chism,0.20000000000000001,0.0
+53,2013,tt1854564,Percy Jackson: Sea of Monsters,ok,1,Adventure,PG,90000000,5.9,Thor Freudenthal,1.0,1.0
+54,2013,tt1392214,Prisoners,ok,1,Crime,R,46000000,8.1,Denis Villeneuve,4.2000000000000002,0
+55,2013,tt0790736,R.I.P.D.,notalk,0,Action,PG13,130000000,5.6,Robert Schwentke,1.8,0.5
+56,2013,tt1821694,Red 2,ok,1,Action,PG13,84000000,6.7,Dean Parisot,3.6000000000000001,1.5
+57,2013,tt1411250,Riddick,notalk,0,Action,R,38000000,6.4,David Twohy,0.59999999999999998,1.0
+58,2013,tt2364841,Runner Runner,nowomen,0,Crime,R,30000000,5.6,Brad Furman,1.0,0.0
+59,2013,tt1979320,Rush,notalk,0,Action,R,38000000,8.2,Ron Howard,0.59999999999999998,1.0
+60,2013,tt1702439,Safe Haven,ok,1,Drama,PG13,28000000,6.7,Lasse Hallström,1.2,1.0
+61,2013,tt2140373,Saving Mr. Banks,ok,1,Biography,PG13,35000000,7.5,John Lee Hancock,1.2,1.0
+62,2013,tt2053463,Side Effects,ok,1,Crime,R,30000000,7.1,Steven Soderbergh,1.2,2.0
+63,2013,tt1408101,Star Trek Into Darkness,notalk,0,Action,PG13,190000000,7.8,J.J. Abrams,1.0,1.25
+64,2013,tt1572315,Texas Chainsaw 3D,ok,1,Horror,R,20000000,4.8,John Luessenhop,1.2,0
+65,2013,tt1931435,The Big Wedding,ok,1,Comedy,R,32500000,5.6,Justin Zackham,2.3999999999999999,1.0
+66,2013,tt0816442,The Book Thief,ok,1,Drama,PG13,19000000,7.6,Brian Percival,1.0,2.0
+67,2013,tt1911644,The Call,ok,1,Crime,R,13000000,6.7,Brad Anderson,1.8,1.0
+68,2013,tt1457767,The Conjuring,ok,1,Horror,R,20000000,7.5,James Wan,2.0,0
+69,2013,tt2193215,The Counselor,ok,1,Crime,R,25000000,5.4,Ridley Scott,1.8,1.0
+70,2013,tt0481499,The Croods,men,0,Animation,PG,135000000,7.3,Kirk De Micco,1.6000000000000001,1.0
+71,2013,tt2404311,The Family,men,0,Comedy,R,30000000,6.3,Luc Besson,1.3999999999999999,1.0
+72,2013,tt1837703,The Fifth Estate,notalk,0,Biography,R,26000000,6.1,Bill Condon,0.0,0.0
+73,2013,tt2005374,The Frozen Ground,nowomen,0,Biography,R,19200000,6.4,Scott Walker,1.2,0.0
+74,2013,tt1343092,The Great Gatsby,dubious,0,Drama,PG13,190000000,7.3,Baz Luhrmann,0.0,0.66666666666666663
+75,2013,tt1951261,The Hangover part 3,men,0,Comedy,R,103000000,5.9,Todd Phillips,0.59999999999999998,0.5
+76,2013,tt2404463,The Heat,ok,1,Action,R,43000000,6.6,Paul Feig,3.3999999999999999,1.0
+77,2013,tt1170358,The Hobbit: The Desolation of Smaug,notalk,0,Adventure,PG13,250000000,8.0,Peter Jackson,0.20000000000000001,0.59999999999999998
+78,2013,tt1517260,The Host,dubious,0,Adventure,PG13,50000000,5.9,Andrew Niccol,0.0,1.5
+79,2013,tt1951264,The Hunger Games: Catching Fire,ok,1,Adventure,PG13,130000000,7.7,Francis Lawrence,1.3999999999999999,1.3333333333333333
+80,2013,tt0790628,The Incredible Burt Wonderstone,notalk,0,Comedy,PG13,32000000,5.9,Don Scardino,2.2000000000000002,0.5
+81,2013,tt2234155,The Internship,notalk,0,Comedy,PG13,58000000,6.3,Shawn Levy,1.6000000000000001,1.0
+82,2013,tt2034139,The Last Exorcism Part II,ok,1,Drama,PG13,4000000,3.9,Ed Gass-Donnelly,1.0,1.2
+83,2013,tt1210819,The Lone Ranger,notalk,0,Action,PG13,275000000,6.5,Gore Verbinski,3.3999999999999999,1.1666666666666667
+84,2013,tt1538403,The Mortal Instruments: City of Bones,ok,1,Action,PG13,60000000,6.0,Harald Zwart,1.3999999999999999,1.0
+85,2013,tt2184339,The Purge,dubious,0,Horror,R,3000000,5.6,James DeMonaco,0.20000000000000001,0.0
+86,2013,tt2017020,The Smurfs 2,ok,1,Animation,PG,110000000,5.4,Raja Gosnell,2.2000000000000002,3.3999999999999999
+87,2013,tt1758795,The To Do List,ok,1,Comedy,R,1500000,5.8,Maggie Carey,1.8,1.0
+88,2013,tt1727388,The Way Way Back,ok,1,Comedy,PG13,5000000,7.4,Nat Faxon,3.6000000000000001,1.0
+89,2013,tt0993846,The Wolf of Wall Street,notalk,0,Biography,R,100000000,8.2,Martin Scorsese,0.80000000000000004,0.5
+90,2013,tt1430132,The Wolverine,ok,1,Action,PG13,115000000,6.7,James Mangold,1.8,1.0
+91,2013,tt1213663,The World&#39;s End,men,0,Action,R,20000000,7.0,Edgar Wright,0.0,2.0
+92,2013,tt1245492,This Is the End,notalk,0,Comedy,R,32000000,6.7,Evan Goldberg,0.80000000000000004,0.0
+93,2013,tt1981115,Thor: The Dark World,dubious,0,Action,PG13,170000000,7.1,Alan Taylor,2.7999999999999998,0.875
+94,2013,tt1924429,Trance,nowomen,0,Crime,R,16000000,7.0,Danny Boyle,1.0,0
+95,2013,tt1860353,Turbo,dubious,0,Animation,PG,135000000,6.5,David Soren,2.2000000000000002,0.0
+96,2013,tt1588173,Warm Bodies,men,0,Comedy,PG13,30000000,6.9,Jonathan Levine,0.40000000000000002,0.0
+97,2013,tt1723121,We&#39;re the Millers,ok,1,Action,R,37000000,7.1,Rawson Marshall Thurber,1.8,1.3333333333333333
+98,2013,tt2334879,White House Down,men,0,Action,PG13,150000000,6.4,Roland Emmerich,0.40000000000000002,0.0
+99,2013,tt0816711,World War Z,dubious,0,Action,PG13,190000000,7.0,Marc Forster,0.20000000000000001,0.5
+100,2012,tt1611224,Abraham Lincoln: Vampire Hunter,dubious,0,Action,R,68488103,6.0,Timur Bekmambetov,0.20000000000000001,0.0
+101,2012,tt1591479,Act of Valor,nowomen,0,Action,R,12175663,6.5,Mike McCoy,0.0,0.0
+102,2012,tt1602620,Amour,dubious,0,Drama,PG13,9841994,7.8,Michael Haneke,0.40000000000000002,0.0
+103,2012,tt1781769,Anna Karenina,men,0,Drama,R,49717290,6.6,Joe Wright,0.20000000000000001,0.0
+104,2012,tt1024648,Argo,ok,1,Drama,R,45151416,7.8,Ben Affleck,2.3999999999999999,1.0
+105,2012,tt1440129,Battleship,notalk,0,Action,PG13,212059460,5.9,Peter Berg,0.80000000000000004,2.0
+106,2012,tt2125435,Beasts of the Southern Wild,dubious,0,Drama,PG13,1826349,7.3,Benh Zeitlin,0.0,0.0
+107,2012,tt1758575,Blue Like Jazz,ok,1,Comedy,PG13,1217566,5.9,Steve Taylor,1.2,1.0
+108,2012,tt1217209,Brave,ok,1,Animation,PG,187708135,7.2,Mark Andrews,1.8,1.6666666666666667
+109,2012,tt1308729,Bullet to the Head,nowomen,0,Action,R,55805121,5.7,Walter Hill,0.20000000000000001,0.0
+110,2012,tt1991245,Chernobyl Diaries,notalk,0,Horror,R,1014639,5.0,Bradley Parker,0.0,0.75
+111,2012,tt1706593,Chronicle,notalk,0,Drama,PG13,12175663,7.1,Josh Trank,0.20000000000000001,0.0
+112,2012,tt1371111,Cloud Atlas,ok,1,Drama,R,103493134,7.5,Tom Tykwer,4.4000000000000004,3.75
+113,2012,tt1524137,Contraband,ok,1,Action,R,25365964,6.5,Baltasar Kormákur,1.8,1.0
+114,2012,tt1853728,Django Unchained,notalk,0,Western,R,101463857,8.5,Quentin Tarantino,1.3999999999999999,3.0
+115,2012,tt1907668,Flight,dubious,0,Drama,R,31453796,7.3,Robert Zemeckis,0.0,0.0
+116,2012,tt1142977,Frankenweenie,nowomen,0,Animation,PG,39570904,7.0,Tim Burton,0.59999999999999998,1.6666666666666667
+117,2012,tt0837562,Hotel Transylvania,ok,1,Animation,PG,86244278,7.1,Genndy Tartakovsky,2.2000000000000002,1.0
+118,2012,tt0790724,Jack Reacher,notalk,0,Action,PG13,60878314,7.0,Christopher McQuarrie,0.59999999999999998,0.0
+119,2012,tt2106476,Jagten,men,0,Drama,R,3500503,8.3,Thomas Vinterberg,0.0,0.0
+120,2012,tt0401729,John Carter,ok,1,Action,PG13,279025606,6.6,Andrew Stanton,2.2000000000000002,1.25
+121,2012,tt1764234,Killing Them Softly,nowomen,0,Crime,R,15219578,6.2,Andrew Dominik,0.40000000000000002,0.0
+122,2012,tt1707386,Les Miserables,ok,1,Drama,PG13,65951507,7.6,Tom Hooper,3.3999999999999999,1.5714285714285714
+123,2012,tt0454876,Life of Pi,notalk,0,Adventure,PG,121756628,8.0,Ang Lee,0.0,0.5
+124,2012,tt0443272,Lincoln,ok,1,Biography,PG13,65951507,7.4,Steven Spielberg,2.0,1.0
+125,2012,tt1277953,Madagascar 3: Europe&#39;s Most Wanted,men,0,Animation,PG,147122592,7.0,Eric Darnell,1.0,0.0
+126,2012,tt1409024,Men in Black III,notalk,0,Action,PG13,218147292,6.9,Barry Sonnenfeld,1.8,0.0
+127,2012,tt1667353,Mirror Mirror,dubious,0,Adventure,PG,86244278,5.6,Tarsem Singh,1.3999999999999999,0.0
+128,2012,tt1748122,Moonrise Kingdom,ok,1,Adventure,PG13,16234217,7.8,Wes Anderson,3.0,1.5
+129,2012,tt2094064,Much Ado About Nothing,dubious,0,Comedy,PG13,8117109,7.2,Joss Whedon,0.40000000000000002,2.0
+130,2012,tt1598828,One for the Money,ok,1,Action,PG13,42614820,5.3,Julie Anne Robinson,2.0,1.0
+131,2012,tt2109184,Paranormal Activity 4,ok,1,Horror,R,5073193,4.6,Henry Joost,1.0,2.3333333333333335
+132,2012,tt1623288,ParaNorman,notalk,0,Animation,PG,60878314,7.0,Chris Butler,0.20000000000000001,0.0
+133,2012,tt1047540,Parental Guidance,ok,1,Comedy,PG,25365964,6.0,Andy Fickman,2.2000000000000002,1.0
+134,2012,tt1716777,People Like Us,ok,1,Drama,PG13,16234217,7.1,Alex Kurtzman,2.6000000000000001,1.6666666666666667
+135,2012,tt1981677,Pitch Perfect,ok,1,Comedy,PG13,17248856,7.3,Jason Moore,1.2,0
+136,2012,tt1547234,Premium Rush,ok,1,Action,PG13,35512350,6.5,David Koepp,1.0,1.5
+137,2012,tt1234719,Red Dawn,notalk,0,Action,PG13,65951507,5.4,Dan Bradley,0.59999999999999998,0.20000000000000001
+138,2012,tt0485985,Red Tails,men,0,Action,PG13,58849037,5.9,Anthony Hemingway,0.40000000000000002,0
+139,2012,tt1446192,Rise of the Guardians,notalk,0,Animation,PG,147122592,7.3,Peter Ramsey,2.6000000000000001,2.5
+140,2012,tt1336608,Rock of Ages,ok,1,Comedy,PG13,71024700,5.9,Adam Shankman,2.0,1.75
+141,2012,tt1656190,Safe,notalk,0,Action,R,33483073,6.5,Boaz Yakin,0.59999999999999998,0.0
+142,2012,tt1862079,Safety Not Guaranteed,ok,1,Comedy,R,760979,7.0,Colin Trevorrow,1.2,1.0
+143,2012,tt1931533,Seven Psychopaths,notalk,0,Comedy,R,13697621,7.2,Martin McDonagh,1.3999999999999999,0.0
+144,2012,tt0938330,Silent Hill: Revelation 3D,ok,1,Horror,R,20292771,5.0,Michael J. Bassett,3.3999999999999999,1.0
+145,2012,tt1045658,Silver Linings Playbook,ok,1,Comedy,R,21307410,7.8,David O. Russell,2.2000000000000002,1.5
+146,2012,tt1922777,Sinister,men,0,Horror,R,3043916,6.8,Scott Derrickson,0.40000000000000002,0.0
+147,2012,tt1074638,Skyfall,dubious,0,Action,PG13,202927713,7.8,Sam Mendes,1.2,0.0
+148,2012,tt1735898,Snow White and the Huntsman,ok,1,Action,PG13,172488556,6.1,Rupert Sanders,2.0,0
+149,2012,tt1876451,Sparkle,ok,1,Drama,PG13,10146386,5.6,Salim Akil,1.3999999999999999,1.3333333333333333
+150,2012,tt2101441,Spring Breakers,ok,1,Action,R,5073193,5.3,Harmony Korine,2.2000000000000002,1.0
+151,2012,tt1800741,Step Up Revolution,ok,1,Drama,PG13,33483073,6.5,Scott Speer,1.0,1.5
+152,2012,tt1874789,Supporting Characters,men,0,Comedy,NR,60878,6.3,Daniel Schechter,0.40000000000000002,0.0
+153,2012,tt1637725,Ted,men,0,Comedy,R,50731928,7.0,Seth MacFarlane,1.8,0
+154,2012,tt1232200,That&#39;s My Boy,notalk,0,Comedy,R,68488103,5.6,Sean Anders,1.2,0.0
+155,2012,tt0948470,The Amazing Spider-Man,men,0,Action,PG13,223220484,7.1,Marc Webb,1.0,0.83333333333333337
+156,2012,tt0848228,The Avengers,notalk,0,Action,PG13,60878314,8.2,Joss Whedon,2.6000000000000001,1.6666666666666667
+157,2012,tt1345836,The Dark Knight Rises,notalk,0,Action,PG13,279025606,8.5,Christopher Nolan,3.0,0.59999999999999998
+158,2012,tt1560985,The Devil Inside,ok,1,Horror,R,1014639,4.1,William Brent Bell,1.0,1.0
+159,2012,tt1645170,The Dictator,notalk,0,Comedy,R,65951507,6.4,Larry Charles,0.0,0.0
+160,2012,tt1764651,The Expendables 2,ok,1,Action,R,101463857,6.7,Simon West,1.0,1.3333333333333333
+161,2012,tt1601913,The Grey,nowomen,0,Adventure,R,25365964,6.8,Joe Carnahan,1.8,0.0
+162,2012,tt0903624,The Hobbit: An Unexpected Journey,nowomen,0,Adventure,PG13,253659641,8.0,Peter Jackson,0.20000000000000001,0.59999999999999998
+163,2012,tt1392170,The Hunger Games,ok,1,Adventure,PG13,81171085,7.3,Gary Ross,2.0,0
+164,2012,tt1649419,The Impossible,men,0,Drama,PG13,40585543,7.6,J.A. Bayona,1.8,0.0
+165,2012,tt1258972,The Man with the Iron Fists,notalk,0,Action,R,15219578,5.4,RZA,1.0,0.66666666666666663
+166,2012,tt1560747,The Master,notalk,0,Drama,R,38048946,7.1,Paul Thomas Anderson,0.20000000000000001,0.0
+167,2012,tt1430626,The Pirates! Band of Misfits,notalk,0,Animation,PG,55805121,6.7,Peter Lord,0.0,0.0
+168,2012,tt1817273,The Place Beyond the Pines,notalk,0,Crime,R,15219578,7.3,Derek Cianfrance,0.40000000000000002,0.0
+169,2012,tt1673434,The Twilight Saga: Breaking Dawn - Part 2,dubious,0,Adventure,PG13,138193773,5.6,Bill Condon,1.2,3.0
+170,2012,tt1606389,The Vow,ok,1,Drama,PG13,8866236,6.8,Michael Sucsy,2.2000000000000002,1.75
+171,2012,tt1298649,The Watch,men,0,Action,R,55805121,5.7,Akiva Schaffer,0.59999999999999998,0.0
+172,2012,tt1596365,The Woman in Black,notalk,0,Drama,PG13,15219578,6.5,James Watkins,0.40000000000000002,1.0
+173,2012,tt1840417,The Words,notalk,0,Drama,PG13,6087831,7.1,Brian Klugman,1.8,0.0
+174,2012,tt1621045,Think Like a Man,ok,1,Comedy,PG13,12175663,6.6,Tim Story,1.8,1.0
+175,2012,tt1859650,To Rome With Love,men,0,Comedy,R,21814729,6.3,Woody Allen,0.59999999999999998,5.0
+176,2012,tt1386703,Total Recall,notalk,0,Action,PG13,126829821,6.3,Len Wiseman,1.6000000000000001,1.3333333333333333
+177,2012,tt1496025,Underworld: Awakening,ok,1,Action,R,71024700,6.4,Måns Mårlind,1.6000000000000001,1.5555555555555556
+178,2012,tt1655460,Wanderlust,ok,1,Comedy,R,32975753,5.6,David Wain,1.3999999999999999,1.0
+179,2012,tt1586265,What to Expect When You&#39;re Expecting,ok,1,Comedy,PG13,38048946,5.7,Kirk Jones,3.3999999999999999,1.6666666666666667
+180,2012,tt1870529,Won&#39;t Back Down,ok,1,Drama,PG,19278133,6.4,Daniel Barnz,2.7999999999999998,1.0
+181,2012,tt1646987,Wrath of the Titans,notalk,0,Action,PG13,152195785,5.8,Jonathan Liebesman,0.59999999999999998,0.0
+182,2012,tt1772341,Wreck-It Ralph,ok,1,Animation,PG,167415363,7.8,Rich Moore,1.3999999999999999,1.75
+183,2012,tt1790885,Zero Dark Thirty,ok,1,Drama,R,53268525,7.4,Kathryn Bigelow,1.3999999999999999,1.0
+184,2011,tt1622547,30 Minutes or Less,notalk,0,Action,R,28999342,6.2,Ruben Fleischer,0.40000000000000002,0.0
+185,2011,tt1306980,50/50,men,0,Comedy,R,8285526,7.7,Jonathan Levine,0.80000000000000004,0.0
+186,2011,tt1571222,A Dangerous Method,dubious,0,Biography,R,20713816,6.5,David Cronenberg,1.3999999999999999,1.0
+187,2011,tt1422136,A Lonely Place to Die,ok,1,Action,R,4142763,6.3,Julian Gilbey,1.2,1.0
+188,2011,tt1268799,A Very Harold &amp; Kumar 3D Christmas,notalk,0,Comedy,R,20713816,6.3,Todd Strauss-Schulson,0.20000000000000001,0.75
+189,2011,tt1549572,Another Earth,ok,1,Drama,PG13,181246,7.0,Mike Cahill,1.0,1.0
+190,2011,tt1772240,Apollo 18,nowomen,0,Horror,PG13,5178454,5.2,Gonzalo López-Gallego,0.0,0.0
+191,2011,tt1430607,Arthur Christmas,notalk,0,Animation,PG,88033717,7.1,Sarah Smith,2.0,0.5
+192,2011,tt1478964,Attack the Block,ok,1,Action,R,13463980,6.6,Joe Cornish,1.0,1.0
+193,2011,tt1284575,Bad Teacher,ok,1,Comedy,R,19678125,5.7,Jake Kasdan,2.7999999999999998,1.0
+194,2011,tt1217613,Battle: Los Angeles,notalk,0,Action,PG13,72498355,5.8,Jonathan Liebesman,0.0,0.0
+195,2011,tt1152398,Beastly,notalk,0,Drama,PG13,17606743,5.5,Daniel Barnz,0.0,0.0
+196,2011,tt1629705,Blackthorn,notalk,0,Action,R,4660609,6.6,Mateo Gil,0.80000000000000004,0
+197,2011,tt1478338,Bridesmaids,ok,1,Comedy,R,33659951,6.8,Paul Feig,1.2,1.0
+198,2011,tt0458339,Captain America: The First Avenger,notalk,0,Action,PG13,144996710,6.8,Joe Johnston,0.80000000000000004,0
+199,2011,tt1216475,Cars 2,men,0,Animation,G,207138157,6.3,John Lasseter,1.6000000000000001,0.25
+200,2011,tt1684628,Circumstance,ok,1,Drama,R,932122,5.9,Maryam Keshavarz,1.0,1.0
+201,2011,tt1657507,Colombiana,notalk,0,Action,PG13,41427631,6.4,Olivier Megaton,0.0,2.5
+202,2011,tt0816462,Conan the Barbarian,dubious,0,Action,R,20713816,5.2,Marcus Nispel,0.59999999999999998,0.0
+203,2011,tt1598778,Contagion,ok,1,Drama,PG13,62141447,6.7,Steven Soderbergh,2.3999999999999999,2.0
+204,2011,tt1372686,Coriolanus,men,0,Drama,R,10356908,6.2,Ralph Fiennes,1.0,1.0
+205,2011,tt0409847,Cowboys &amp; Aliens,notalk,0,Action,PG13,168817598,6.1,Jon Favreau,0.40000000000000002,1.0
+206,2011,tt1701990,Detention,ok,1,Comedy,R,10356908,5.8,Joseph Kahn,1.2,1.0
+207,2011,tt1650043,Diary of a Wimpy Kid: Rodrick Rules,notalk,0,Comedy,PG,18642434,6.6,David Bowers,1.6000000000000001,0.66666666666666663
+208,2011,tt1564349,Dolphin Tale,men,0,Drama,PG,38320559,6.9,Charles Martin Smith,0.20000000000000001,0
+209,2011,tt1462041,Dream House,ok,1,Drama,PG13,51784539,5.9,Jim Sheridan,2.3999999999999999,1.0
+210,2011,tt0780504,Drive,dubious,0,Crime,R,15535362,7.8,Nicolas Winding Refn,0.80000000000000004,0.0
+211,2011,tt1596343,Fast Five,ok,1,Action,PG13,129461348,7.3,Justin Lin,2.7999999999999998,2.0
+212,2011,tt1622979,Final Destination 5,men,0,Horror,R,41427631,5.9,Steven Quale,0.0,2.0
+213,2011,tt1068242,Footloose,ok,1,Comedy,PG13,24856579,5.8,Craig Brewer,2.2000000000000002,1.0
+214,2011,tt1438176,Fright Night,dubious,0,Comedy,R,31070724,6.4,Craig Gillespie,1.3999999999999999,0.66666666666666663
+215,2011,tt1133985,Green Lantern,notalk,0,Action,PG13,207138157,5.7,Martin Campbell,2.2000000000000002,0.2857142857142857
+216,2011,tt0480687,Hall Pass,men,0,Comedy,R,37284868,5.9,Bobby Farrelly,1.3999999999999999,0.80000000000000004
+217,2011,tt0993842,Hanna,ok,1,Action,PG13,31070724,6.8,Joe Wright,2.0,1.0
+218,2011,tt1201607,Harry Potter and the Deathly Hallows: Part 2,notalk,0,Adventure,PG13,129461348,8.1,David Yates,2.0,1.5
+219,2011,tt1506999,Haywire,nowomen,0,Action,R,23820888,5.8,Steven Soderbergh,0.40000000000000002,0
+220,2011,tt1403177,Hesher,notalk,0,Drama,R,7249836,7.1,Spencer Susser,1.3999999999999999,0.0
+221,2011,tt1562568,Higher Ground,ok,1,Drama,R,1864243,6.3,Vera Farmiga,1.0,1.0
+222,2011,tt1640459,Hobo with a Shotgun,nowomen,0,Action,NR,3107072,6.1,Jason Eisener,0.20000000000000001,0.0
+223,2011,tt1411704,Hop,men,0,Animation,PG,65248520,5.5,Tim Hill,1.8,1.3999999999999999
+224,2011,tt1499658,Horrible Bosses,ok,1,Comedy,R,36249178,6.9,Seth Gordon,1.8,1.0
+225,2011,tt0970179,Hugo,dubious,0,Adventure,PG,186424342,7.6,Martin Scorsese,1.0,0.0
+226,2011,tt1464540,I Am Number Four,notalk,0,Action,PG13,51784539,6.1,D.J. Caruso,0.0,0.20000000000000001
+227,2011,tt1253864,Immortals,men,0,Action,R,77676809,6.1,Tarsem Singh,0.80000000000000004,0.0
+228,2011,tt1637688,In Time,notalk,0,Action,PG13,36249178,6.7,Andrew Niccol,0.20000000000000001,0
+229,2011,tt1410063,Jin ling shi san chai,ok,1,Drama,R,103569079,7.6,Yimou Zhang,1.2,1.0
+230,2011,tt1634122,Johnny English Reborn,dubious,0,Action,PG,46606085,6.3,Oliver Parker,0.40000000000000002,0.0
+231,2011,tt1640484,Jumping the Broom,ok,1,Comedy,PG13,7249836,5.6,Salim Akil,2.6000000000000001,1.3333333333333333
+232,2011,tt1564367,Just Go with It,dubious,0,Comedy,PG13,82855263,6.4,Dennis Dugan,2.2000000000000002,0
+233,2011,tt1788391,Kill List,dubious,0,Crime,NR,828553,6.3,Ben Wheatley,0.20000000000000001,0.0
+234,2011,tt1448755,Killer Elite,nowomen,0,Action,R,72498355,6.5,Gary McKendry,1.6000000000000001,0.0
+235,2011,tt1302011,Kung Fu Panda 2,ok,1,Animation,PG,155353618,7.3,Jennifer Yuh,2.6000000000000001,0
+236,2011,tt1508675,Le Havre,dubious,0,Comedy,NR,5696299,7.2,Aki Kaurismäki,0.0,0.0
+237,2011,tt1758692,Like Crazy,ok,1,Drama,PG13,258923,6.7,Drake Doremus,1.6000000000000001,1.0
+238,2011,tt1219289,Limitless,notalk,0,Mystery,PG13,27963651,7.4,Neil Burger,1.2,0.5
+239,2011,tt0466893,Margaret,ok,1,Drama,R,14499671,6.5,Kenneth Lonergan,2.0,1.0
+240,2011,tt1615147,Margin Call,notalk,0,Drama,R,3521349,7.1,J.C. Chandor,1.3999999999999999,0.0
+241,2011,tt1305591,Mars Needs Moms,dubious,0,Animation,PG,155353618,5.4,Simon Wells,1.0,0.0
+242,2011,tt1441326,Martha Marcy May Marlene,ok,1,Drama,R,1035691,7.0,Sean Durkin,1.6000000000000001,0
+243,2011,tt1527186,Melancholia,ok,1,Drama,R,9735493,7.1,Lars von Trier,2.6000000000000001,2.0
+244,2011,tt1605783,Midnight in Paris,ok,1,Comedy,PG13,31070724,7.7,Woody Allen,1.6000000000000001,5.0
+245,2011,tt1229238,Mission: Impossible - Ghost Protocol,notalk,0,Action,PG13,150175164,7.4,Brad Bird,1.3999999999999999,0.0
+246,2011,tt1210166,Moneyball,notalk,0,Biography,PG13,51784539,7.6,Bennett Miller,1.8,0.0
+247,2011,tt1396218,Mr. Popper&#39;s Penguins,notalk,0,Comedy,PG,56962993,6.0,Mark Waters,1.8,0.80000000000000004
+248,2011,tt1598822,New Year&#39;s Eve,ok,1,Comedy,PG13,26927960,5.6,Garry Marshall,1.2,2.0
+249,2011,tt1411238,No Strings Attached,ok,1,Comedy,R,25892270,6.2,Ivan Reitman,2.6000000000000001,1.0
+250,2011,tt1720182,October Baby,ok,1,Drama,PG13,1035691,6.7,Andrew Erwin,1.0,0
+251,2011,tt1637706,Our Idiot Brother,ok,1,Comedy,R,5178454,6.4,Jesse Peretz,2.0,0
+252,2011,tt1778304,Paranormal Activity 3,ok,1,Horror,R,5178454,5.9,Henry Joost,1.0,3.0
+253,2011,tt1092026,Paul,ok,1,Adventure,R,41427631,7.0,Greg Mottola,1.2,1.5
+254,2011,tt1298650,Pirates of the Caribbean: On Stranger Tides,notalk,0,Action,PG13,258922697,6.7,Rob Marshall,2.6000000000000001,1.2222222222222223
+255,2011,tt0822847,Priest,notalk,0,Action,PG13,62141447,5.7,Scott Stewart,0.80000000000000004,0.0
+256,2011,tt0448694,Puss in Boots,notalk,0,Animation,PG,134639802,6.7,Chris Miller,1.3999999999999999,0.0
+257,2011,tt1192628,Rango,notalk,0,Animation,PG,139818256,7.3,Gore Verbinski,2.2000000000000002,0.0
+258,2011,tt0433035,Real Steel,notalk,0,Action,PG13,113925987,7.1,Shawn Levy,1.0,0.5
+259,2011,tt1486185,Red Riding Hood,ok,1,Fantasy,PG13,43499013,5.4,Catherine Hardwicke,2.6000000000000001,1.0
+260,2011,tt0873886,Red State,ok,1,Action,R,4142763,6.2,Kevin Smith,1.2,2.0
+261,2011,tt1498569,Restless,ok,1,Drama,PG13,8285526,6.8,Gus Van Sant,1.3999999999999999,1.0
+262,2011,tt1436562,Rio,notalk,0,Animation,G,93212171,7.0,Carlos Saldanha,0.59999999999999998,0.0
+263,2011,tt1318514,Rise of the Planet of the Apes,notalk,0,Action,PG13,96319243,7.6,Rupert Wyatt,0.0,0
+264,2011,tt1723811,Shame,notalk,0,Drama,R,6731990,7.3,Steve McQueen,0.20000000000000001,0.0
+265,2011,tt1541995,Snow Flower and the Secret Fan,ok,1,Drama,PG13,6214145,6.1,Wayne Wang,1.0,1.25
+266,2011,tt1596346,Soul Surfer,ok,1,Biography,PG,18642434,7.1,Sean McNamara,1.6000000000000001,1.6428571428571428
+267,2011,tt0945513,Source Code,notalk,0,Mystery,PG13,33142105,7.5,Duncan Jones,0.40000000000000002,0.0
+268,2011,tt0999913,Straw Dogs,ok,1,Horror,R,25892270,5.8,Rod Lurie,1.6000000000000001,1.0
+269,2011,tt0978764,Sucker Punch,ok,1,Action,PG13,77676809,6.1,Zack Snyder,2.0,1.0
+270,2011,tt1650062,Super 8,ok,1,Mystery,PG13,51784539,7.1,J.J. Abrams,1.0,1.0
+271,2011,tt1675192,Take Shelter,ok,1,Drama,R,4919531,7.4,Jeff Nichols,1.3999999999999999,1.0
+272,2011,tt1385826,The Adjustment Bureau,dubious,0,Romance,PG13,51991677,7.1,George Nolfi,1.3999999999999999,0.0
+273,2011,tt0983193,The Adventures of Tintin,notalk,0,Animation,PG,134639802,7.4,Steven Spielberg,1.2,0.5
+274,2011,tt1655442,The Artist,notalk,0,Comedy,PG13,16571053,8.0,Michel Hazanavicius,0.80000000000000004,0.0
+275,2011,tt1412386,The Best Exotic Marigold Hotel,ok,1,Comedy,PG13,10356908,7.3,John Madden,2.6000000000000001,1.5
+276,2011,tt1259521,The Cabin in the Woods,dubious,0,Horror,R,31070724,7.0,Drew Goddard,0.20000000000000001,1.0
+277,2011,tt1093357,The Darkest Hour,ok,1,Action,PG13,36042039,4.9,Chris Gorak,1.2,1.0
+278,2011,tt1535616,The Divide,ok,1,Drama,R,3107072,5.8,Xavier Gens,1.6000000000000001,1.0
+279,2011,tt1235170,The Future,ok,1,Comedy,R,1035691,6.2,Miranda July,1.3999999999999999,2.0
+280,2011,tt1568346,The Girl with the Dragon Tattoo,notalk,0,Crime,R,93212171,7.9,David Fincher,1.0,0.0
+281,2011,tt0990407,The Green Hornet,notalk,0,Action,PG13,113925987,5.9,Michel Gondry,2.7999999999999998,0
+282,2011,tt1540133,The Guard,notalk,0,Comedy,R,6214145,7.3,John Michael McDonagh,0.0,0.0
+283,2011,tt1454029,The Help,ok,1,Drama,PG13,25892270,8.1,Tate Taylor,2.7999999999999998,1.0
+284,2011,tt1007029,The Iron Lady,ok,1,Biography,PG13,14499671,6.4,Phyllida Lloyd,3.7999999999999998,0
+285,2011,tt1189340,The Lincoln Lawyer,notalk,0,Crime,R,41427631,7.3,Brad Furman,1.0,0.0
+286,2011,tt0472399,The Mechanic,nowomen,0,Action,R,44016858,6.6,Simon West,0.80000000000000004,0.33333333333333331
+287,2011,tt1204342,The Muppets,notalk,0,Comedy,PG,46606085,7.2,James Bobin,2.0,1.0
+288,2011,tt1161864,The Rite,dubious,0,Drama,PG13,38320559,6.0,Mikael Håfström,1.2,0.0
+289,2011,tt1265990,The Roommate,ok,1,Drama,PG13,16571053,4.8,Christian E. Christiansen,1.3999999999999999,1.0
+290,2011,tt0472181,The Smurfs,ok,1,Animation,PG,113925987,5.5,Raja Gosnell,2.0,3.7142857142857144
+291,2011,tt1509767,The Three Musketeers,men,0,Action,PG13,93212171,5.8,Paul W.S. Anderson,0.59999999999999998,0.66666666666666663
+292,2011,tt0478304,The Tree of Life,nowomen,0,Drama,PG13,36249178,6.7,Terrence Malick,0.80000000000000004,1.0
+293,2011,tt1324999,The Twilight Saga: Breaking Dawn - Part 1,ok,1,Adventure,PG13,132050575,4.9,Bill Condon,2.0,3.0
+294,2011,tt0800369,Thor,ok,1,Action,PG13,155353618,7.0,Kenneth Branagh,2.7999999999999998,1.3333333333333333
+295,2011,tt1340800,Tinker Tailor Soldier Spy,notalk,0,Drama,R,21749507,7.1,Tomas Alfredson,0.59999999999999998,0.66666666666666663
+296,2011,tt0471042,Tower Heist,notalk,0,Action,PG13,88033717,6.2,Brett Ratner,1.3999999999999999,0.0
+297,2011,tt1399103,Transformers: Dark of the Moon,ok,1,Action,PG13,201959703,6.3,Michael Bay,2.3999999999999999,5.0
+298,2011,tt1568911,War Horse,notalk,0,Drama,PG13,72498355,7.2,Steven Spielberg,0.20000000000000001,0.75
+299,2011,tt1291584,Warrior,notalk,0,Drama,PG13,25892270,8.2,Gavin O'Connor,0.0,0.0
+300,2011,tt1389137,We Bought a Zoo,men,0,Comedy,PG,51784539,7.1,Cameron Crowe,2.6000000000000001,0.33333333333333331
+301,2011,tt1714210,Weekend,notalk,0,Drama,NR,196781,7.7,Andrew Haigh,0.0,0.0
+302,2011,tt0770703,What&#39;s Your Number,ok,1,Comedy,R,20713816,6.0,Mark Mylod,1.6000000000000001,1.0
+303,2011,tt1449283,Winnie the Pooh,nowomen,0,Animation,G,31070724,7.3,Stephen J. Anderson,0.40000000000000002,0
+304,2011,tt1270798,X-Men: First Class,ok,1,Action,PG13,165710526,7.8,Matthew Vaughn,2.0,1.8333333333333333
+305,2011,tt1625346,Young Adult,ok,1,Comedy,R,12428289,6.3,Jason Reitman,2.0,3.0
+306,2011,tt1742336,Your Sister&#39;s Sister,ok,1,Comedy,R,124283,6.7,Lynn Shelton,1.6000000000000001,1.0
+307,2010,tt1542344,127 Hours,dubious,0,Adventure,R,19228173,7.6,Danny Boyle,0.80000000000000004,0.0
+308,2010,tt1014759,Alice in Wonderland,ok,1,Adventure,PG,213646368,6.5,Tim Burton,4.2000000000000002,1.5
+309,2010,tt1313092,Animal Kingdom,notalk,0,Crime,R,4486574,7.3,David Michôd,0.20000000000000001,0.0
+310,2010,tt1431181,Another Year,ok,1,Comedy,PG13,8545855,7.3,Mike Leigh,1.3999999999999999,5.0
+311,2010,tt1423894,Barney&#39;s Version,ok,1,Comedy,R,32046955,7.3,Richard J. Lewis,1.2,1.0
+312,2010,tt1532503,Beginners,notalk,0,Comedy,R,3418342,7.2,Mike Mills,0.59999999999999998,0.0
+313,2010,tt1164999,Biutiful,notalk,0,Drama,R,37388114,7.5,Alejandro González Iñárritu,0.0,0.0
+314,2010,tt0947798,Black Swan,ok,1,Drama,R,13887014,8.0,Darren Aronofsky,3.0,1.75
+315,2010,tt1120985,Blue Valentine,men,0,Drama,R,1068232,7.4,Derek Cianfrance,1.2,0.0
+316,2010,tt1126591,Burlesque,ok,1,Drama,PG13,58752751,6.4,Steve Antin,1.8,1.0
+317,2010,tt1194417,Casino Jack,notalk,0,Biography,R,13352898,6.2,George Hickenlooper,0.59999999999999998,0.0
+318,2010,tt1020558,Centurion,notalk,0,Action,R,16023478,6.4,Neil Marshall,0.80000000000000004,2.0
+319,2010,tt1438254,Charlie St. Cloud,notalk,0,Drama,PG13,47002201,6.4,Burr Steers,0.80000000000000004,0.0
+320,2010,tt0800320,Clash of the Titans,dubious,0,Action,PG13,133528980,5.8,Louis Leterrier,0.80000000000000004,0.25
+321,2010,tt1244754,Conviction,ok,1,Biography,R,13352898,7.2,Tony Goldwyn,1.8,1.0
+322,2010,tt1385867,Cop Out,notalk,0,Action,R,39524578,5.7,Kevin Smith,1.0,0.0
+323,2010,tt1555064,Country Strong,ok,1,Drama,PG13,16023478,6.3,Shana Feste,2.2000000000000002,1.0
+324,2010,tt1336617,Cyrus,notalk,0,Comedy,R,7477623,6.3,Jay Duplass,2.0,0.0
+325,2010,tt1279935,Date Night,ok,1,Comedy,PG13,58752751,6.3,Shawn Levy,2.0,1.0
+326,2010,tt0989757,Dear John,nowomen,0,Drama,PG13,26705796,6.3,Lasse Hallström,1.0,0.5
+327,2010,tt1323594,Despicable Me,ok,1,Animation,PG,73707997,7.7,Pierre Coffin,3.6000000000000001,1.6666666666666667
+328,2010,tt1314655,Devil,ok,1,Horror,PG13,10682318,6.3,John Erick Dowdle,1.2,1.5
+329,2010,tt1196141,Diary of a Wimpy Kid,ok,1,Comedy,PG,16023478,6.2,Thor Freudenthal,1.8,1.0
+330,2010,tt0427152,Dinner for Schmucks,notalk,0,Comedy,PG13,73707997,5.9,Jay Roach,1.2,0.0
+331,2010,tt1270761,Don&#39;t Be Afraid of the Dark,ok,1,Fantasy,R,26705796,5.6,Troy Nixey,2.0,1.3333333333333333
+332,2010,tt1231583,Due Date,notalk,0,Comedy,R,69435070,6.6,Todd Phillips,0.40000000000000002,0.0
+333,2010,tt1013860,Dylan Dog: Dead of Night,nowomen,0,Comedy,PG13,21364637,5.1,Kevin Munroe,0.0,0.0
+334,2010,tt1282140,Easy A,ok,1,Comedy,PG13,8545855,7.1,Will Gluck,2.3999999999999999,1.0
+335,2010,tt0879870,"Eat, Pray, Love",ok,1,Drama,PG13,64093910,5.6,Ryan Murphy,3.2000000000000002,1.3333333333333333
+336,2010,tt1226273,Edge of Darkness,notalk,0,Crime,R,64093910,6.6,Martin Campbell,0.80000000000000004,0.0
+337,2010,tt1531663,Everything Must Go,notalk,0,Comedy,R,5341159,6.4,Dan Rush,0.59999999999999998,0
+338,2010,tt0977855,Fair Game,ok,1,Biography,PG13,53411592,6.8,Doug Liman,1.6000000000000001,1.0
+339,2010,tt1433108,Faster,nowomen,0,Action,R,12818782,6.5,George Tillman Jr.,0.20000000000000001,0
+340,2010,tt1405500,For Colored Girls,ok,1,Drama,R,22432869,5.9,Tyler Perry,1.3999999999999999,1.0
+341,2010,tt1323045,Frozen,notalk,0,Drama,R,160234776,6.2,Adam Green,0.59999999999999998,0.0
+342,2010,tt1226229,Get Him To The Greek,notalk,0,Comedy,R,42729274,6.4,Nicholas Stoller,0.59999999999999998,0.0
+343,2010,tt1322312,Going the Distance,ok,1,Comedy,R,34183419,6.4,Nanette Burstein,3.2000000000000002,1.0
+344,2010,tt0947810,Green Zone,nowomen,0,Action,R,106823184,6.9,Paul Greengrass,0.40000000000000002,0.0
+345,2010,tt1375670,Grown Ups,ok,1,Comedy,PG13,80117388,6.0,Dennis Dugan,1.8,0
+346,2010,tt1376195,Gunless,men,0,Action,NR,10575495,6.5,William Phillips,1.0,0
+347,2010,tt0926084,Harry Potter and the Deathly Hallows: Part 1,ok,1,Adventure,PG13,133528980,7.7,David Yates,2.6000000000000001,1.5
+348,2010,tt1231587,Hot Tub Time Machine,notalk,0,Comedy,R,38456346,6.5,Steve Pink,1.0,0.5
+349,2010,tt0892769,How to Train Your Dragon,ok,1,Animation,PG,176258254,8.2,Dean DeBlois,1.6000000000000001,0
+350,2010,tt1226236,I Am Love,ok,1,Drama,R,10682318,7.0,Luca Guadagnino,1.0,1.3999999999999999
+351,2010,tt1375666,Inception,dubious,0,Action,PG13,170917095,8.8,Christopher Nolan,1.0,0
+352,2010,tt1591095,Insidious,ok,1,Drama,PG13,1602348,6.8,James Wan,1.6000000000000001,1.0
+353,2010,tt1228705,Iron Man 2,ok,1,Action,PG13,181599413,7.1,Jon Favreau,3.2000000000000002,0
+354,2010,tt0804497,It&#39;s Kind of a Funny Story,notalk,0,Comedy,PG13,8545855,7.2,Anna Boden,0.0,0.0
+355,2010,tt1250777,Kick-Ass,notalk,0,Action,R,29910492,7.7,Matthew Vaughn,0.20000000000000001,1.25
+356,2010,tt1013743,Knight and Day,men,0,Action,PG13,124983125,6.3,James Mangold,3.3999999999999999,0.0
+357,2010,tt1038686,Legion,ok,1,Action,R,27774028,5.2,Scott Stewart,1.6000000000000001,1.0
+358,2010,tt1228987,Let Me In,notalk,0,Drama,R,21364637,7.2,Matt Reeves,1.0,0.0
+359,2010,tt0892318,Letters to Juliet,dubious,0,Comedy,PG,32046955,6.5,Gary Winick,0.20000000000000001,0
+360,2010,tt0758752,Love and Other Drugs,men,0,Comedy,R,32046955,6.7,Edward Zwick,2.2000000000000002,0.25
+361,2010,tt0985694,Machete,ok,1,Action,R,13352898,6.7,Ethan Maniquis,2.7999999999999998,2.5
+362,2010,tt1371155,Made In Dagenham,ok,1,Biography,R,8545855,7.2,Nigel Cole,1.0,1.0
+363,2010,tt1518812,Meek&#39;s Cutoff,men,0,Drama,PG,2136464,6.5,Kelly Reichardt,1.0,1.0
+364,2010,tt1001526,Megamind,nowomen,0,Animation,PG,138870139,7.3,Tom McGrath,1.2,0.0
+365,2010,tt1470827,Monsters,nowomen,0,Drama,R,534116,6.4,Gareth Edwards,0.0,0.0
+366,2010,tt1126618,Morning Glory,ok,1,Comedy,PG13,42729274,6.5,Roger Michell,1.6000000000000001,1.0
+367,2010,tt1415283,Nanny McPhee and the Big Bang,ok,1,Comedy,PG,37388114,6.0,Susanna White,1.2,1.0
+368,2010,tt1334260,Never Let Me Go,ok,1,Drama,R,16023478,7.2,Mark Romanek,1.2,1.5
+369,2010,tt1536044,Paranormal Activity 2,ok,1,Horror,R,3204696,5.7,Tod Williams,1.0,1.6000000000000001
+370,2010,tt0814255,Percy Jackson &amp; the Olympians: The Lightning Thief,dubious,0,Adventure,PG,101482025,5.9,Chris Columbus,1.8,0.5
+371,2010,tt0878835,Please Give,ok,1,Comedy,R,3204696,6.6,Nicole Holofcener,2.0,4.0
+372,2010,tt1424381,Predators,nowomen,0,Action,R,42729274,6.4,Nimród Antal,1.0,0.0
+373,2010,tt0473075,Prince of Persia: The Sands of Time,nowomen,0,Action,PG13,213646368,6.6,Mike Newell,1.2,0.0
+374,2010,tt0935075,Rabbit Hole,ok,1,Drama,PG13,5341159,7.0,John Cameron Mitchell,3.0,2.0
+375,2010,tt0493949,Ramona and Beezus,ok,1,Adventure,G,16023478,6.7,Elizabeth Allen Rosenbaum,2.2000000000000002,1.0
+376,2010,tt1245526,Red,men,0,Action,PG13,64093910,7.1,Robert Schwentke,1.3999999999999999,1.5
+377,2010,tt1403981,Remember Me,ok,1,Drama,PG13,17091709,7.2,Allen Coulter,1.2,1.0
+378,2010,tt1053424,Repo Men,ok,1,Action,R,34183419,6.3,Miguel Sapochnik,2.2000000000000002,1.0
+379,2010,tt0955308,Robin Hood,dubious,0,Action,PG13,224328687,6.7,Ridley Scott,1.6000000000000001,0.0
+380,2010,tt0944835,Salt,ok,1,Action,PG13,138870139,6.4,Phillip Noyce,1.6000000000000001,1.0
+381,2010,tt0446029,Scott Pilgrim vs. the World,ok,1,Action,PG13,90799707,7.5,Edgar Wright,1.8,1.3333333333333333
+382,2010,tt1028576,Secretariat,ok,1,Drama,PG,37388114,7.2,Randall Wallace,1.6000000000000001,1.0
+383,2010,tt1261945,Sex and the city 2,ok,1,Comedy,R,101482025,4.2,Michael Patrick King,1.8,2.0
+384,2010,tt0892791,Shrek Forever After,notalk,0,Animation,PG,176258254,6.4,Mike Mitchell,3.0,0
+385,2010,tt1130884,Shutter Island,notalk,0,Mystery,R,85458547,8.1,Martin Scorsese,2.6000000000000001,0.5
+386,2010,tt1564585,Skyline,dubious,0,Action,PG13,10682318,4.4,Colin Strause,0.0,0
+387,2010,tt1421051,Somewhere,dubious,0,Comedy,R,7477623,6.4,Sofia Coppola,0.0,1.0
+388,2010,tt1440292,Submarine,notalk,0,Comedy,R,2029641,7.3,Richard Ayoade,0.20000000000000001,0.0
+389,2010,tt1512235,Super,notalk,0,Comedy,R,2670580,6.8,James Gunn,1.8,2.0
+390,2010,tt1135084,Takers,notalk,0,Action,PG13,34183419,6.2,John Luessenhop,1.0,0.0
+391,2010,tt0398286,Tangled,ok,1,Animation,PG,277740279,7.8,Nathan Greno,1.2,2.2000000000000002
+392,2010,tt0429493,The A-Team,nowomen,0,Action,PG13,117505503,6.8,Joe Carnahan,2.3999999999999999,0.0
+393,2010,tt1212436,The Back-up Plan,ok,1,Comedy,PG13,37388114,5.2,Alan Poul,2.0,1.0
+394,2010,tt0980970,The Chronicles of Narnia: The Voyage of the Dawn Treader,ok,1,Adventure,PG,165575935,6.4,Michael Apted,2.2000000000000002,2.0
+395,2010,tt0968264,The Conspirator,dubious,0,Crime,PG13,26705796,7.0,Robert Redford,2.7999999999999998,0.0
+396,2010,tt0455407,The Crazies,ok,1,Horror,R,20296405,6.6,Breck Eisner,2.2000000000000002,1.3333333333333333
+397,2010,tt1226753,The Debt,ok,1,Drama,R,21364637,6.9,John Madden,2.6000000000000001,1.2
+398,2010,tt1320253,The Expendables,notalk,0,Action,R,87595011,6.5,Sylvester Stallone,0.80000000000000004,0
+399,2010,tt0964517,The Fighter,men,0,Biography,R,11750550,7.9,David O. Russell,2.0,0.0
+400,2010,tt1139328,The Ghost Writer,men,0,Mystery,PG13,48070433,7.2,Roman Polanski,0.80000000000000004,0.0
+401,2010,tt0775489,The Illusionist,nowomen,0,Animation,PG,17625825,7.5,Sylvain Chomet,0.0,0.0
+402,2010,tt1155076,The Karate Kid,dubious,0,Action,PG,42729274,6.2,Harald Zwart,0.59999999999999998,1.0
+403,2010,tt0842926,The Kids Are All Right,ok,1,Comedy,R,4272927,7.1,Lisa Cholodenko,3.6000000000000001,0
+404,2010,tt0954947,The Killer Inside Me,notalk,0,Crime,R,13887014,6.2,Michael Winterbottom,1.0,0.0
+405,2010,tt1504320,The King&#39;s Speech,ok,1,Biography,R,16023478,8.1,Tom Hooper,1.6000000000000001,1.0
+406,2010,tt0938283,The Last Airbender,notalk,0,Action,PG,160234776,4.3,M. Night Shyamalan,0.0,0.0
+407,2010,tt1320244,The Last Exorcism,ok,1,Drama,PG13,1922817,5.6,Daniel Stamm,1.0,1.5
+408,2010,tt0480255,The Losers,notalk,0,Action,PG13,26705796,6.4,Sylvain White,1.0,0.0
+409,2010,tt1458175,The Next Three Days,ok,1,Crime,PG13,32046955,7.4,Paul Haggis,2.0,0
+410,2010,tt1386588,The Other Guys,nowomen,0,Action,PG13,106823184,6.6,Adam McKay,1.2,0.0
+411,2010,tt1017451,The Runaways,ok,1,Biography,R,10148202,6.6,Floria Sigismondi,2.3999999999999999,1.0
+412,2010,tt1285016,The Social Network,notalk,0,Biography,PG13,42729274,7.8,David Fincher,0.20000000000000001,1.5
+413,2010,tt0963966,The Sorcerer&#39;s Apprentice,notalk,0,Action,PG,170917095,6.2,Jon Turteltaub,0.40000000000000002,0.66666666666666663
+414,2010,tt1273678,The Spy Next Door,ok,1,Action,PG,29910492,5.4,Brian Levant,1.0,1.3999999999999999
+415,2010,tt0889573,The Switch,men,0,Comedy,PG13,20296405,6.0,Josh Gordon,1.0,0.0
+416,2010,tt1274300,The Tempest,ok,1,Comedy,PG13,21364637,5.4,Julie Taymor,1.2,1.5
+417,2010,tt1243957,The Tourist,nowomen,0,Action,PG13,106823184,6.0,Florian Henckel von Donnersmarck,2.3999999999999999,0.25
+418,2010,tt0840361,The Town,notalk,0,Crime,R,39524578,7.6,Ben Affleck,0.80000000000000004,0.25
+419,2010,tt1325004,The Twilight Saga: Eclipse,ok,1,Adventure,PG13,72639765,4.9,David Slade,2.0,3.0
+420,2010,tt0780653,The Wolfman,notalk,0,Drama,R,160234776,5.8,Joe Johnston,0.80000000000000004,0.0
+421,2010,tt1570989,Tiny Furniture,ok,1,Comedy,NR,53412,6.3,Lena Dunham,1.0,1.0
+422,2010,tt0435761,Toy Story 3,dubious,0,Animation,G,213646368,8.4,Lee Unkrich,2.0,1.25
+423,2010,tt1104001,Tron Legacy,notalk,0,Action,PG,213646368,6.8,Joseph Kosinski,1.0,0.0
+424,2010,tt1403865,True Grit,ok,1,Adventure,PG13,37388114,7.7,Ethan Coen,1.8,1.0
+425,2010,tt1465522,Tucker and Dale vs Evil,ok,1,Comedy,R,5341159,7.6,Eli Craig,1.3999999999999999,0
+426,2010,tt0477080,Unstoppable,dubious,0,Action,PG13,101482025,6.8,Tony Scott,0.59999999999999998,1.0
+427,2010,tt0817230,Valentine&#39;s Day,ok,1,Comedy,PG13,55548056,5.8,Garry Marshall,3.0,2.0
+428,2010,tt1027718,Wall Street: Money Never Sleeps,dubious,0,Drama,PG13,74776229,6.3,Oliver Stone,0.20000000000000001,0.0
+429,2010,tt1183923,Welcome to the Rileys,ok,1,Drama,R,10682318,7.0,Jake Scott,1.3999999999999999,1.0
+430,2010,tt1235189,Wild Target,notalk,0,Action,PG13,8545855,6.9,Jonathan Lynn,1.8,0.0
+431,2010,tt1399683,Winter&#39;s Bone,ok,1,Drama,R,2136464,7.2,Debra Granik,1.2,1.0
+432,2010,tt1216520,Womb,ok,1,Drama,NR,13887014,6.4,Benedek Fliegauf,1.3999999999999999,1.0
+433,2010,tt1302067,Yogi Bear,nowomen,0,Animation,PG,85458547,4.5,Eric Brevig,1.0,0
+434,2010,tt1414382,You Again,ok,1,Comedy,PG,21364637,5.8,Andy Fickman,2.2000000000000002,1.0
+435,2010,tt1182350,You Will Meet a Tall Dark Stranger,ok,1,Comedy,R,16023478,6.3,Woody Allen,2.0,5.0
+436,2009,tt1022603,(500) Days of Summer,notalk,0,Comedy,PG13,8142987,7.8,Marc Webb,1.2,0.0
+437,2009,tt0974661,17 Again,ok,1,Comedy,PG13,43429264,6.4,Burr Steers,1.8,1.0
+438,2009,tt1190080,2012,notalk,0,Action,PG13,217146319,5.8,Roland Emmerich,1.6000000000000001,0.0
+439,2009,tt0472033,9,nowomen,0,Animation,PG13,32571948,7.1,Shane Acker,1.3999999999999999,0.0
+440,2009,tt0971209,A Perfect Getaway,dubious,0,Adventure,R,15200242,6.5,David Twohy,0.40000000000000002,0.0
+441,2009,tt1019452,A Serious Man,men,0,Comedy,R,7600121,7.0,Ethan Coen,0.0,1.0
+442,2009,tt1315981,A Single Man,notalk,0,Drama,R,7600121,7.6,Tom Ford,1.2,0.0
+443,2009,tt1185836,Adam,men,0,Drama,PG13,3474341,7.2,Max Mayer,1.6000000000000001,0.0
+444,2009,tt1091722,Adventureland,men,0,Comedy,R,10640170,6.8,Greg Mottola,0.20000000000000001,0.0
+445,2009,tt1186830,Agora,notalk,0,Adventure,R,76001212,7.2,Alejandro Amenábar,0.40000000000000002,0.5
+446,2009,tt1077262,Ajami,men,0,Crime,NR,1085732,7.3,Scandar Copti,0.0,0.0
+447,2009,tt0881891,All About Steve,ok,1,Comedy,PG13,16285974,4.8,Phil Traill,4.2000000000000002,1.0
+448,2009,tt1174732,An Education,ok,1,Drama,PG13,8142987,7.3,Lone Scherfig,1.2,1.5
+449,2009,tt0808151,Angels &amp; Demons,nowomen,0,Mystery,PG13,162859739,6.7,Ron Howard,2.3999999999999999,2.0
+450,2009,tt0913354,Armored,nowomen,0,Action,PG13,21714632,5.7,Nimród Antal,1.3999999999999999,0.0
+451,2009,tt0375568,Astro Boy,dubious,0,Animation,PG,70572554,6.4,David Bowers,1.8,0.25
+452,2009,tt0499549,Avatar,men,0,Action,PG13,461435929,7.9,James Cameron,1.8,0
+453,2009,tt1176740,Away We Go,ok,1,Comedy,R,22800364,7.1,Sam Mendes,2.0,1.0
+454,2009,tt0889583,Br&uuml;no,nowomen,0,Comedy,R,45600727,5.9,Larry Charles,0.0,0.0
+455,2009,tt0901476,Bride Wars,ok,1,Comedy,PG,32571948,5.4,Gary Winick,2.6000000000000001,1.0
+456,2009,tt0810784,Bright Star,ok,1,Biography,PG,9228719,7.0,Jane Campion,1.2,0
+457,2009,tt1210042,Brooklyn&#39;s Finest,notalk,0,Crime,R,18457437,6.7,Antoine Fuqua,1.2,0.0
+458,2009,tt0765010,Brothers,ok,1,Drama,R,28229022,7.1,Jim Sheridan,2.6000000000000001,1.0
+459,2009,tt1232207,Capitalism: A Love Story,notalk,0,Documentary,R,21714632,7.4,Michael Moore,0.20000000000000001,0.0
+460,2009,tt0795351,Case 39,ok,1,Horror,R,29314753,6.2,Christian Alvart,2.2000000000000002,1.0
+461,2009,tt1352824,Chloe,men,0,Drama,R,14114511,6.3,Atom Egoyan,1.3999999999999999,0.5
+462,2009,tt0844471,Cloudy with a Chance of Meatballs,notalk,0,Animation,PG,108573160,7.0,Phil Lord,0.59999999999999998,0.0
+463,2009,tt1035736,Coco avant Chanel,ok,1,Biography,PG13,24971827,6.7,Anne Fontaine,1.6000000000000001,1.0
+464,2009,tt0327597,Coraline,ok,1,Animation,PG,65143896,7.7,Henry Selick,1.6000000000000001,0
+465,2009,tt0433362,Daybreakers,notalk,0,Action,R,21714632,6.5,Michael Spierig,0.0,0
+466,2009,tt1278340,Dead Snow,men,0,Comedy,NR,868585,6.4,Tommy Wirkola,0.0,0.5
+467,2009,tt1136608,District 9,notalk,0,Action,R,32571948,8.0,Neill Blomkamp,0.20000000000000001,0.5
+468,2009,tt1127180,Drag Me to Hell,ok,1,Horror,PG13,32571948,6.6,Sam Raimi,2.0,1.0
+469,2009,tt1191111,Enter the Void,notalk,0,Drama,NR,17371706,7.3,Gaspar Noé,0.0,0.0
+470,2009,tt0780511,Everybody&#39;s Fine,men,0,Adventure,PG13,21714632,7.2,Kirk Jones,2.0,0.0
+471,2009,tt0432283,Fantastic Mr. Fox,notalk,0,Animation,PG,43429264,7.8,Wes Anderson,1.2,0.33333333333333331
+472,2009,tt1013752,Fast &amp; Furious,notalk,0,Action,PG13,92287186,6.6,Justin Lin,2.7999999999999998,2.0
+473,2009,tt1083456,Fired Up!,notalk,0,Comedy,PG13,21714632,6.2,Will Gluck,0.59999999999999998,0.0
+474,2009,tt1232776,Fish Tank,ok,1,Drama,NR,3257195,7.3,Andrea Arnold,1.3999999999999999,1.0
+475,2009,tt0758746,Friday the 13th,men,0,Horror,R,18457437,5.6,Marcus Nispel,1.0,0.0
+476,2009,tt1201167,Funny People,notalk,0,Comedy,R,78715541,6.4,Judd Apatow,2.2000000000000002,2.0
+477,2009,tt0436339,G-Force,notalk,0,Action,PG,162859739,5.1,Hoyt Yeatman,1.0,0.25
+478,2009,tt1046173,G.I. Joe: The Rise of Cobra,notalk,0,Action,PG13,190003029,5.8,Stephen Sommers,0.80000000000000004,0.16666666666666666
+479,2009,tt1034032,Gamer,notalk,0,Action,R,54286580,5.8,Mark Neveldine,0.20000000000000001,0.0
+480,2009,tt1194263,Get Low,notalk,0,Drama,PG13,7600121,7.1,Aaron Schneider,1.3999999999999999,0.0
+481,2009,tt1289406,Harry Brown,notalk,0,Action,R,7925841,7.2,Daniel Barber,1.0,0.0
+482,2009,tt0417741,Harry Potter and the Half-Blood Prince,ok,1,Adventure,PG,271432899,7.5,David Yates,3.6000000000000001,0
+483,2009,tt1001508,He&#39;s Just Not That Into You,ok,1,Comedy,PG13,43429264,6.4,Ken Kwapis,1.0,1.5
+484,2009,tt1024744,I Come with the Rain,nowomen,0,Thriller,NR,19543169,5.5,Tran Anh Hung,0.40000000000000002,0.0
+485,2009,tt1045772,I Love You Phillip Morris,notalk,0,Biography,R,14114511,6.7,Glenn Ficarra,2.2000000000000002,0.0
+486,2009,tt1155056,"I Love You, Man",men,0,Comedy,R,43429264,7.1,John Hamburg,0.40000000000000002,0
+487,2009,tt1080016,Ice Age: Dawn of the Dinosaurs,notalk,0,Animation,PG,97715844,7.0,Carlos Saldanha,0.0,0.20000000000000001
+488,2009,tt0361748,Inglourious Basterds,dubious,0,Adventure,R,76001212,8.3,Quentin Tarantino,0.59999999999999998,3.0
+489,2009,tt1057500,Invictus,notalk,0,Biography,PG13,53200848,7.4,Clint Eastwood,0.59999999999999998,0.0
+490,2009,tt1230414,It&#39;s Complicated,ok,1,Comedy,R,92287186,6.6,Nancy Meyers,3.3999999999999999,1.0
+491,2009,tt1131734,Jennifer&#39;s Body,ok,1,Comedy,R,17371706,5.1,Karyn Kusama,1.8,3.0
+492,2009,tt1135503,Julie &amp; Julia,ok,1,Biography,PG13,43429264,7.0,Nora Ephron,4.2000000000000002,1.25
+493,2009,tt0448011,Knowing,notalk,0,Action,PG13,54286580,6.2,Alex Proyas,0.59999999999999998,0.0
+494,2009,tt1197624,Law Abiding Citizen,notalk,0,Crime,R,57543775,7.4,F. Gary Gray,0.59999999999999998,1.0
+495,2009,tt0808526,Life During Wartime,ok,1,Comedy,R,4885792,6.4,Todd Solondz,1.8,3.0
+496,2009,tt1149361,Micmacs (Micmacs &agrave; tire-larigot),dubious,0,Action,R,45600727,7.2,Jean-Pierre Jeunet,0.59999999999999998,1.3333333333333333
+497,2009,tt0892782,Monsters vs Aliens,dubious,0,Animation,PG,190003029,6.6,Rob Letterman,1.2,0
+498,2009,tt1182345,Moon,notalk,0,Drama,R,5428658,8.0,Duncan Jones,0.80000000000000004,0.0
+499,2009,tt1121977,Mother and Child,ok,1,Drama,R,7600121,7.2,Rodrigo García,2.7999999999999998,0
+500,2009,tt1179891,My Bloody Valentine 3D,men,0,Horror,R,15200242,5.5,Patrick Lussier,0.20000000000000001,0.0
+501,2009,tt1078588,My Sister&#39;s Keeper,ok,1,Drama,PG13,29857619,7.4,Nick Cassavetes,2.2000000000000002,1.0
+502,2009,tt0875034,Nine,men,0,Drama,PG13,86858528,5.9,Rob Marshall,1.3999999999999999,0.59999999999999998
+503,2009,tt1186367,Ninja Assassin,notalk,0,Action,R,54286580,6.4,James McTeigue,0.0,0.66666666666666663
+504,2009,tt1266029,Nowhere Boy,dubious,0,Biography,R,2062890,7.2,Sam Taylor-Johnson,0.80000000000000004,0.0
+505,2009,tt1235796,Ondine,ok,1,Drama,PG13,13028779,6.8,Neil Jordan,1.0,1.0
+506,2009,tt1532957,Paa,men,0,Comedy,NR,4668646,7.2,R. Balki,0.0,0.0
+507,2009,tt1188729,Pandorum,notalk,0,Action,R,43429264,6.8,Christian Alvart,1.2,0.0
+508,2009,tt1003034,Perrier&#39;s Bounty,nowomen,0,Action,R,7165829,6.4,Ian Fitzgibbon,0.80000000000000004,0.0
+509,2009,tt0762125,Planet 51,notalk,0,Animation,PG,65143896,6.1,Jorge Blanco,2.7999999999999998,0.20000000000000001
+510,2009,tt0929632,Precious: Based on the Novel Push by Sapphire,ok,1,Drama,R,10857316,7.4,Lee Daniels,2.0,1.0
+511,2009,tt1152836,Public Enemies,notalk,0,Biography,R,111287489,7.0,Michael Mann,0.20000000000000001,0.25
+512,2009,tt0465580,Push,ok,1,Action,PG13,41257801,6.1,Paul McGuigan,1.6000000000000001,1.0
+513,2009,tt0988045,Sherlock Holmes,notalk,0,Action,PG13,97715844,7.6,Guy Ritchie,2.0,0.16666666666666666
+514,2009,tt1017460,Splice,ok,1,Horror,R,32571948,5.8,Vincenzo Natali,1.2,1.3999999999999999
+515,2009,tt0796366,Star Trek,ok,1,Action,PG13,152002424,8.0,J.J. Abrams,1.6000000000000001,1.6666666666666667
+516,2009,tt0473705,State of Play,ok,1,Drama,PG13,65143896,7.1,Kevin Macdonald,2.3999999999999999,1.5
+517,2009,tt0986263,Surrogates,notalk,0,Action,PG13,86858528,6.3,Jonathan Mostow,2.2000000000000002,0.5
+518,2009,tt0438488,Terminator Salvation,men,0,Action,PG13,217146319,6.7,McG,1.0,1.0
+519,2009,tt0878804,The Blind Side,men,0,Biography,PG13,38000606,7.7,John Lee Hancock,2.2000000000000002,0.0
+520,2009,tt1131729,The Boat That Rocked,nowomen,0,Comedy,R,54286580,7.4,Richard Curtis,1.2,3.0
+521,2009,tt1300851,The Boondock Saints II: All Saints Day,nowomen,0,Action,R,8685853,6.4,Troy Duffy,0.59999999999999998,0.0
+522,2009,tt0362478,The Box,ok,1,Drama,PG13,27143290,5.6,Richard Kelly,2.7999999999999998,2.5
+523,2009,tt0896923,The City of Your Final Destination,ok,1,Drama,PG13,9011572,6.4,James Ivory,1.0,1.0
+524,2009,tt1144884,The Final Destination,ok,1,Horror,R,43429264,5.1,David R. Ellis,1.0,2.5
+525,2009,tt1220198,The Fourth Kind,ok,1,Mystery,PG13,10857316,5.9,Olatunde Osunsanmi,1.3999999999999999,0
+526,2009,tt1132620,The Girl with the Dragon Tattoo,dubious,0,Crime,R,97715844,7.8,Niels Arden Oplev,0.0,0.0
+527,2009,tt1103982,The Girlfriend Experience,dubious,0,Drama,R,1411451,5.6,Steven Soderbergh,0.0,0.0
+528,2009,tt1247662,The Good Guy,ok,1,Comedy,R,10857316,5.9,Julio DePietro,1.8,1.0
+529,2009,tt1119646,The Hangover,notalk,0,Comedy,R,38000606,7.8,Todd Phillips,0.80000000000000004,0.5
+530,2009,tt1054606,The Imaginarium of Doctor Parnassus,notalk,0,Adventure,PG13,32571948,6.9,Terry Gilliam,0.20000000000000001,1.0
+531,2009,tt1130080,The Informant!,notalk,0,Comedy,R,23886095,6.5,Steven Soderbergh,0.40000000000000002,0
+532,2009,tt1058017,The Invention of Lying,men,0,Comedy,PG13,20086035,6.4,Ricky Gervais,0.59999999999999998,0.0
+533,2009,tt0824758,The Last Station,ok,1,Biography,R,19543169,7.0,Michael Hoffman,1.6000000000000001,1.0
+534,2009,tt0380510,The Lovely Bones,ok,1,Drama,PG13,103144502,6.7,Peter Jackson,3.3999999999999999,1.0
+535,2009,tt1234548,The Men Who Stare at Goats,nowomen,0,Comedy,R,26057558,6.3,Grant Heslov,2.0,0.0
+536,2009,tt0790712,The Messenger,notalk,0,Drama,R,7057255,7.2,Oren Moverman,1.2,0.0
+537,2009,tt0780521,The Princess and the Frog,ok,1,Animation,G,114001818,7.2,Ron Clements,1.3999999999999999,1.7857142857142858
+538,2009,tt1041829,The Proposal,men,0,Comedy,PG13,43429264,6.7,Anne Fletcher,2.2000000000000002,0.0
+539,2009,tt0898367,The Road,notalk,0,Adventure,R,27143290,7.3,John Hillcoat,1.0,0
+540,2009,tt0485601,The Secret of Kells,nowomen,0,Animation,NR,8685853,7.6,Tomm Moore,0.40000000000000002,0.0
+541,2009,tt0821642,The Soloist,notalk,0,Biography,PG13,65143896,6.7,Joe Wright,1.3999999999999999,1.5
+542,2009,tt1111422,The Taking of Pelham 123,nowomen,0,Action,R,119430476,6.4,Tony Scott,0.40000000000000002,0.0
+543,2009,tt0452694,The Time Traveler&#39;s Wife,dubious,0,Drama,PG13,42343532,7.1,Robert Schwentke,0.59999999999999998,0.5
+544,2009,tt1142988,The Ugly Truth,men,0,Comedy,R,41257801,6.5,Robert Luketic,0.59999999999999998,1.0
+545,2009,tt1139668,The Unborn,ok,1,Drama,PG13,17371706,4.8,David S. Goyer,3.0,2.0
+546,2009,tt0962736,The Young Victoria,ok,1,Biography,PG,38000606,7.3,Jean-Marc Vallée,3.0,1.0
+547,2009,tt1055369,Transformers: Revenge of the Fallen,ok,1,Action,PG13,228003635,6.0,Michael Bay,2.3999999999999999,3.6666666666666665
+548,2009,tt1049413,Up,notalk,0,Animation,PG,190003029,8.3,Pete Docter,0.59999999999999998,0.0
+549,2009,tt1193138,Up in the Air,men,0,Drama,R,32571948,7.5,Jason Reitman,0.40000000000000002,0.33333333333333331
+550,2009,tt1068678,Veronika Decides to Die,ok,1,Drama,R,9771584,6.5,Emily Young,2.0,1.0
+551,2009,tt0409459,Watchmen,men,0,Action,R,149830960,7.6,Zack Snyder,0.59999999999999998,0
+552,2009,tt1178663,Whatever Works,dubious,0,Comedy,PG13,16285974,7.2,Woody Allen,0.0,5.0
+553,2009,tt0386117,Where the Wild Things Are,notalk,0,Adventure,PG,108573160,6.8,Spike Jonze,0.0,0.0
+554,2009,tt1172233,Whip It,ok,1,Drama,PG13,16285974,6.9,Drew Barrymore,1.2,1.5
+555,2009,tt0365929,Whiteout,ok,1,Action,R,38000606,5.5,Dominic Sena,1.6000000000000001,1.3333333333333333
+556,2009,tt0458525,X-Men Origins: Wolverine,dubious,0,Action,PG13,162859739,6.7,Gavin Hood,2.2000000000000002,0
+557,2009,tt0448182,Yesterday Was a Lie,ok,1,Drama,PG,217146,5.4,James Kerwin,1.0,1.0
+558,2009,tt0403702,Youth in Revolt,notalk,0,Comedy,R,19543169,6.5,Miguel Arteta,0.59999999999999998,0.0
+559,2009,tt1156398,Zombieland,ok,1,Comedy,R,25623266,7.7,Ruben Fleischer,2.0,2.0
+560,2008,tt0478087,21,ok,1,Biography,PG13,37878971,6.8,Robert Luketic,2.2000000000000002,1.3333333333333333
+561,2008,tt0800308,Appaloosa,notalk,0,Crime,R,21645126,6.8,Ed Harris,0.20000000000000001,0.0
+562,2008,tt0455824,Australia,men,0,Adventure,PG13,140693320,6.6,Baz Luhrmann,0.20000000000000001,0.0
+563,2008,tt0871426,Baby Mama,ok,1,Comedy,PG13,32467689,6.1,Michael McCullers,2.6000000000000001,1.0
+564,2008,tt0799934,Be Kind Rewind,notalk,0,Comedy,PG13,21645126,6.4,Michel Gondry,0.20000000000000001,0.0
+565,2008,tt0960731,Bedtime Stories,ok,1,Comedy,PG,86580505,6.1,Adam Shankman,3.2000000000000002,1.0
+566,2008,tt0861689,Blindness,ok,1,Drama,R,27056408,6.6,Fernando Meirelles,1.0,1.0
+567,2008,tt0397892,Bolt,ok,1,Animation,PG,162338447,6.9,Byron Howard,1.8,1.75
+568,2008,tt0887883,Burn After Reading,notalk,0,Comedy,R,40043484,7.0,Ethan Coen,1.8,1.0
+569,2008,tt0824747,Changeling,ok,1,Drama,R,59524097,7.8,Clint Eastwood,1.2,1.0
+570,2008,tt0892255,Che: Part One,notalk,0,Biography,NR,62770866,7.2,Steven Soderbergh,0.20000000000000001,0
+571,2008,tt0970411,City of Ember,ok,1,Adventure,PG,41125740,6.5,Gil Kenan,2.0,1.0
+572,2008,tt1060277,Cloverfield,ok,1,Adventure,PG13,27056408,7.1,Matt Reeves,1.2,1.0
+573,2008,tt0489018,Day of the Dead,ok,1,Action,R,19480614,4.5,Steve Miner,1.0,1.5
+574,2008,tt0452608,Death Race,notalk,0,Action,R,70346660,6.4,Paul W.S. Anderson,1.6000000000000001,0.40000000000000002
+575,2008,tt1034303,Defiance,ok,1,Action,R,54112816,7.2,Edward Zwick,1.6000000000000001,1.0
+576,2008,tt0832266,"Definitely, Maybe",ok,1,Comedy,PG13,7575794,7.2,Adam Brooks,1.3999999999999999,1.0
+577,2008,tt0483607,Doomsday,ok,1,Action,R,35714458,6.0,Neil Marshall,1.0,2.0
+578,2008,tt0918927,Doubt,ok,1,Drama,PG13,21645126,7.5,John Patrick Shanley,5.4000000000000004,1.0
+579,2008,tt1059786,Eagle Eye,notalk,0,Action,PG13,86580505,6.6,D.J. Caruso,1.6000000000000001,0.0
+580,2008,tt0808244,Easy Virtue,ok,1,Comedy,PG13,15151588,6.7,Stephan Elliott,2.3999999999999999,1.0
+581,2008,tt1129423,Fireproof,men,0,Drama,PG,541128,6.5,Alex Kendrick,0.0,0.0
+582,2008,tt0486321,Fly Me to the Moon,nowomen,0,Animation,G,27056408,4.6,Ben Stassen,0.0,0.0
+583,2008,tt0800039,Forgetting Sarah Marshall,ok,1,Comedy,R,32467689,7.2,Nicholas Stoller,2.6000000000000001,1.0
+584,2008,tt0369436,Four Christmases,ok,1,Comedy,PG13,86580505,5.6,Seth Gordon,2.7999999999999998,1.8333333333333333
+585,2008,tt0870111,Frost/Nixon,notalk,0,Drama,R,31385433,7.7,Ron Howard,2.0,0.5
+586,2008,tt0978759,Frozen River,ok,1,Crime,R,1082256,7.2,Courtney Hunt,1.0,1.0
+587,2008,tt0876563,Gake no ue no Ponyo,ok,1,Animation,G,36796715,7.7,Hayao Miyazaki,1.0,2.0
+588,2008,tt0995039,Ghost Town,notalk,0,Comedy,PG13,21645126,6.7,David Koepp,0.0,1.5
+589,2008,tt1205489,Gran Torino,men,0,Drama,R,27056408,8.2,Clint Eastwood,0.40000000000000002,0.0
+590,2008,tt1104733,Hamlet 2,ok,1,Comedy,R,9740307,6.4,Andrew Fleming,2.0,1.5
+591,2008,tt0448157,Hancock,nowomen,0,Action,PG13,162338447,6.5,Peter Berg,1.3999999999999999,0.0
+592,2008,tt1227929,Herb &amp; Dorothy,ok,1,Documentary,NR,89286146,7.6,Megumi Sasaki,1.0,0
+593,2008,tt0962726,High School Musical 3: Senior Year,ok,1,Comedy,G,11904819,4.3,Kenny Ortega,1.8,1.0
+594,2008,tt0465502,Igor,men,0,Animation,PG,32467689,6.1,Anthony Leondis,0.80000000000000004,0.0
+595,2008,tt0780536,In Bruges,notalk,0,Comedy,R,16233845,8.0,Martin McDonagh,0.0,0.0
+596,2008,tt0367882,Indiana Jones and the Kingdom of the Crystal Skull,notalk,0,Action,PG13,200217418,6.2,Steven Spielberg,1.0,0
+597,2008,tt0494238,Inkheart,ok,1,Adventure,PG,64935379,6.1,Iain Softley,2.2000000000000002,1.5
+598,2008,tt0371746,Iron Man,men,0,Action,PG13,201299674,7.9,Jon Favreau,1.2,0.5
+599,2008,tt0373051,Journey to the Center of the Earth,notalk,0,Action,PG,48701534,5.8,Eric Brevig,0.80000000000000004,0.5
+600,2008,tt0489099,Jumper,notalk,0,Action,PG13,89286146,6.1,Doug Liman,1.6000000000000001,0.5
+601,2008,tt0441773,Kung Fu Panda,notalk,0,Animation,PG,140693320,7.6,Mark Osborne,1.8,0
+602,2008,tt1139797,L&aring;t den r&auml;tte komma in (Let the Right One In),notalk,0,Drama,R,4870153,8.0,Tomas Alfredson,0.0,0.0
+603,2008,tt0866439,Made of Honor,men,0,Comedy,PG13,43290252,5.8,Paul Weiland,0.59999999999999998,0.25
+604,2008,tt0467197,Max Payne,ok,1,Action,PG13,37878971,5.4,John Moore,2.3999999999999999,1.0
+605,2008,tt0765476,Meet Dave,notalk,0,Adventure,PG,64935379,4.9,Brian Robbins,1.8,0.0
+606,2008,tt1013753,Milk,notalk,0,Biography,R,21645126,7.6,Gus Van Sant,0.80000000000000004,0.0
+607,2008,tt1046997,Miracle at St. Anna,men,0,Action,R,48701534,6.0,Spike Lee,0.59999999999999998,0.0
+608,2008,tt0981227,Nick and Norah&#39;s Infinite Playlist,ok,1,Comedy,PG13,10822563,6.7,Peter Sollett,2.0,1.0
+609,2008,tt0410377,Nim&#39;s Island,ok,1,Adventure,PG,40043484,6.0,Jennifer Flackett,2.0,1.0
+610,2008,tt0910936,Pineapple Express,men,0,Action,R,28138664,7.0,David Gordon Green,0.20000000000000001,0.20000000000000001
+611,2008,tt1226681,Pontypool,nowomen,0,Horror,NR,1623384,6.7,Bruce McDonald,0.0,0.0
+612,2008,tt0368563,Possession,ok,1,Drama,PG13,27056408,5.6,Joel Bergvall,2.0,0
+613,2008,tt0926129,Prom Night,ok,1,Horror,PG13,19480614,3.9,Nelson McCormick,1.2,1.0
+614,2008,tt0830515,Quantum of Solace,notalk,0,Action,PG13,248918952,6.7,Marc Forster,0.59999999999999998,0.5
+615,2008,tt1082868,Quarantine,ok,1,Horror,R,12987076,6.0,John Erick Dowdle,1.3999999999999999,1.3999999999999999
+616,2008,tt1084950,Rachel Getting Married,ok,1,Drama,R,12987076,6.7,Jonathan Demme,2.3999999999999999,1.0
+617,2008,tt0959337,Revolutionary Road,ok,1,Drama,R,48701534,7.3,Sam Mendes,1.2,1.0
+618,2008,tt1032755,RocknRolla,notalk,0,Action,R,19480614,7.3,Guy Ritchie,2.0,0.0
+619,2008,tt0814314,Seven Pounds,ok,1,Drama,PG13,58441841,7.7,Gabriele Muccino,2.3999999999999999,1.0
+620,2008,tt1000774,Sex and the City,ok,1,Comedy,R,62229738,5.5,Michael Patrick King,1.8,2.0
+621,2008,tt1010048,Slumdog Millionaire,notalk,0,Drama,R,15151588,8.0,Danny Boyle,0.0,0.5
+622,2008,tt0811080,Speed Racer,ok,1,Action,PG,129870757,6.1,Andy Wachowski,1.8,5.333333333333333
+623,2008,tt0942903,Stargate: The Ark of Truth,dubious,0,Adventure,NR,7575794,7.4,Robert C. Cooper,0.20000000000000001,0.0
+624,2008,tt0838283,Step Brothers,notalk,0,Comedy,R,70346660,6.9,Adam McKay,1.0,0.20000000000000001
+625,2008,tt0862846,Sunshine Cleaning,ok,1,Comedy,R,5411282,6.9,Christine Jeffs,3.3999999999999999,1.0
+626,2008,tt0383028,"Synecdoche, New York",dubious,0,Comedy,R,21645126,7.4,Charlie Kaufman,1.2,1.0
+627,2008,tt0936501,Taken,ok,1,Action,PG13,27056408,7.9,Pierre Morel,2.2000000000000002,2.5
+628,2008,tt0200465,The Bank Job,ok,1,Crime,R,21645126,7.3,Roger Donaldson,1.6000000000000001,2.5
+629,2008,tt0844286,The Brothers Bloom,dubious,0,Adventure,PG13,21645126,6.9,Rian Johnson,1.3999999999999999,0.0
+630,2008,tt0499448,The Chronicles of Narnia: Prince Caspian,ok,1,Action,PG,243507670,6.6,Andrew Adamson,1.8,0
+631,2008,tt0421715,The Curious Case of Benjamin Button,dubious,0,Drama,PG13,173161010,7.8,David Fincher,1.2,0.5
+632,2008,tt0468569,The Dark Knight,dubious,0,Action,PG13,200217418,9.0,Christopher Nolan,1.8,0.59999999999999998
+633,2008,tt0970416,The Day the Earth Stood Still,ok,1,Drama,PG13,86580505,5.5,Scott Derrickson,2.6000000000000001,1.0
+634,2008,tt0406759,The Eye,ok,1,Drama,PG13,12987076,5.4,David Moreau,2.6000000000000001,1.0
+635,2008,tt0865556,The Forbidden Kingdom,notalk,0,Action,PG13,59524097,6.6,Rob Minkoff,0.40000000000000002,0.0
+636,2008,tt0852713,The House Bunny,ok,1,Comedy,PG13,27056408,5.5,Fred Wolf,1.6000000000000001,2.5
+637,2008,tt0887912,The Hurt Locker,notalk,0,Drama,R,16233845,7.6,Kathryn Bigelow,1.2,1.0
+638,2008,tt0800080,The Incredible Hulk,notalk,0,Action,PG13,148810243,6.9,Louis Leterrier,0.80000000000000004,1.0
+639,2008,tt0981072,The Lucky Ones,ok,1,Comedy,R,15151588,7.0,Neil Burger,2.0,1.0
+640,2008,tt0467200,The Other Boleyn Girl,ok,1,Biography,PG13,43290252,6.7,Justin Chadwick,3.6000000000000001,1.0
+641,2008,tt0976051,The Reader,notalk,0,Drama,R,35173330,7.6,Stephen Daldry,1.3999999999999999,0.0
+642,2008,tt0416212,The Secret Life of Bees,ok,1,Drama,PG13,11904819,7.3,Gina Prince-Bythewood,1.6000000000000001,1.5
+643,2008,tt1018785,The Sisterhood of the Traveling Pants 2,ok,1,Comedy,PG13,29220920,6.2,Sanaa Hamri,1.6000000000000001,1.0
+644,2008,tt0482606,The Strangers,dubious,0,Horror,R,9740307,6.2,Bryan Bertino,0.20000000000000001,0
+645,2008,tt420238,The Tale of Despereaux,ok,1,Comedy,G,64935379,6.1,"[<Person id:0000540[http] name:_Meyer, Russ_>]",0,0
+646,2008,tt0430770,The Women,ok,1,Comedy,PG13,17316101,4.9,Diane English,2.2000000000000002,1.0
+647,2008,tt1125849,The Wrestler,notalk,0,Drama,R,6493538,7.9,Darren Aronofsky,1.2,0.0
+648,2008,tt0882978,Three Kingdoms: Resurrection of the Dragon,notalk,0,Action,R,21645126,6.2,Daniel Lee,0.0,0.0
+649,2008,tt0800241,Transsiberian,ok,1,Crime,R,16233845,6.7,Brad Anderson,1.8,1.0
+650,2008,tt0942385,Tropic Thunder,nowomen,0,Action,R,97403068,7.0,Ben Stiller,1.0,0.20000000000000001
+651,2008,tt1099212,Twilight,ok,1,Drama,PG13,40043484,5.2,Catherine Hardwicke,2.6000000000000001,3.0
+652,2008,tt0985699,Valkyrie,notalk,0,Drama,PG13,97403068,7.1,Bryan Singer,2.3999999999999999,0.0
+653,2008,tt0497465,Vicky Cristina Barcelona,ok,1,Drama,PG13,17316101,7.2,Woody Allen,3.0,5.0
+654,2008,tt0910970,WALL-E,notalk,0,Animation,G,194806136,8.4,Andrew Stanton,0.59999999999999998,1.0
+655,2008,tt1185616,Waltz with Bashir,nowomen,0,Documentary,R,2164513,8.0,Ari Folman,0.0,0.0
+656,2008,tt0493464,Wanted,notalk,0,Action,R,81169223,6.7,Timur Bekmambetov,2.0,0.2857142857142857
+657,2008,tt0494652,"Welcome Home, Roscoe Jenkins",dubious,0,Comedy,PG13,29762049,5.2,Malcolm D. Lee,0.59999999999999998,0.0
+658,2008,tt1152850,Wendy and Lucy,ok,1,Drama,R,324677,7.1,Kelly Reichardt,1.0,1.0
+659,2008,tt1033643,What Happens In Vegas,ok,1,Comedy,PG13,37878971,6.1,Tom Vaughan,3.3999999999999999,1.0
+660,2008,tt1068680,Yes Man,notalk,0,Comedy,PG13,54112816,6.9,Peyton Reed,1.8,0.0
+661,2007,tt1038988,[Rec],ok,1,Horror,R,2359441,7.5,Jaume Balagueró,1.0,1.6666666666666667
+662,2007,tt0450385,1408,ok,1,Horror,PG13,25279728,6.8,Mikael Håfström,1.3999999999999999,0
+663,2007,tt0463854,28 Weeks Later,ok,1,Horror,R,16853152,7.0,Juan Carlos Fresnadillo,1.6000000000000001,1.0
+664,2007,tt0381849,3:10 to Yuma,nowomen,0,Adventure,R,53930087,7.8,James Mangold,0.80000000000000004,0.25
+665,2007,tt0389722,30 Days of Night,men,0,Horror,R,33706305,6.6,David Slade,1.0,0.20000000000000001
+666,2007,tt0411061,88 Minutes,notalk,0,Crime,R,33706305,5.9,Jon Avnet,1.2,1.0
+667,2007,tt0445922,Across the Universe,ok,1,Drama,PG13,50559457,7.5,Julie Taymor,1.6000000000000001,2.0
+668,2007,tt0783233,Atonement,ok,1,Drama,R,33706305,7.8,Joe Wright,2.0,1.5
+669,2007,tt0416508,Becoming Jane,ok,1,Biography,PG,18538467,7.1,Julian Jarrold,2.6000000000000001,2.0
+670,2007,tt0442933,Beowulf,ok,1,Animation,PG13,168531522,6.3,Robert Zemeckis,2.0,1.6666666666666667
+671,2007,tt0445934,Blades of Glory,ok,1,Comedy,PG13,68536152,6.3,Josh Gordon,1.6000000000000001,1.2857142857142858
+672,2007,tt0398808,Bridge to Terabithia,ok,1,Adventure,PG,28088587,7.2,Gabor Csupo,2.0,1.0
+673,2007,tt0283503,Brooklyn Rules,ok,1,Crime,R,8988348,6.4,Michael Corrente,1.8,1.0
+674,2007,tt0423977,Charlie Bartlett,men,0,Comedy,R,13482522,7.0,Jon Poll,1.2,0.0
+675,2007,tt0472062,Charlie Wilson&#39;s War,ok,1,Biography,R,84265761,7.1,Mike Nichols,4.4000000000000004,1.5
+676,2007,tt0795368,Death at a Funeral,ok,1,Comedy,R,23594413,7.4,Frank Oz,1.0,1.0
+677,2007,tt0848557,Diary of the Dead,ok,1,Horror,R,3089745,5.7,George A. Romero,1.0,2.0
+678,2007,tt0486822,Disturbia,ok,1,Drama,PG13,22470870,6.9,D.J. Caruso,2.7999999999999998,2.3333333333333335
+679,2007,tt0765443,Eastern Promises,ok,1,Crime,R,56177174,7.7,David Cronenberg,1.0,1.0
+680,2007,tt0461770,Enchanted,ok,1,Comedy,PG,95501196,7.2,Kevin Lima,2.0,2.0
+681,2007,tt0486576,Fantastic Four: Rise of the Silver Surfer,dubious,0,Action,PG,134825218,5.6,Tim Story,1.0,0.33333333333333331
+682,2007,tt0452623,Gone Baby Gone,ok,1,Crime,R,21347326,7.7,Ben Affleck,2.7999999999999998,1.0
+683,2007,tt0427327,Hairspray,ok,1,Comedy,PG,84265761,6.8,Adam Shankman,3.0,1.0
+684,2007,tt0373883,Halloween,ok,1,Horror,R,16853152,6.1,Rob Zombie,1.6000000000000001,3.0
+685,2007,tt0367959,Hannibal Rising,notalk,0,Crime,R,56177174,6.2,Peter Webber,0.40000000000000002,0
+686,2007,tt0373889,Harry Potter and the Order of the Phoenix,ok,1,Adventure,PG13,168531522,7.4,David Yates,2.0,1.5
+687,2007,tt0465494,Hitman,nowomen,0,Action,R,19662011,6.3,Xavier Gens,0.59999999999999998,0.0
+688,2007,tt0498353,Hostel: Part II,ok,1,Horror,R,8426576,5.4,Eli Roth,2.0,2.0
+689,2007,tt0425112,Hot Fuzz,notalk,0,Comedy,R,17976696,7.9,Edgar Wright,0.40000000000000002,0.0
+690,2007,tt0787475,Hot Rod,notalk,0,Comedy,PG13,28088587,6.7,Akiva Schaffer,0.40000000000000002,1.0
+691,2007,tt0480249,I Am Legend,ok,1,Drama,PG13,168531522,7.2,Francis Lawrence,1.8,1.8
+692,2007,tt0758758,Into the Wild,notalk,0,Adventure,R,22470870,8.2,Sean Penn,1.8,0.0
+693,2007,tt0467406,Juno,ok,1,Comedy,PG13,7864804,7.6,Jason Reitman,1.6000000000000001,3.0
+694,2007,tt0478311,Knocked Up,ok,1,Comedy,R,30897446,7.1,Judd Apatow,2.2000000000000002,2.0
+695,2007,tt0805564,Lars and the real Girl,ok,1,Comedy,PG13,14044294,7.4,Craig Gillespie,1.6000000000000001,1.0
+696,2007,tt0337978,Live Free or Die Hard,notalk,0,Action,PG13,123589783,7.2,Len Wiseman,2.3999999999999999,0.20000000000000001
+697,2007,tt0465538,Michael Clayton,men,0,Crime,R,24156185,7.3,Tony Gilroy,0.80000000000000004,0.0
+698,2007,tt0758766,Music and Lyrics,men,0,Comedy,PG13,44941739,6.5,Marc Lawrence,0.40000000000000002,2.0
+699,2007,tt0477348,No Country for Old Men,dubious,0,Crime,R,28088587,8.1,Ethan Coen,1.6000000000000001,0.66666666666666663
+700,2007,tt0481141,No Reservations,ok,1,Comedy,PG,31459218,6.3,Scott Hicks,2.3999999999999999,1.0
+701,2007,tt1179904,Paranormal Activity,dubious,0,Horror,R,505595,6.3,Oren Peli,0.20000000000000001,0.0
+702,2007,tt0808417,Persepolis,ok,1,Animation,PG13,8201867,8.0,Vincent Paronnaud,1.3999999999999999,1.0
+703,2007,tt0449088,Pirates of the Caribbean: At World&#39;s End,ok,1,Action,PG13,337063045,7.1,Gore Verbinski,3.0,1.3333333333333333
+704,2007,tt0477071,Premonition,ok,1,Drama,PG13,22470870,5.9,Mennan Yapo,2.7999999999999998,2.0
+705,2007,tt0382932,Ratatouille,nowomen,0,Animation,G,168531522,8.0,Brad Bird,0.20000000000000001,0.14285714285714285
+706,2007,tt0432021,Resident Evil: Extinction,ok,1,Action,R,50559457,6.3,Russell Mulcahy,1.8,2.0
+707,2007,tt00293564,Rush Hour 3,notalk,0,Action,PG13,202237827,,,0,0
+708,2007,tt0822854,Shooter,notalk,0,Action,R,67412609,7.2,Antoine Fuqua,1.2,0.0
+709,2007,tt0413267,Shrek the Third,ok,1,Animation,PG,179766957,6.0,Chris Miller,3.0,2.0
+710,2007,tt0964587,St. Trinian&#39;s,ok,1,Comedy,PG13,12808396,5.8,Oliver Parker,1.2,1.0
+711,2007,tt0486655,Stardust,ok,1,Adventure,PG13,78648044,7.7,Matthew Vaughn,1.6000000000000001,1.6666666666666667
+712,2007,tt0448134,Sunshine,notalk,0,Adventure,R,44941739,7.3,Danny Boyle,1.0,1.0
+713,2007,tt0829482,Superbad,notalk,0,Comedy,R,19662011,7.6,Greg Mottola,0.59999999999999998,0.0
+714,2007,tt0815244,Sydney White,ok,1,Comedy,PG13,18538467,6.3,Joe Nussbaum,1.2,1.0
+715,2007,tt0780622,Teeth,dubious,0,Comedy,R,2247087,5.5,Mitchell Lichtenstein,0.20000000000000001,0.0
+716,2007,tt0825232,The Bucket List,notalk,0,Adventure,PG13,50559457,7.4,Rob Reiner,1.6000000000000001,1.0
+717,2007,tt0385752,The Golden Compass,ok,1,Adventure,PG13,230326414,6.1,Chris Weitz,2.2000000000000002,1.0
+718,2007,tt0419887,The Kite Runner,nowomen,0,Drama,PG13,22470870,7.6,Marc Forster,0.0,0.5
+719,2007,tt0756683,The Man from Earth,notalk,0,Drama,NR,224709,8.0,Richard Schenkman,0.20000000000000001,0.0
+720,2007,tt0425430,The Messengers,ok,1,Drama,PG13,17976696,5.4,Oxide Pang Chun,2.2000000000000002,0
+721,2007,tt0884328,The Mist,ok,1,Horror,R,14606065,7.2,Frank Darabont,1.3999999999999999,0
+722,2007,tt0481369,The Number 23,notalk,0,Drama,R,35953391,6.4,Joel Schumacher,1.3999999999999999,0.0
+723,2007,tt0775529,The Savages,ok,1,Comedy,R,10111891,7.2,Tamara Jenkins,2.0,2.0
+724,2007,tt0780607,The Signal,men,0,Horror,R,56177,6.1,David Bruckner,0.0,0.0
+725,2007,tt0462538,The Simpsons Movie,ok,1,Animation,PG13,81456903,7.4,David Silverman,1.2,1.4210526315789473
+726,2007,tt0857191,The Visitor,dubious,0,Drama,PG13,4494174,7.7,Thomas McCarthy,0.0,0.0
+727,2007,tt0469494,There Will Be Blood,nowomen,0,Drama,R,28088587,8.1,Paul Thomas Anderson,0.40000000000000002,0.0
+728,2007,tt0453556,TMNT,notalk,0,Animation,PG,39324022,6.4,Kevin Munroe,1.0,0.33333333333333331
+729,2007,tt0418279,Transformers,notalk,0,Action,PG13,169655066,7.2,Michael Bay,2.2000000000000002,2.2000000000000002
+730,2007,tt0861739,Tropa de Elite,ok,1,Action,R,7345604,8.1,José Padilha,1.0,1.2857142857142858
+731,2007,tt0473308,Waitress,ok,1,Comedy,PG13,1685315,7.1,Adrienne Shelly,1.6000000000000001,1.0
+732,2007,tt0498399,We Own the Night,nowomen,0,Crime,R,31459218,6.9,James Gray,0.40000000000000002,0.0
+733,2007,tt0496436,White Noise 2: The Light,notalk,0,Drama,PG13,11235435,5.8,Patrick Lussier,0.20000000000000001,0.0
+734,2006,tt0416449,300,nowomen,0,Action,R,69347781,7.8,Zack Snyder,0.59999999999999998,0.20000000000000001
+735,2006,tt0405296,A Scanner Darkly,notalk,0,Animation,R,23115927,7.1,Richard Linklater,0.59999999999999998,0.0
+736,2006,tt0437800,Akeelah and the Bee,ok,1,Drama,PG,9246371,7.5,Doug Atchison,1.8,1.0
+737,2006,tt0429591,Aquamarine,ok,1,Comedy,PG,13869556,5.2,Elizabeth Allen Rosenbaum,1.3999999999999999,1.0
+738,2006,tt0416496,Bandidas,ok,1,Action,PG13,40452872,5.7,Joachim Rønning,2.2000000000000002,2.5
+739,2006,tt0454082,Black Christmas,ok,1,Horror,R,10402167,4.5,Glen Morgan,1.2,1.5
+740,2006,tt0450259,Blood Diamond,notalk,0,Adventure,R,115579635,8.0,Edward Zwick,1.2,0
+741,2006,tt0479647,"Bon Cop, Bad Cop",notalk,0,Action,R,9246371,7.0,Erik Canuel,0.0,0.0
+742,2006,tt0443453,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,notalk,0,Comedy,R,20804334,7.3,Larry Charles,0.0,0.0
+743,2006,tt0470705,Bug,ok,1,Drama,R,4623185,6.0,William Friedkin,2.2000000000000002,2.0
+744,2006,tt0317219,Cars,notalk,0,Animation,G,80905744,7.2,John Lasseter,0.40000000000000002,0
+745,2006,tt0381061,Casino Royale,notalk,0,Action,PG13,117891227,8.0,Martin Campbell,0.59999999999999998,0.25
+746,2006,tt0206634,Children of Men,ok,1,Drama,R,87840522,7.9,Alfonso Cuarón,1.3999999999999999,1.0
+747,2006,tt0424345,Clerks II,dubious,0,Comedy,R,5778982,7.4,Kevin Smith,0.40000000000000002,2.0
+748,2006,tt0479884,Crank,nowomen,0,Action,R,13869556,7.0,Mark Neveldine,0.80000000000000004,0.0
+749,2006,tt0405094,Das Leben Der Anderen,nowomen,0,Drama,R,2311593,8.5,Florian Henckel von Donnersmarck,0.20000000000000001,0.0
+750,2006,tt0398913,DOA: Dead or Alive,ok,1,Action,PG13,34673890,4.8,Corey Yuen,1.3999999999999999,1.25
+751,2006,tt0457430,El laberinto del fauno (Pan's Labyrinth),ok,1,Drama,R,18492742,8.3,Guillermo del Toro,1.0,2.0
+752,2006,tt0449010,Eragon,notalk,0,Action,PG,115579635,5.1,Stefen Fangmeier,1.6000000000000001,0.0
+753,2006,tt0457572,Fido,men,0,Comedy,R,9246371,6.8,Andrew Currie,0.0,0.0
+754,2006,tt0414982,Final Destination 3,ok,1,Horror,R,28894909,5.8,James Wong,1.0,2.3333333333333335
+755,2006,tt0424095,Flushed Away,nowomen,0,Animation,PG,172213656,6.7,David Bowers,2.6000000000000001,1.0
+756,2006,tt0470765,For Your Consideration,ok,1,Comedy,PG13,13869556,6.3,Christopher Guest,1.3999999999999999,2.0
+757,2006,tt0436331,Friends with Money,ok,1,Comedy,R,7512676,5.9,Nicole Holofcener,1.8,4.0
+758,2006,tt0438097,Ice Age: The Meltdown,notalk,0,Animation,PG,86684726,6.9,Carlos Saldanha,1.2,0.0
+759,2006,tt0417225,Idlewild,ok,1,Crime,R,17336945,6.2,Bryan Barber,1.6000000000000001,0
+760,2006,tt0454848,Inside Man,dubious,0,Crime,R,57789817,7.6,Spike Lee,1.3999999999999999,0.0
+761,2006,tt0493430,Jackass Number Two,notalk,0,Documentary,R,12713760,7.1,Jeff Tremaine,0.0,0.0
+762,2006,tt0452637,Lady in the Water,men,0,Fantasy,PG13,86684726,5.7,M. Night Shyamalan,0.59999999999999998,0.0
+763,2006,tt0408985,Last Holiday,ok,1,Adventure,PG13,52010836,6.3,Wayne Wang,2.2000000000000002,0
+764,2006,tt0498380,Letters from Iwo Jima,notalk,0,Drama,R,15025353,8.0,Clint Eastwood,0.20000000000000001,0.20000000000000001
+765,2006,tt0404203,Little Children,ok,1,Drama,R,16181149,7.6,Todd Field,2.0,1.6666666666666667
+766,2006,tt0449059,Little Miss Sunshine,ok,1,Comedy,R,9246371,7.9,Jonathan Dayton,4.2000000000000002,1.0
+767,2006,tt0490166,London To Brighton,ok,1,Crime,R,953532,7.0,Paul Andrew Williams,1.2,1.0
+768,2006,tt0425210,Lucky Number Slevin,notalk,0,Crime,R,31206501,7.8,Paul McGuigan,2.6000000000000001,0
+769,2006,tt0483726,Man of the Year,notalk,0,Comedy,PG13,23115927,6.2,Barry Levinson,1.3999999999999999,0.0
+770,2006,tt0422720,Marie Antoinette,ok,1,Biography,PG13,46231854,6.4,Sofia Coppola,2.7999999999999998,1.0
+771,2006,tt0482546,Miss Potter,ok,1,Biography,PG,34673890,7.0,Chris Noonan,2.3999999999999999,0
+772,2006,tt0385880,Monster House,ok,1,Animation,PG,86684726,6.7,Gil Kenan,2.6000000000000001,1.3999999999999999
+773,2006,tt0457510,Nacho Libre,nowomen,0,Comedy,PG,36985483,5.7,Jared Hess,0.20000000000000001,0.0
+774,2006,tt0477347,Night at the Museum,ok,1,Action,PG,127137598,6.4,Shawn Levy,1.8,2.2000000000000002
+775,2006,tt0465551,Notes on a Scandal,ok,1,Drama,R,31784400,7.4,Richard Eyre,1.6000000000000001,1.0
+776,2006,tt0907657,Once,men,0,Drama,R,173369,7.9,John Carney,0.0,0.0
+777,2006,tt0400717,Open Season,notalk,0,Animation,PG,98242689,6.2,Roger Allers,1.0,0.0
+778,2006,tt0401711,Paris je t&#39;aime,dubious,0,Comedy,R,15025353,7.3,Olivier Assayas,0.0,0.35714285714285715
+779,2006,tt0396171,Perfume: The Story of a Murderer,ok,1,Crime,R,73624227,7.5,Tom Tykwer,1.0,1.25
+780,2006,tt0383574,Pirates of the Caribbean: Dead Man&#39;s Chest,men,0,Action,PG13,260054178,7.3,Gore Verbinski,2.6000000000000001,0
+781,2006,tt0409182,Poseidon,men,0,Action,PG13,184927415,5.6,Wolfgang Petersen,0.59999999999999998,0
+782,2006,tt0451176,Quinceanera,ok,1,Drama,R,462319,7.1,Richard Glatzer,1.0,1.0
+783,2006,tt0405508,Rang De Basanti,ok,1,Comedy,NR,6125721,,Rakeysh Omprakash Mehra,1.0,1.0
+784,2006,tt0439289,Running with Scissors,ok,1,Comedy,R,13869556,6.2,Ryan Murphy,3.2000000000000002,1.5
+785,2006,tt0454945,She&#39;s the Man,men,0,Comedy,PG13,28894909,6.4,Andy Fickman,0.59999999999999998,1.0
+786,2006,tt0423169,Sherrybaby,dubious,0,Drama,R,2311593,6.7,Laurie Collyer,0.59999999999999998,0.0
+787,2006,tt0367027,Shortbus,ok,1,Comedy,NR,2311593,6.6,John Cameron Mitchell,1.0,2.0
+788,2006,tt0384537,Silent Hill,ok,1,Horror,R,57789817,6.6,Christophe Gans,2.2000000000000002,0
+789,2006,tt0439815,Slither,ok,1,Comedy,R,17625894,6.5,James Gunn,2.0,2.0
+790,2006,tt0475394,Smokin&#39; Aces,dubious,0,Action,R,19648538,6.7,Joe Carnahan,0.80000000000000004,0.0
+791,2006,tt0417148,Snakes on a Plane,ok,1,Action,R,38141279,5.6,David R. Ellis,1.3999999999999999,0
+792,2006,tt0405336,Southland Tales,ok,1,Comedy,R,19648538,5.5,Richard Kelly,1.2,3.0
+793,2006,tt0430634,Stick It,ok,1,Comedy,PG13,23115927,6.4,Jessica Bendinger,1.2,2.0
+794,2006,tt0420223,Stranger Than Fiction,ok,1,Comedy,PG13,34673890,7.7,Marc Forster,1.2,1.0
+795,2006,tt0348150,Superman Returns,notalk,0,Action,PG13,268144752,6.1,Bryan Singer,2.6000000000000001,1.1428571428571428
+796,2006,tt0446046,Take the Lead,ok,1,Drama,PG13,34673890,6.6,Liz Friedlander,2.2000000000000002,1.0
+797,2006,tt0429589,The Ant Bully,men,0,Animation,PG,52010836,5.9,John A. Davis,1.8,0.0
+798,2006,tt0452594,The Break Up,notalk,0,Comedy,PG13,60101410,5.8,Peyton Reed,1.3999999999999999,0.0
+799,2006,tt0382625,The Da Vinci Code,notalk,0,Mystery,PG13,144474543,6.5,Ron Howard,2.2000000000000002,0.0
+800,2006,tt0783238,The Dead Girl,ok,1,Crime,R,3814128,6.8,Karen Moncrieff,1.3999999999999999,1.0
+801,2006,tt0407887,The Departed,notalk,0,Crime,R,104021671,8.5,Martin Scorsese,1.2,0.0
+802,2006,tt0458352,The Devil Wears Prada,ok,1,Comedy,PG13,40452872,6.8,David Frankel,4.7999999999999998,0
+803,2006,tt0414993,The Fountain,dubious,0,Drama,PG13,40452872,7.3,Darren Aronofsky,2.0,0.0
+804,2006,tt0433386,The Grudge 2,ok,1,Horror,PG13,23115927,4.9,Takashi Shimizu,2.0,0
+805,2006,tt0464049,The History Boys,notalk,0,Comedy,R,4276446,6.8,Nicholas Hytner,1.0,0.0
+806,2006,tt0457939,The Holiday,ok,1,Comedy,PG13,98242689,6.9,Nancy Meyers,3.7999999999999998,0
+807,2006,tt0468492,The Host,ok,1,Action,R,57789817,7.0,Joon-ho Bong,1.0,1.0
+808,2006,tt0443543,The Illusionist,nowomen,0,Drama,PG13,19070640,7.6,Neil Burger,0.80000000000000004,0.5
+809,2006,tt0410297,The Lake House,dubious,0,Drama,PG,46231854,6.8,Alejandro Agresti,1.3999999999999999,0.33333333333333331
+810,2006,tt0446755,The Painted Veil,dubious,0,Drama,PG13,22422449,7.5,John Curran,0.0,0.0
+811,2006,tt0482571,The Prestige,notalk,0,Drama,PG13,46231854,8.5,Christopher Nolan,1.6000000000000001,0
+812,2006,tt0454921,The Pursuit of Happyness,nowomen,0,Biography,PG13,63568799,7.9,Gabriele Muccino,1.0,0.0
+813,2006,tt0436697,The Queen,dubious,0,Biography,PG13,17336945,7.4,Stephen Frears,0.59999999999999998,1.0
+814,2006,tt0460989,The Wind That Shakes the Barley,notalk,0,Drama,NR,9593110,7.5,Ken Loach,0.0,0.0
+815,2006,tt0370032,Ultraviolet,notalk,0,Action,PG13,34673890,4.4,Kurt Wimmer,0.59999999999999998,1.0
+816,2006,tt0441909,Volver,ok,1,Comedy,R,10864486,7.6,Pedro Almodóvar,1.2,0
+817,2006,tt0758794,We Are Marshall,notalk,0,Drama,PG,75126763,7.1,McG,0.59999999999999998,0.0
+818,2006,tt0455857,When a Stranger Calls,ok,1,Horror,PG13,17336945,5.0,Simon West,1.2,1.0
+819,2006,tt0477139,Wristcutters: A Love Story,notalk,0,Comedy,R,1155796,7.4,Goran Dukic,0.40000000000000002,0.0
+820,2006,tt0376994,X-Men: The Last Stand,ok,1,Action,PG13,242717233,6.8,Brett Ratner,3.2000000000000002,1.0
+821,2006,tt0463034,"You, Me and Dupree",notalk,0,Comedy,PG13,62413003,5.6,Anthony Russo,0.80000000000000004,0.0
+822,2006,tt0383060,Zoom,ok,1,Action,PG,40452872,4.2,Peter Hewitt,1.6000000000000001,1.25
+823,2006,tt0389557,Zwartboek,ok,1,Drama,R,25427520,7.8,Paul Verhoeven,1.0,1.0
+824,2005,tt0402022,AEon Flux,ok,1,Action,PG13,65616822,5.5,Karyn Kusama,2.6000000000000001,1.3333333333333333
+825,2005,tt0398712,Assault on Precinct 13,ok,1,Action,R,35790994,6.3,Jean-François Richet,2.0,2.0
+826,2005,tt0372784,Batman Begins,notalk,0,Action,PG13,178954969,8.3,Christopher Nolan,2.0,0.75
+827,2005,tt0388500,Beauty Shop,ok,1,Comedy,PG13,29825828,5.4,Bille Woodruff,2.2000000000000002,1.6666666666666667
+828,2005,tt0374536,Bewitched,ok,1,Comedy,PG13,95442650,4.8,Nora Ephron,3.0,1.6666666666666667
+829,2005,tt0383222,BloodRayne,dubious,0,Action,R,29825828,2.8,Uwe Boll,0.40000000000000002,0.0
+830,2005,tt0357507,Boogeyman,men,0,Drama,PG13,23860663,4.1,Stephen Kay,0.20000000000000001,0.0
+831,2005,tt0439478,Boynton Beach Club,ok,1,Comedy,R,3459796,6.5,Susan Seidelman,1.0,1.0
+832,2005,tt0393109,Brick,notalk,0,Crime,R,536865,7.4,Rian Johnson,0.40000000000000002,0
+833,2005,tt0388795,Brokeback Mountain,notalk,0,Drama,R,16583160,7.7,Ang Lee,1.2,0.0
+834,2005,tt0379725,Capote,dubious,0,Biography,R,8351232,7.4,Bennett Miller,1.0,0.0
+835,2005,tt0367594,Charlie and the Chocolate Factory,ok,1,Adventure,PG,178954969,6.7,Tim Burton,3.0,3.0
+836,2005,tt0451094,Chinjeolhan geumjassi,ok,1,Crime,R,5368649,7.7,Chan-wook Park,1.0,1.0
+837,2005,tt0352248,Cinderella Man,men,0,Biography,PG13,104986915,8.0,Ron Howard,1.2,0
+838,2005,tt0393162,Coach Carter,ok,1,Drama,PG13,53686491,7.2,Thomas Carter,1.6000000000000001,0
+839,2005,tt0360486,Constantine,notalk,0,Drama,R,89477485,6.9,Francis Lawrence,2.2000000000000002,0.0
+840,2005,tt0435623,Conversations with Other Women,nowomen,0,Comedy,R,536865,7.1,Hans Canosa,0.80000000000000004,0.0
+841,2005,tt0121164,Corpse Bride,dubious,0,Animation,PG,35790994,7.4,Tim Burton,2.2000000000000002,2.0
+842,2005,tt0257516,Cursed,ok,1,Comedy,PG13,41756160,4.9,Wes Craven,1.0,4.0
+843,2005,tt0342258,Danny the dog,notalk,0,Action,R,51300425,7.0,Louis Leterrier,1.3999999999999999,3.0
+844,2005,tt0382628,Dark Water,ok,1,Drama,PG13,71581988,5.5,Walter Salles,1.3999999999999999,1.0
+845,2005,tt0342272,Dear Wendy,notalk,0,Comedy,NR,9544265,6.6,Thomas Vinterberg,0.59999999999999998,2.0
+846,2005,tt0421054,Domino,ok,1,Action,R,59651656,6.0,Tony Scott,1.8,1.6666666666666667
+847,2005,tt0419706,Doom,notalk,0,Action,R,83512319,5.2,Andrzej Bartkowiak,0.40000000000000002,0.33333333333333331
+848,2005,tt0120667,Fantastic Four,notalk,0,Action,PG13,104390399,5.7,Tim Story,1.0,0.5
+849,2005,tt0408790,Flightplan,ok,1,Action,PG13,65616822,6.2,Robert Schwentke,3.2000000000000002,0
+850,2005,tt0369441,Fun with Dick and Jane,ok,1,Comedy,PG13,167024638,6.1,Dean Parisot,2.6000000000000001,1.6666666666666667
+851,2005,tt0433383,"Good Night, and Good Luck.",notalk,0,Drama,PG,8351232,7.5,George Clooney,0.40000000000000002,0
+852,2005,tt0424136,Hard Candy,ok,1,Crime,R,1133381,7.2,David Slade,1.6000000000000001,2.0
+853,2005,tt0330373,Harry Potter and the Goblet of Fire,notalk,0,Adventure,PG13,178954969,7.6,Mike Newell,1.2,1.5
+854,2005,tt0400497,Herbie Fully Loaded,ok,1,Adventure,G,59651656,4.7,Angela Robinson,2.6000000000000001,1.75
+855,2005,tt0382077,Hide and Seek,ok,1,Horror,R,29825828,5.9,John Polson,3.0,1.0
+856,2005,tt0386588,Hitch,men,0,Comedy,PG13,65616822,6.7,Andy Tennant,1.3999999999999999,0.0
+857,2005,tt0443536,Hoodwinked!,ok,1,Animation,PG,20878080,6.6,Cory Edwards,2.3999999999999999,1.8
+858,2005,tt0450278,Hostel,notalk,0,Horror,R,5726559,5.9,Eli Roth,0.0,0
+859,2005,tt0410097,Hustle &amp; Flow,dubious,0,Crime,R,3340493,7.4,Craig Brewer,1.0,0.0
+860,2005,tt0396652,Ice Princess,ok,1,Comedy,G,29825828,6.0,Tim Fywell,2.3999999999999999,2.3333333333333335
+861,2005,tt0418763,Jarhead,nowomen,0,Drama,R,85898385,7.1,Sam Mendes,0.80000000000000004,0.0
+862,2005,tt0418773,Junebug,ok,1,Comedy,R,1193033,7.0,Phil Morrison,1.3999999999999999,1.0
+863,2005,tt0425123,Just Like Heaven,ok,1,Comedy,PG13,69195921,6.7,Mark Waters,2.0,1.6666666666666667
+864,2005,tt0360717,King Kong,nowomen,0,Action,PG13,246957858,7.3,Peter Jackson,1.8,0.59999999999999998
+865,2005,tt0320661,Kingdom of Heaven,nowomen,0,Action,R,131233644,7.2,Ridley Scott,0.20000000000000001,0.0
+866,2005,tt0373469,Kiss Kiss Bang Bang,notalk,0,Action,R,17895497,7.7,Shane Black,0.80000000000000004,0.0
+867,2005,tt0399295,Lord of War,men,0,Crime,R,50107391,7.6,Andrew Niccol,0.59999999999999998,0.0
+868,2005,tt0351283,Madagascar,nowomen,0,Animation,PG,89477485,6.9,Eric Darnell,1.0,0.0
+869,2005,tt0331933,Man of the House,ok,1,Action,PG13,59651656,5.4,Stephen Herek,1.3999999999999999,1.3999999999999999
+870,2005,tt0416320,Match Point,ok,1,Drama,R,17895497,7.7,Woody Allen,1.6000000000000001,0
+871,2005,tt0415978,Me and You and Everyone We Know,ok,1,Comedy,R,2386066,7.4,Miranda July,1.2,2.0
+872,2005,tt0397535,Memoirs of a Geisha,ok,1,Drama,PG13,101407816,7.3,Rob Marshall,1.0,1.0
+873,2005,tt0366780,MirrorMask,ok,1,Adventure,PG,4772133,7.0,Dave McKean,1.0,1.6666666666666667
+874,2005,tt0385307,Miss Congeniality 2: Armed &amp; Fabulous,ok,1,Action,PG13,71581988,4.9,John Pasquin,3.6000000000000001,1.25
+875,2005,tt0356910,Mr. &amp; Mrs. Smith,men,0,Action,PG13,131233644,6.5,Doug Liman,1.0,1.0
+876,2005,tt0408306,Munich,notalk,0,Drama,R,89477485,7.6,Steven Spielberg,0.40000000000000002,0.33333333333333331
+877,2005,tt0395972,North Country,ok,1,Drama,R,35790994,7.3,Niki Caro,3.2000000000000002,1.0
+878,2005,tt0380599,Oliver Twist,notalk,0,Crime,PG13,77547153,6.9,Roman Polanski,0.0,0.0
+879,2005,tt0414387,Pride and Prejudice,ok,1,Drama,PG,33404928,7.8,Joe Wright,1.6000000000000001,2.3333333333333335
+880,2005,tt0377107,Proof,ok,1,Drama,PG13,23860663,6.8,John Madden,4.0,1.0
+881,2005,tt0421239,Red Eye,ok,1,Mystery,PG13,31018861,6.5,Wes Craven,2.6000000000000001,1.3333333333333333
+882,2005,tt0294870,Rent,ok,1,Drama,PG13,47721325,7.0,Chris Columbus,1.3999999999999999,0
+883,2005,tt0358082,Robots,notalk,0,Animation,PG,95442650,6.3,Chris Wedge,2.2000000000000002,1.3333333333333333
+884,2005,tt0432348,Saw II,dubious,0,Horror,R,5965166,6.6,Darren Lynn Bousman,0.0,0
+885,2005,tt0379786,Serenity,ok,1,Action,PG13,46528292,8.0,Joss Whedon,1.3999999999999999,2.0
+886,2005,tt0338427,Shopgirl,men,0,Drama,R,8947748,6.4,Anand Tucker,1.2,0.0
+887,2005,tt0401792,Sin City,ok,1,Crime,R,47721325,8.1,Frank Miller,2.3999999999999999,1.0
+888,2005,tt0474361,Sisters in Law,ok,1,Documentary,NR,357910,7.3,Florence Ayisi,1.0,0
+889,2005,tt0405325,Sky High,ok,1,Adventure,PG,71581988,6.2,Mike Mitchell,1.3999999999999999,1.0
+890,2005,tt0362165,Son of the Mask,notalk,0,Adventure,PG,119303313,2.1,Lawrence Guterman,0.40000000000000002,0.0
+891,2005,tt0121766,Star Wars: Episode III - Revenge of the Sith,notalk,0,Action,PG13,137198810,7.7,George Lucas,2.2000000000000002,1.0
+892,2005,tt0382992,Stealth,notalk,0,Action,PG13,164638572,5.0,Rob Cohen,1.2,0.0
+893,2005,tt0369994,Strangers with Candy,ok,1,Comedy,R,2386066,6.0,Paul Dinello,1.0,1.5714285714285714
+894,2005,tt0427944,Thank You for Smoking,notalk,0,Comedy,R,8947748,7.6,Jason Reitman,0.59999999999999998,0.0
+895,2005,tt0405422,The 40 Year Old Virgin,men,0,Comedy,R,31018861,7.2,Judd Apatow,2.3999999999999999,1.0
+896,2005,tt0424774,The Adventures of Sharkboy and Lavagirl 3-D,notalk,0,Action,PG,59651656,3.5,Robert Rodriguez,0.40000000000000002,1.6666666666666667
+897,2005,tt0384806,The Amityville Horror,ok,1,Drama,R,22071113,6.0,Andrew Douglas,2.0,0
+898,2005,tt0357110,The Ballad of Jack and Rose,ok,1,Drama,R,1789550,6.8,Rebecca Miller,2.2000000000000002,1.0
+899,2005,tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",ok,1,Adventure,PG,214745963,6.9,Andrew Adamson,2.2000000000000002,2.0
+900,2005,tt0387131,The Constant Gardener,ok,1,Drama,R,30422345,7.5,Fernando Meirelles,2.2000000000000002,1.0
+901,2005,tt0435625,The Descent,ok,1,Adventure,R,8351232,7.2,Neil Marshall,1.0,2.0
+902,2005,tt0395584,The Devil&#39;s Rejects,ok,1,Crime,R,8351232,6.9,Rob Zombie,1.2,1.5
+903,2005,tt0404032,The Exorcism of Emily Rose,ok,1,Drama,PG13,21474596,6.7,Scott Derrickson,2.6000000000000001,1.0
+904,2005,tt0432291,The Fog,ok,1,Horror,PG13,21474596,3.6,Rupert Wainwright,1.6000000000000001,3.0
+905,2005,tt0371724,The Hitchhiker&#39;s Guide to the Galaxy,notalk,0,Adventure,PG,53686491,6.8,Garth Jennings,0.40000000000000002,0.66666666666666663
+906,2005,tt0399201,The Island,ok,1,Action,PG13,143163975,6.9,Michael Bay,4.2000000000000002,2.0
+907,2005,tt0366627,The Jacket,men,0,Drama,R,34001444,7.1,John Maybury,0.59999999999999998,0.0
+908,2005,tt0386140,The Legend of Zorro,notalk,0,Action,PG,95442650,5.9,Martin Campbell,0.0,1.8571428571428572
+909,2005,tt0402399,The New World,dubious,0,Biography,PG13,35790994,6.7,Terrence Malick,0.40000000000000002,1.0
+910,2005,tt0377109,The Ring Two,ok,1,Horror,PG13,59651656,5.4,Hideo Nakata,2.2000000000000002,3.0
+911,2005,tt0397101,The Skeleton Key,ok,1,Horror,PG13,47721325,6.5,Iain Softley,2.6000000000000001,5.0
+912,2005,tt0367089,The Squid and the Whale,men,0,Comedy,R,1789550,7.4,Noah Baumbach,0.80000000000000004,0.0
+913,2005,tt0372532,The Wedding Date,ok,1,Comedy,PG13,17895497,6.1,Clare Kilner,2.2000000000000002,1.0
+914,2005,tt0407265,Transamerica,ok,1,Adventure,R,1193033,7.5,Duncan Tucker,1.0,1.0
+915,2005,tt0423409,Tristram Shandy: A Cock and Bull Story,men,0,Comedy,R,5666907,6.8,Michael Winterbottom,0.59999999999999998,0.0
+916,2005,tt0434409,V for Vendetta,ok,1,Action,R,59651656,8.2,James McTeigue,2.7999999999999998,5.333333333333333
+917,2005,tt0348333,Waiting...,ok,1,Comedy,R,1342162,6.8,Rob McKittrick,2.6000000000000001,1.0
+918,2005,tt0358273,Walk the Line,ok,1,Biography,PG13,34597961,7.9,James Mangold,2.6000000000000001,1.2
+919,2005,tt0407304,War of the Worlds,notalk,0,Adventure,PG13,157480373,6.5,Steven Spielberg,1.6000000000000001,0.66666666666666663
+920,2005,tt0240200,Water,ok,1,Drama,PG13,3579099,7.8,Deepa Mehta,1.0,1.0
+921,2005,tt0375210,White Noise,notalk,0,Drama,PG13,11930331,5.5,Geoffrey Sax,0.20000000000000001,0.0
+922,2005,tt0443295,"Yours, Mine and Ours",ok,1,Comedy,PG,53686491,5.3,Raja Gosnell,1.3999999999999999,1.0
+923,2005,tt0406375,Zathura: A Space Adventure,nowomen,0,Action,PG,77547153,6.1,Jon Favreau,1.6000000000000001,1.0
+924,2004,tt0337563,13 Going on 30,ok,1,Comedy,PG13,36995786,6.1,Gary Winick,2.3999999999999999,1.0
+925,2004,tt0212712,2046,ok,1,Drama,R,14798315,7.5,Kar Wai Wong,1.2,0
+926,2004,tt0343660,50 First Dates,men,0,Comedy,PG13,92489466,6.8,Peter Segal,1.6000000000000001,0
+927,2004,tt0356470,A Cinderella Story,ok,1,Comedy,PG,23430665,5.8,Mark Rosman,2.2000000000000002,1.0
+928,2004,tt0359423,A Home at the End of The World,dubious,0,Drama,R,8015754,6.8,Michael Mayer,0.0,0.5
+929,2004,tt0344510,A Very Long Engagement,ok,1,Drama,R,67825608,7.7,Jean-Pierre Jeunet,1.3999999999999999,1.5
+930,2004,tt0357413,Anchorman: The Legend of Ron Burgundy,men,0,Comedy,PG13,30829822,7.3,Adam McKay,1.3999999999999999,0.0
+931,2004,tt0327437,Around the World in 80 Days,notalk,0,Action,PG,135651216,5.8,Frank Coraci,1.8,0
+932,2004,tt0370263,AVP: Alien vs. Predator,dubious,0,Action,PG13,86323501,5.6,Paul W.S. Anderson,0.40000000000000002,1.25
+933,2004,tt0414852,Banlieue 13,nowomen,0,Action,R,18497893,7.2,Pierre Morel,0.0,1.5
+934,2004,tt0381681,Before Sunset,nowomen,0,Drama,R,2466386,8.1,Richard Linklater,0.20000000000000001,0.2857142857142857
+935,2004,tt0317198,Bridget Jones: The Edge of Reason,ok,1,Comedy,R,61659644,5.9,Beeban Kidron,3.7999999999999998,2.2000000000000002
+936,2004,tt0327554,Catwoman,ok,1,Action,PG13,123319288,3.3,Pitof,1.6000000000000001,0
+937,2004,tt0337921,Cellular,ok,1,Crime,PG13,55493679,6.5,David R. Ellis,1.3999999999999999,1.0
+938,2004,tt0376541,Closer,ok,1,Drama,R,43161751,7.3,Mike Nichols,3.2000000000000002,0
+939,2004,tt0369339,Collateral,nowomen,0,Crime,R,73991573,7.6,Michael Mann,1.2,0.0
+940,2004,tt0345074,Connie and Carla,ok,1,Comedy,PG13,24663858,6.2,Michael Lembeck,1.8,2.0
+941,2004,tt0375679,Crash,ok,1,Drama,R,9006109,7.9,Paul Haggis,1.6000000000000001,1.3333333333333333
+942,2004,tt0367631,D.E.B.S.,ok,1,Action,PG13,4316175,5.2,Angela Robinson,2.6000000000000001,1.0
+943,2004,tt0363547,Dawn of the Dead,ok,1,Action,R,34529401,7.4,Zack Snyder,1.0,2.0
+944,2004,tt0364725,Dodgeball: A True Underdog Story,ok,1,Comedy,PG13,36995786,6.7,Rawson Marshall Thurber,3.0,1.0
+945,2004,tt0327679,Ella Enchanted,ok,1,Comedy,PG,43161751,6.3,Tommy O'Haver,2.3999999999999999,0
+946,2004,tt0338013,Eternal Sunshine of the Spotless Mind,men,0,Drama,R,24663858,8.4,Michel Gondry,1.6000000000000001,0.25
+947,2004,tt0349416,Eulogy,ok,1,Comedy,R,12331929,6.7,Michael Clancy,2.6000000000000001,1.0
+948,2004,tt0308644,Finding Neverland,ok,1,Biography,PG,30829822,7.8,Marc Forster,4.0,1.0
+949,2004,tt0377062,Flight of the Phoenix,nowomen,0,Action,PG13,92489466,6.1,John Moore,1.8,0.33333333333333331
+950,2004,tt0333766,Garden State,ok,1,Comedy,R,3082982,7.6,Zach Braff,1.0,1.0
+951,2004,tt0366551,Harold and Kumar Go to White Castle,ok,1,Adventure,R,11098736,7.2,Danny Leiner,1.3999999999999999,1.0
+952,2004,tt0304141,Harry Potter and the Prisoner of  Azkaban,ok,1,Adventure,PG,160315074,7.8,Alfonso Cuarón,2.7999999999999998,3.0
+953,2004,tt0167190,Hellboy,notalk,0,Action,PG13,73991573,6.8,Guillermo del Toro,1.2,0.5
+954,2004,tt0299172,Home on the Range,ok,1,Animation,PG,135651216,5.4,Will Finn,2.0,1.8421052631578947
+955,2004,tt0356721,I Heart Huckabees,ok,1,Comedy,R,27130243,6.8,David O. Russell,2.3999999999999999,1.5
+956,2004,tt0343818,"I, Robot",notalk,0,Action,PG13,129485252,7.1,Alex Proyas,1.8,0
+957,2004,tt0385267,In Good Company,notalk,0,Comedy,PG13,32063015,6.5,Paul Weitz,2.0,0.0
+958,2004,tt0362269,Kinsey,ok,1,Biography,R,13565122,7.1,Bill Condon,2.7999999999999998,2.0
+959,2004,tt0373074,Kung Fu Hustle,nowomen,0,Action,R,24663858,7.8,Stephen Chow,0.0,0.0
+960,2004,tt0375912,Layer Cake,notalk,0,Crime,R,8015754,7.4,Matthew Vaughn,0.59999999999999998,0.0
+961,2004,tt0339291,Lemony Snicket&#39;s A Series of Unfortunate Events,ok,1,Adventure,PG,123319288,6.8,Brad Silberling,1.6000000000000001,1.0
+962,2004,tt0390221,Maria Full of Grace,ok,1,Crime,R,3946217,7.5,Joshua Marston,1.0,1.0
+963,2004,tt0377092,Mean Girls,ok,1,Comedy,PG13,22197472,7.0,Mark Waters,2.3999999999999999,1.0
+964,2004,tt0405159,Million Dollar Baby,ok,1,Drama,PG13,36995786,8.1,Clint Eastwood,2.2000000000000002,1.5
+965,2004,tt0349825,Miracle,notalk,0,Drama,PG,34529401,7.5,Gavin O'Connor,1.3999999999999999,0.0
+966,2004,tt0382189,My Summer of Love,ok,1,Drama,R,2096428,6.8,Pawel Pawlikowski,1.6000000000000001,1.0
+967,2004,tt0374900,Napoleon Dynamite,notalk,0,Comedy,PG,493277,6.9,Jared Hess,0.20000000000000001,0.0
+968,2004,tt0363282,New York Minute,notalk,0,Comedy,PG,49327715,4.8,Dennie Gordon,0.40000000000000002,0.0
+969,2004,tt0390384,Primer,notalk,0,Drama,PG13,8632,7.0,Shane Carruth,0.0,0.0
+970,2004,tt0350028,Raising Helen,ok,1,Comedy,PG13,61659644,6.0,Garry Marshall,3.2000000000000002,1.0
+971,2004,tt0350258,Ray,dubious,0,Biography,PG13,49327715,7.8,Taylor Hackford,1.0,0.0
+972,2004,tt0318627,Resident Evil: Apocalypse,ok,1,Action,R,61659644,6.2,Alexander Witt,2.0,0
+973,2004,tt0332375,Saved!,ok,1,Comedy,PG13,6165964,6.9,Brian Dannelly,2.3999999999999999,1.0
+974,2004,tt0387564,Saw,men,0,Horror,R,1479831,7.7,James Wan,1.0,0.33333333333333331
+975,2004,tt0363988,Secret Window,notalk,0,Mystery,PG13,49327715,6.6,David Koepp,2.7999999999999998,1.5
+976,2004,tt0307453,Shark Tale,notalk,0,Animation,PG,92489466,6.0,Bibo Bergeron,2.6000000000000001,0.10000000000000001
+977,2004,tt0365748,Shaun of the Dead,ok,1,Comedy,R,6165964,8.0,Edgar Wright,1.2,2.0
+978,2004,tt0298148,Shrek 2,ok,1,Animation,PG,86323501,7.2,Andrew Adamson,3.0,2.4166666666666665
+979,2004,tt0375063,Sideways,ok,1,Comedy,R,20964279,7.6,Alexander Payne,2.2000000000000002,1.6666666666666667
+980,2004,tt0346156,Sky Captain and the World of Tomorrow,ok,1,Action,PG,86323501,6.1,Kerry Conran,3.6000000000000001,1.0
+981,2004,tt0371246,Spanglish,ok,1,Comedy,PG13,92489466,6.5,James L. Brooks,2.0,2.0
+982,2004,tt0316654,Spider-Man 2,notalk,0,Action,PG13,246638575,7.3,Sam Raimi,1.0,0
+983,2004,tt0372588,Team America: World Police,men,0,Animation,R,24663858,7.2,Trey Parker,0.0,0.0
+984,2004,tt0338751,The Aviator,notalk,0,Biography,PG13,135651216,7.5,Martin Scorsese,2.3999999999999999,0.0
+985,2004,tt0372183,The Bourne Supremacy,men,0,Action,PG13,104821395,7.8,Paul Greengrass,1.6000000000000001,1.0
+986,2004,tt0289879,The Butterfly Effect,men,0,Sci-Fi,R,16031507,7.7,Eric Bress,0.0,1.5
+987,2004,tt0296572,The Chronicles of Riddick,men,0,Action,PG13,147983145,6.7,David Twohy,1.2,1.6666666666666667
+988,2004,tt0319262,The Day After Tomorrow,ok,1,Action,PG13,154149110,6.4,Roland Emmerich,2.2000000000000002,0
+989,2004,tt0391198,The Grudge,ok,1,Horror,PG13,12331929,5.9,Takashi Shimizu,2.0,1.0
+990,2004,tt0317705,The Incredibles,ok,1,Animation,PG,113453745,8.0,Brad Bird,2.7999999999999998,1.0
+991,2004,tt0362270,The Life Aquatic with Steve Zissou,men,0,Adventure,R,61659644,7.3,Wes Anderson,2.0,1.0
+992,2004,tt0332280,The Notebook,dubious,0,Drama,PG13,36995786,7.9,Nick Cassavetes,0.40000000000000002,0.66666666666666663
+993,2004,tt0293508,The Phantom of the Opera,men,0,Drama,PG13,67825608,7.4,Joel Schumacher,1.8,0.5
+994,2004,tt0338348,The Polar Express,notalk,0,Animation,G,209642789,6.6,Robert Zemeckis,1.0,0.66666666666666663
+995,2004,tt0368933,The Princess Diaries 2: Royal Engagement,ok,1,Comedy,G,55493679,5.7,Garry Marshall,3.0,2.25
+996,2004,tt0327162,The Stepford Wives,ok,1,Comedy,PG13,123319288,5.2,Frank Oz,3.0,0
+997,2004,tt0362227,The Terminal,notalk,0,Comedy,PG13,92489466,7.3,Steven Spielberg,2.3999999999999999,0.0
+998,2004,tt0368447,The Village,ok,1,Drama,PG13,88398934,6.5,M. Night Shyamalan,1.6000000000000001,0
+999,2004,tt0327247,The Whole Ten Yards,notalk,0,Comedy,PG13,36995786,5.4,Howard Deutch,1.8,0
+1000,2004,tt0332452,Troy,notalk,0,Adventure,R,184978932,7.2,Wolfgang Petersen,0.80000000000000004,0.0
+1001,2004,tt0338526,Van Helsing,ok,1,Action,PG13,209642789,6.0,Stephen Sommers,2.2000000000000002,1.0
+1002,2004,tt0383694,Vera Drake,ok,1,Crime,R,13565122,7.7,Mike Leigh,1.0,5.0
+1003,2004,tt0381707,White Chicks,ok,1,Crime,PG13,24663858,5.4,Keenen Ivory Wayans,1.6000000000000001,1.8888888888888888
+1004,2004,tt0360201,Wimbledon,ok,1,Comedy,PG13,43161751,6.3,Richard Loncraine,2.7999999999999998,0
+1005,2003,tt0322259,2 Fast 2 Furious,notalk,0,Action,PG13,96222609,5.8,John Singleton,1.6000000000000001,0.5
+1006,2003,tt0315733,21 grams,dubious,0,Crime,R,25321739,7.7,Alejandro González Iñárritu,0.80000000000000004,0.0
+1007,2003,tt0319061,Big Fish,notalk,0,Adventure,PG13,88626087,8.0,Tim Burton,1.3999999999999999,0
+1008,2003,tt0310778,Bon voyage,ok,1,Comedy,PG13,25321739,7.0,Jean-Paul Rappeneau,1.0,1.0
+1009,2003,tt0315327,Bruce Almighty,ok,1,Comedy,PG13,102553043,6.7,Tom Shadyac,2.6000000000000001,1.3999999999999999
+1010,2003,tt0305357,Charlie&#39;s Angels: Full Throttle,ok,1,Action,PG13,151930435,4.8,McG,3.2000000000000002,2.5
+1011,2003,tt0159365,Cold Mountain,ok,1,Drama,R,101286957,7.2,Anthony Minghella,2.2000000000000002,1.5
+1012,2003,tt0306685,Cradle 2 the Grave,notalk,0,Action,R,31652174,5.8,Andrzej Bartkowiak,0.40000000000000002,0.0
+1013,2003,tt0317303,Daddy Day Care,ok,1,Comedy,PG,75965217,5.5,Steve Carr,2.6000000000000001,1.0
+1014,2003,tt0287978,Daredevil,nowomen,0,Action,PG13,101286957,5.3,Mark Steven Johnson,1.2,0.0
+1015,2003,tt0282209,Darkness Falls,notalk,0,Horror,PG13,8862609,4.9,Jonathan Liebesman,0.0,0.0
+1016,2003,tt0285531,Dreamcatcher,nowomen,0,Drama,R,86093913,5.5,Lawrence Kasdan,0.80000000000000004,0.33333333333333331
+1017,2003,tt0309593,Final Destination 2,ok,1,Horror,R,32918261,6.2,David R. Ellis,1.2,2.3333333333333335
+1018,2003,tt0266543,Finding Nemo,notalk,0,Animation,G,119012174,8.2,Andrew Stanton,0.40000000000000002,1.25
+1019,2003,tt0322330,Freaky Friday,ok,1,Comedy,PG,32918261,6.1,Mark Waters,1.6000000000000001,2.0
+1020,2003,tt0335119,Girl with a Pearl Earring,ok,1,Biography,PG13,15193043,7.0,Peter Webber,4.0,0
+1021,2003,tt0301357,Goodbye Lenin!,ok,1,Comedy,R,8102957,7.8,Wolfgang Becker,1.0,1.0
+1022,2003,tt0311289,Holes,men,0,Adventure,PG,25321739,7.1,Andrew Davis,0.59999999999999998,0
+1023,2003,tt0329717,Hollywood Homicide,notalk,0,Action,PG13,94956522,5.3,Ron Shelton,0.40000000000000002,0.0
+1024,2003,tt0315983,House of Sand and Fog,ok,1,Drama,R,20890435,7.6,Vadim Perelman,2.0,1.0
+1025,2003,tt0251127,How to Lose a Guy in 10 Days,men,0,Comedy,PG13,63304348,6.3,Donald Petrie,0.80000000000000004,0.0
+1026,2003,tt0286716,Hulk,notalk,0,Action,PG13,173453913,5.7,Ang Lee,1.0,0
+1027,2003,tt0309698,Identity,notalk,0,Mystery,R,35450435,7.3,James Mangold,1.2,0.0
+1028,2003,tt0199626,In the Cut,ok,1,Mystery,R,15193043,5.3,Jane Campion,1.2,1.5
+1029,2003,tt0301470,Jeepers Creepers II,ok,1,Horror,R,31652174,5.5,Victor Salva,1.2,1.5
+1030,2003,tt0266697,Kill Bill: Vol. 1,ok,1,Action,R,69634783,8.1,Quentin Tarantino,1.6000000000000001,2.0
+1031,2003,tt0325703,Lara Croft Tomb Raider: The Cradle of Life,nowomen,0,Action,PG13,113947826,5.5,Jan de Bont,1.2,1.6666666666666667
+1032,2003,tt0333780,"Legally Blonde 2: Red, White &amp; Blonde",ok,1,Comedy,PG13,31652174,4.5,Charles Herman-Wurmfeld,2.6000000000000001,1.6000000000000001
+1033,2003,tt0286244,Les triplettes de Belleville,ok,1,Animation,PG13,2532174,7.8,Sylvain Chomet,1.0,0
+1034,2003,tt0335266,Lost In Translation,dubious,0,Drama,R,5064348,7.8,Sofia Coppola,0.59999999999999998,0
+1035,2003,tt0314331,Love Actually,ok,1,Comedy,R,56973913,7.7,Richard Curtis,2.2000000000000002,3.0
+1036,2003,tt0311113,Master and Commander: The Far Side of the World,nowomen,0,Action,PG13,170921739,7.4,Peter Weir,1.0,0
+1037,2003,tt0304415,Mona Lisa Smile,ok,1,Drama,PG13,82295652,6.4,Mike Newell,3.0,1.0
+1038,2003,tt0340855,Monster,ok,1,Biography,R,6330435,7.3,Patty Jenkins,2.6000000000000001,1.0
+1039,2003,tt0327056,Mystic River,ok,1,Crime,R,37982609,8.0,Clint Eastwood,3.0,0
+1040,2003,tt0316396,Peter Pan,ok,1,Adventure,PG,126608696,6.9,P.J. Hogan,1.0,1.3333333333333333
+1041,2003,tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,men,0,Action,PG13,158260870,8.1,Gore Verbinski,3.0,1.3333333333333333
+1042,2003,tt0366920,Pride and Prejudice,ok,1,Comedy,PG,35450435,5.4,Andrew Black,1.0,1.75
+1043,2003,tt0257076,S.W.A.T.,ok,1,Action,PG13,88626087,6.0,Clark Johnson,2.6000000000000001,1.0
+1044,2003,tt0306047,Scary Movie 3,ok,1,Comedy,PG13,56973913,5.4,David Zucker,1.0,1.5
+1045,2003,tt0327137,Secondhand Lions,notalk,0,Comedy,PG,37982609,7.6,Tim McCanlies,0.59999999999999998,0
+1046,2003,tt0300471,Shanghai Knights,notalk,0,Action,PG13,63304348,6.2,David Dobkin,0.59999999999999998,0.75
+1047,2003,tt0323944,Shattered Glass,men,0,Drama,PG13,7596522,7.2,Billy Ray,1.6000000000000001,1.0
+1048,2003,tt0165982,Sinbad: Legend of the Seven Seas,men,0,Animation,PG,75965217,6.7,Patrick Gilmore,2.2000000000000002,0.0
+1049,2003,tt0337741,Something&#39;s Gotta Give,dubious,0,Comedy,PG13,101286957,6.7,Nancy Meyers,2.3999999999999999,1.0
+1050,2003,tt0338459,Spy Kids 3-D: Game Over,ok,1,Action,PG,50643478,4.1,Robert Rodriguez,3.0,4.0
+1051,2003,tt0324133,Swimming Pool,ok,1,Drama,R,9875478,6.8,François Ozon,1.2,1.0
+1052,2003,tt0181852,Terminator 3: Rise of the Machines,ok,1,Action,R,215234783,6.4,Jonathan Mostow,1.2,2.0
+1053,2003,tt0298814,The Core,ok,1,Action,PG13,107617391,5.4,Jon Amiel,1.0,1.5
+1054,2003,tt0317740,The Italian Job,notalk,0,Action,PG13,75965217,7.0,F. Gary Gray,1.3999999999999999,0.0
+1055,2003,tt0283426,The Jungle Book 2,nowomen,0,Adventure,G,25321739,5.3,Steve Trenbirth,0.20000000000000001,0.2857142857142857
+1056,2003,tt0325710,The Last Samurai,nowomen,0,Action,R,177252174,7.7,Edward Zwick,0.20000000000000001,0.25
+1057,2003,tt0311429,The League of Extraordinary Gentlemen,nowomen,0,Action,PG13,98754783,5.8,Stephen Norrington,0.20000000000000001,0.0
+1058,2003,tt0167260,The Lord of the Rings: The Return of the King,notalk,0,Adventure,PG13,119012174,8.9,Peter Jackson,0.0,0.5
+1059,2003,tt0234215,The Matrix Reloaded,ok,1,Action,R,160793043,7.2,Andy Wachowski,1.2,6.75
+1060,2003,tt0242653,The Matrix Revolutions,ok,1,Action,R,139269565,6.7,Andy Wachowski,1.3999999999999999,6.75
+1061,2003,tt0338188,The Missing,ok,1,Adventure,R,82295652,6.5,Ron Howard,2.6000000000000001,2.0
+1062,2003,tt0332379,The School of Rock,dubious,0,Comedy,PG13,25321739,7.1,Richard Linklater,0.59999999999999998,1.0
+1063,2003,tt0328538,Thirteen,ok,1,Biography,R,2532174,6.9,Catherine Hardwicke,2.7999999999999998,1.0
+1064,2003,tt0300556,Timeline,notalk,0,Action,PG13,101286957,5.6,Richard Donner,1.0,0.66666666666666663
+1065,2003,tt0339840,Undead,ok,1,Action,R,949565,5.6,Michael Spierig,1.0,1.0
+1066,2003,tt0320691,Underworld,dubious,0,Action,R,27853913,7.0,Len Wiseman,0.80000000000000004,1.0
+1067,2003,tt0295700,Wrong Turn,ok,1,Horror,R,12660870,6.1,Rob Schmidt,2.0,1.0
+1068,2003,tt0290334,X2 (X-Men 2),ok,1,Action,PG13,158260870,7.5,Bryan Singer,3.0,1.5
+1069,2002,tt0307901,25th Hour,men,0,Crime,R,5828306,7.7,Spike Lee,2.0,0.5
+1070,2002,tt0289043,28 Days Later...,ok,1,Horror,R,10361434,7.6,Danny Boyle,1.3999999999999999,1.0
+1071,2002,tt0283832,8 femmes,ok,1,Comedy,R,10361434,7.1,François Ozon,1.6000000000000001,1.0
+1072,2002,tt0298203,8 Mile,notalk,0,Drama,R,53102348,6.9,Curtis Hanson,1.3999999999999999,0.0
+1073,2002,tt0257360,About Schmidt,notalk,0,Comedy,R,38855376,7.2,Alexander Payne,1.8,1.3333333333333333
+1074,2002,tt0268126,Adaptation,dubious,0,Comedy,R,23960815,7.7,Spike Jonze,1.0,0.33333333333333331
+1075,2002,tt0286261,All or Nothing,ok,1,Drama,R,11656613,7.6,Mike Leigh,1.2,5.0
+1076,2002,tt0168786,Antwone Fisher,notalk,0,Biography,PG13,16189740,7.3,Denzel Washington,0.20000000000000001,0.0
+1077,2002,tt0295178,Austin Powers in Goldmember,notalk,0,Action,PG13,81596291,6.2,Jay Roach,0.40000000000000002,0.0
+1078,2002,tt0286499,Bend It Like Beckham,ok,1,Comedy,PG13,7253004,6.7,Gurinder Chadha,1.2,0
+1079,2002,tt0187738,Blade II,notalk,0,Action,R,69939678,6.7,Guillermo del Toro,0.40000000000000002,0
+1080,2002,tt0300532,Blue Crush,ok,1,Drama,PG13,38855376,5.6,John Stockwell,2.2000000000000002,1.5
+1081,2002,tt0303816,Cabin Fever,ok,1,Comedy,R,1942769,5.6,Eli Roth,1.0,1.6666666666666667
+1082,2002,tt0319970,Carrie,ok,1,Drama,PG13,38855376,5.5,David Carson,1.8,1.5
+1083,2002,tt0264464,Catch Me If You Can,notalk,0,Biography,PG13,67349319,8.0,Steven Spielberg,1.2,0.0
+1084,2002,tt0299658,Chicago,ok,1,Comedy,PG13,38855376,7.2,Rob Marshall,1.6000000000000001,1.25
+1085,2002,tt0275022,Crossroads,ok,1,Comedy,PG13,15542151,3.2,Tamra Davis,1.2,1.0
+1086,2002,tt0266452,Death to Smoochy,men,0,Comedy,R,64758961,6.4,Danny DeVito,2.0,0.0
+1087,2002,tt0246460,Die Another Day,men,0,Action,PG13,183915449,6.1,Lee Tamahori,0.80000000000000004,0.0
+1088,2002,tt0303933,Drumline,notalk,0,Comedy,PG13,25903584,5.6,Charles Stone III,0.40000000000000002,0.0
+1089,2002,tt0238380,Equilibrium,notalk,0,Action,R,25903584,7.6,Kurt Wimmer,1.8,1.0
+1090,2002,tt0297884,Far from Heaven,ok,1,Drama,PG13,17484919,7.4,Todd Haynes,3.7999999999999998,1.0
+1091,2002,tt0120679,Frida,men,0,Biography,R,15542151,7.4,Julie Taymor,0.59999999999999998,0.0
+1092,2002,tt0327753,Funny Ha Ha,ok,1,Comedy,NR,38855,6.4,Andrew Bujalski,1.0,1.0
+1093,2002,tt0217505,Gangs of New York,notalk,0,Crime,R,125632384,7.5,Martin Scorsese,3.2000000000000002,0.25
+1094,2002,tt0302674,Gerry,nowomen,0,Adventure,R,9066255,6.2,Gus Van Sant,1.5,0
+1095,2002,tt0295297,Harry Potter and the Chamber of Secrets,ok,1,Adventure,PG,129517922,7.3,Chris Columbus,2.6000000000000001,3.0
+1096,2002,tt0257756,High Crimes,ok,1,Crime,PG13,54397527,6.3,Carl Franklin,2.3999999999999999,1.0
+1097,2002,tt0297181,I Spy,notalk,0,Action,PG13,90662545,5.4,Betty Thomas,2.3999999999999999,1.25
+1098,2002,tt0268380,Ice Age,nowomen,0,Animation,PG,84186649,7.6,Chris Wedge,1.6000000000000001,0.0
+1099,2002,tt0280760,Igby Goes Down,men,0,Comedy,R,11656613,7.0,Burr Steers,1.0,0.0
+1100,2002,tt0278504,Insomnia,notalk,0,Mystery,R,59578244,7.2,Christopher Nolan,0.40000000000000002,0
+1101,2002,tt0275847,Lilo and Stitch,ok,1,Animation,PG,103614337,7.1,Dean DeBlois,1.2,1.3333333333333333
+1102,2002,tt0252076,Maid in Manhattan,ok,1,Comedy,PG13,71234857,5.0,Wayne Wang,2.3999999999999999,1.0
+1103,2002,tt0303361,May,ok,1,Drama,R,2266564,6.7,Lucky McKee,1.8,1.0
+1104,2002,tt0120912,Men in Black II,notalk,0,Action,PG13,181325090,6.0,Barry Sonnenfeld,1.3999999999999999,0.0
+1105,2002,tt0181689,Minority Report,notalk,0,Action,PG13,132108280,7.7,Steven Spielberg,0.59999999999999998,0.33333333333333331
+1106,2002,tt0280590,Mr Deeds,men,0,Comedy,PG13,64758961,5.8,Steven Brill,2.2000000000000002,0.33333333333333331
+1107,2002,tt0259446,My Big Fat Greek Wedding,ok,1,Comedy,PG,6475896,6.6,Joel Zwick,1.2,2.0
+1108,2002,tt0258000,Panic Room,ok,1,Thriller,R,62168602,6.8,David Fincher,2.3999999999999999,2.0
+1109,2002,tt0183649,Phone Booth,notalk,0,Mystery,R,14246971,7.1,Joel Schumacher,1.8,1.0
+1110,2002,tt0238546,Queen of the Damned,ok,1,Drama,R,45331273,5.2,Michael Rymer,1.0,1.6666666666666667
+1111,2002,tt0252444,Rabbit-Proof Fence,ok,1,Adventure,PG,9066255,7.5,Phillip Noyce,1.0,1.0
+1112,2002,tt0296166,Real Women Have Curves,ok,1,Comedy,PG13,3885538,7.0,Patricia Cardoso,1.0,1.0
+1113,2002,tt0289765,Red Dragon,notalk,0,Crime,R,101023979,7.2,Brett Ratner,1.0,1.0
+1114,2002,tt0253556,Reign of Fire,notalk,0,Action,PG13,77710753,6.2,Rob Bowman,1.0,0
+1115,2002,tt0120804,Resident Evil,ok,1,Action,R,45331273,6.7,Paul W.S. Anderson,1.0,2.0
+1116,2002,tt0267913,Scooby-Doo,ok,1,Adventure,PG,108795054,4.9,Raja Gosnell,1.2,1.3999999999999999
+1117,2002,tt0286106,Signs,notalk,0,Drama,PG13,91572563,6.7,M. Night Shyamalan,1.0,0
+1118,2002,tt0281373,Snow Dogs,notalk,0,Adventure,PG,41445735,5.1,Brian Levant,0.20000000000000001,0.0
+1119,2002,tt0307479,Solaris,notalk,0,Drama,PG13,60873423,6.2,Steven Soderbergh,1.3999999999999999,0.0
+1120,2002,tt0145487,Spider-Man,notalk,0,Action,PG13,180029911,7.3,Sam Raimi,1.2,0.66666666666666663
+1121,2002,tt0166813,Spirit: Stallion of the Cimarron,nowomen,0,Animation,G,103614337,7.0,Kelly Asbury,0.59999999999999998,0.5
+1122,2002,tt0283003,Spun,ok,1,Comedy,R,5828306,6.8,Jonas Åkerlund,3.2000000000000002,1.0
+1123,2002,tt0287717,Spy Kids 2: Island of Lost Dreams,ok,1,Action,PG,49216810,5.1,Robert Rodriguez,4.0,4.0
+1124,2002,tt0253754,Star Trek: Nemesis,notalk,0,Action,PG13,77710753,6.4,Stuart Baird,2.2000000000000002,0
+1125,2002,tt0121765,Star Wars: Episode II - Attack of the Clones,dubious,0,Action,PG,148945610,6.7,George Lucas,2.0,0.33333333333333331
+1126,2002,tt0180052,The Adventures of Pluto Nash,men,0,Comedy,PG13,129517922,3.7,Ron Underwood,1.2,0
+1127,2002,tt0280460,The Banger Sisters,ok,1,Comedy,R,12951792,5.6,Bob Dolman,2.6000000000000001,1.0
+1128,2002,tt0258463,The Bourne Identity,notalk,0,Action,PG13,77710753,7.9,Doug Liman,1.8,0.0
+1129,2002,tt0238924,The Dangerous Lives of Altar Boys,notalk,0,Comedy,R,15542151,7.1,Peter Care,1.2,1.0
+1130,2002,tt0279113,The Good Girl,ok,1,Comedy,R,10361434,6.5,Miguel Arteta,2.0,1.0
+1131,2002,tt0274558,The Hours,ok,1,Drama,PG13,32379480,7.6,Stephen Daldry,4.7999999999999998,1.0
+1132,2002,tt0278500,The Importance of Being Earnest,ok,1,Comedy,PG,19427688,6.9,Oliver Parker,2.7999999999999998,0
+1133,2002,tt0167261,The Lord of the Rings: The Two Towers,notalk,0,Adventure,PG13,121746846,8.7,Peter Jackson,0.59999999999999998,0.40000000000000002
+1134,2002,tt0289408,The Powerpuff Girls,ok,1,Animation,PG,32379480,6.5,Craig McCracken,1.6000000000000001,2.0
+1135,2002,tt0258068,The Quiet American,men,0,Drama,R,25903584,7.1,Phillip Noyce,0.59999999999999998,0.66666666666666663
+1136,2002,tt0298130,The Ring,ok,1,Horror,PG13,62168602,7.1,Gore Verbinski,2.3999999999999999,3.0
+1137,2002,tt0292644,The Rules of Attraction,dubious,0,Comedy,R,5180717,6.8,Roger Avary,0.80000000000000004,1.0
+1138,2002,tt0304669,The Santa Clause 2,notalk,0,Comedy,G,84186649,5.5,Michael Lembeck,0.40000000000000002,0.66666666666666663
+1139,2002,tt0253867,The Sweetest Thing,ok,1,Comedy,R,55692706,5.0,Roger Kumble,1.2,0
+1140,2002,tt0293662,The Transporter,nowomen,0,Action,PG13,27198764,6.8,Louis Leterrier,0.40000000000000002,2.5
+1141,2002,tt0290095,The Tuxedo,nowomen,0,Action,PG13,77710753,5.2,Kevin Donovan,0.40000000000000002,0.40000000000000002
+1142,2002,tt0133240,Treasure Planet,notalk,0,Animation,PG,129517922,7.0,Ron Clements,0.40000000000000002,1.5
+1143,2002,tt0283084,Tuck Everlasting,ok,1,Drama,PG,19427688,6.7,Jay Russell,1.3999999999999999,1.6666666666666667
+1144,2002,tt0313737,Two Weeks Notice,ok,1,Comedy,PG13,77710753,6.0,Marc Lawrence,3.6000000000000001,2.0
+1145,2002,tt0277434,We Were Soldiers,ok,1,Action,R,90662545,7.1,Randall Wallace,2.6000000000000001,1.0
+1146,2002,tt0298228,Whale Rider,ok,1,Drama,PG13,5569271,7.7,Niki Caro,1.0,1.0
+1147,2002,tt0283139,White Oleander,ok,1,Drama,PG13,20722867,7.2,Peter Kosminsky,1.0,1.0
+1148,2002,tt0295701,xXx,notalk,0,Action,PG13,90662545,5.8,Rob Cohen,2.0,0.0
+1149,2001,tt0268978,A Beautiful Mind,notalk,0,Biography,PG13,102635985,8.2,Ron Howard,2.7999999999999998,0.0
+1150,2001,tt0183790,A Knight&#39;s Tale,men,0,Action,PG13,53949684,6.9,Brian Helgeland,0.80000000000000004,0.0
+1151,2001,tt0164334,Along Came A Spider,ok,1,Thriller,R,36843687,6.3,Lee Tamahori,1.3999999999999999,1.0
+1152,2001,tt0244000,American Outlaws,notalk,0,Action,PG13,46054609,6.0,Les Mayfield,0.80000000000000004,0.33333333333333331
+1153,2001,tt0218817,Antitrust,men,0,Crime,PG13,39475379,6.1,Peter Howitt,0.59999999999999998,0.0
+1154,2001,tt0212720,Artificial Intelligence: AI,notalk,0,Adventure,PG13,118426136,7.1,Steven Spielberg,1.2,0
+1155,2001,tt0230011,Atlantis: The Lost Empire,notalk,0,Animation,PG,118426136,6.8,Gary Trousdale,0.20000000000000001,0.55555555555555558
+1156,2001,tt0265086,Black Hawk Down,nowomen,0,Drama,R,125005366,7.7,Ridley Scott,1.8,0.0
+1157,2001,tt0221027,Blow,notalk,0,Biography,R,39475379,7.6,Ted Demme,1.8,0
+1158,2001,tt0243155,Bridget Jones&#39;s Diary,ok,1,Comedy,R,32896149,6.7,Sharon Maguire,3.7999999999999998,2.0
+1159,2001,tt0260866,Don&#39;t Say A Word,ok,1,Crime,R,65792298,6.3,Gary Fleder,2.7999999999999998,1.0
+1160,2001,tt0246578,Donnie Darko,dubious,0,Drama,R,5921307,8.1,Richard Kelly,0.59999999999999998,3.0
+1161,2001,tt0240462,Dr. Dolittle 2,ok,1,Comedy,PG,94740909,4.6,Steve Carr,1.3999999999999999,1.0
+1162,2001,tt0251075,Evolution,ok,1,Comedy,PG13,105267677,6.0,Ivan Reitman,1.3999999999999999,1.0
+1163,2001,tt0120681,From Hell,dubious,0,Horror,R,46054609,6.8,Albert Hughes,2.3999999999999999,0.25
+1164,2001,tt0162346,Ghost World,ok,1,Comedy,R,7237153,7.5,Terry Zwigoff,3.0,1.0
+1165,2001,tt0280707,Gosford Park,ok,1,Drama,R,23685227,7.3,Robert Altman,2.2000000000000002,1.0
+1166,2001,tt0212985,Hannibal,ok,1,Crime,R,114478598,6.7,Ridley Scott,2.3999999999999999,0
+1167,2001,tt0241527,Harry Potter and the Sorcerer&#39;s Stone,ok,1,Adventure,PG,164480745,7.5,Chris Columbus,1.8,3.0
+1168,2001,tt0248845,Hedwig and the Angry Inch,ok,1,Comedy,R,7895076,7.8,John Cameron Mitchell,1.0,1.3333333333333333
+1169,2001,tt0253126,High Heels and Low Lifes,ok,1,Action,R,13158460,6.2,Mel Smith,1.0,0
+1170,2001,tt0160399,Impostor,nowomen,0,Drama,R,52633838,6.2,Gary Fleder,0.40000000000000002,0.59999999999999998
+1171,2001,tt0211443,Jason X,ok,1,Horror,R,18421843,4.4,James Isaac,1.0,1.5
+1172,2001,tt0261392,Jay and Silent Bob Strike Back,ok,1,Comedy,R,28948611,6.9,Kevin Smith,1.3999999999999999,0
+1173,2001,tt0263488,Jeepers Creepers,ok,1,Horror,R,13158460,6.1,Victor Salva,2.2000000000000002,2.0
+1174,2001,tt0236348,Josie and the Pussycats,ok,1,Comedy,PG13,28948611,5.3,Harry Elfont,1.3999999999999999,1.0
+1175,2001,tt0035423,Kate &amp; Leopold,men,0,Comedy,PG13,63160606,6.3,James Mangold,1.6000000000000001,1.3333333333333333
+1176,2001,tt0271027,Kiss of the Dragon,notalk,0,Action,R,32896149,6.6,Chris Nahon,0.40000000000000002,0.66666666666666663
+1177,2001,tt0264761,Kissing Jessica Stein,ok,1,Comedy,R,1973769,6.7,Charles Herman-Wurmfeld,1.0,1.0
+1178,2001,tt0242587,L.I.E.,notalk,0,Crime,R,921092,7.2,Michael Cuesta,0.0,0.0
+1179,2001,tt0146316,Lara Croft: Tomb Raider,nowomen,0,Action,PG13,123689520,5.7,Simon West,1.3999999999999999,0.0
+1180,2001,tt0250494,Legally Blonde,ok,1,Comedy,PG13,23685227,6.2,Robert Luketic,2.6000000000000001,2.0
+1181,2001,tt0258273,Lovely and Amazing,ok,1,Comedy,R,328961,6.9,Nicole Holofcener,2.6000000000000001,4.0
+1182,2001,tt0166276,Monkeybone,dubious,0,Animation,PG13,98688447,4.7,Henry Selick,1.3999999999999999,0.0
+1183,2001,tt0265343,Monsoon Wedding,ok,1,Comedy,R,1579015,7.4,Mira Nair,1.0,1.0
+1184,2001,tt0198781,"Monsters, Inc.",notalk,0,Animation,G,151322285,8.1,Pete Docter,1.3999999999999999,0.33333333333333331
+1185,2001,tt0203009,Moulin Rouge!,ok,1,Drama,PG13,69739836,7.7,Baz Luhrmann,5.2000000000000002,1.0
+1186,2001,tt0166924,Mulholland Dr.,ok,1,Drama,R,19737689,8.0,David Lynch,1.6000000000000001,1.0
+1187,2001,tt0161860,Nowhere in Africa,ok,1,Biography,R,8552999,7.7,Caroline Link,1.0,1.0
+1188,2001,tt0240772,Ocean&#39;s Eleven,notalk,0,Crime,PG13,111846906,7.8,Steven Soderbergh,0.0,0.0
+1189,2001,tt0181739,Osmosis Jones,dubious,0,Animation,PG,92109217,6.2,Bobby Farrelly,1.2,0.0
+1190,2001,tt0213149,Pearl Harbor,men,0,Action,PG13,199350663,6.0,Michael Bay,0.59999999999999998,0.0
+1191,2001,tt0206275,Save the Last Dance,ok,1,Drama,PG13,17105997,6.1,Thomas Carter,1.0,1.3333333333333333
+1192,2001,tt0256380,Shallow Hal,ok,1,Comedy,PG13,52633838,5.9,Bobby Farrelly,2.6000000000000001,1.6666666666666667
+1193,2001,tt0286112,Shaolin Soccer,nowomen,0,Action,PG,13158460,7.3,Stephen Chow,0.0,0
+1194,2001,tt0126029,Shrek,notalk,0,Animation,PG,65792298,7.9,Andrew Adamson,2.0,1.25
+1195,2001,tt0244970,Someone Like You...,ok,1,Comedy,PG13,30264457,6.1,Tony Goldwyn,3.3999999999999999,1.0
+1196,2001,tt0227538,Spy Kids,ok,1,Action,PG,46054609,5.4,Robert Rodriguez,3.2000000000000002,4.0
+1197,2001,tt0247745,Super Troopers,notalk,0,Comedy,R,3947538,7.1,Jay Chandrasekhar,0.20000000000000001,0.0
+1198,2001,tt0232500,The Fast and the Furious,notalk,0,Action,PG13,50002146,6.7,Rob Cohen,1.6000000000000001,1.0
+1199,2001,tt0221218,The Glass House,ok,1,Thriller,PG13,28948611,5.8,Daniel Sackheim,2.3999999999999999,1.0
+1200,2001,tt0290879,The Legend of Suriyothai,ok,1,Action,R,11842614,6.6,Chatrichalerm Yukol,1.0,1.0
+1201,2001,tt0120737,The Lord of the Rings: The Fellowship of the Ring,notalk,0,Adventure,PG13,143427209,8.8,Peter Jackson,1.2,0.5
+1202,2001,tt0268995,The Majestic,notalk,0,Drama,PG,94740909,6.9,Frank Darabont,1.2,0.0
+1203,2001,tt0267804,The One,nowomen,0,Action,PG13,64476452,5.9,James Wong,1.3999999999999999,1.5
+1204,2001,tt0230600,The Others,ok,1,Horror,PG13,22369381,7.6,Alejandro Amenábar,2.2000000000000002,1.0
+1205,2001,tt0247638,The Princess Diaries,ok,1,Comedy,G,39475379,6.2,Garry Marshall,3.0,2.5
+1206,2001,tt0265666,The Royal Tenenbaums,ok,1,Comedy,R,36843687,7.6,Wes Anderson,2.0,1.5
+1207,2001,tt0209475,The Wedding Planner,ok,1,Comedy,PG13,36843687,5.2,Adam Shankman,2.2000000000000002,1.0
+1208,2001,tt0245674,Thir13en Ghosts,notalk,0,Horror,R,25001073,5.5,Steve Beck,0.40000000000000002,0
+1209,2001,tt0139654,Training Day,notalk,0,Crime,R,59213068,7.7,Antoine Fuqua,0.20000000000000001,0.0
+1210,2001,tt0242998,Valentine,men,0,Horror,R,13158460,4.7,Jamie Blanks,0.0,0.0
+1211,2001,tt0259711,Vanilla Sky,notalk,0,Fantasy,R,92109217,6.9,Cameron Crowe,2.2000000000000002,0.33333333333333331
+1212,2001,tt0196229,Zoolander,ok,1,Comedy,PG13,36843687,6.6,Ben Stiller,2.2000000000000002,0
+1213,2000,tt0191754,28 Days,ok,1,Comedy,PG13,58175060,6.0,Betty Thomas,3.3999999999999999,3.0
+1214,2000,tt0181875,Almost Famous,ok,1,Drama,R,81174503,7.9,Cameron Crowe,2.6000000000000001,1.0
+1215,2000,tt0144084,American Psycho,notalk,0,Crime,R,10823267,7.6,Mary Harron,0.80000000000000004,0.0
+1216,2000,tt0221889,Beautiful Creatures,ok,1,Comedy,R,67645419,5.9,Bill Eagles,2.0,1.0
+1217,2000,tt0218839,Best in Show,ok,1,Comedy,PG13,8117450,7.5,Christopher Guest,2.2000000000000002,2.0
+1218,2000,tt0249462,Billy Elliot,ok,1,Comedy,PG13,6764542,7.7,Stephen Daldry,1.0,1.0
+1219,2000,tt0181984,Boiler Room,notalk,0,Crime,R,12176175,7.0,Ben Younger,0.20000000000000001,0.0
+1220,2000,tt0204946,Bring It On,ok,1,Comedy,PG13,13529084,5.9,Peyton Reed,2.3999999999999999,2.0
+1221,2000,tt0162222,Cast Away,notalk,0,Adventure,PG13,114997212,7.7,Robert Zemeckis,0.0,0.0
+1222,2000,tt0173716,Cecil B. Demented,ok,1,Comedy,R,13529084,6.2,John Waters,1.6000000000000001,2.0
+1223,2000,tt0210616,Center Stage,ok,1,Drama,PG13,24352351,6.6,Nicholas Hytner,1.0,1.0
+1224,2000,tt0160127,Charlie&#39;s Angels,ok,1,Action,PG13,121761754,5.5,McG,4.0,2.0
+1225,2000,tt0120630,Chicken Run,ok,1,Animation,G,56822152,7.1,Peter Lord,1.6000000000000001,1.2
+1226,2000,tt0241303,Chocolat,ok,1,Drama,PG13,33822710,7.3,Lasse Hallström,1.6000000000000001,1.0
+1227,2000,tt0200550,Coyote Ugly,men,0,Comedy,PG13,60880877,5.6,David McNally,0.80000000000000004,0.0
+1228,2000,tt0168629,Dancer in the Dark,ok,1,Crime,R,16911355,8.0,Lars von Trier,2.0,2.0
+1229,2000,tt0242423,"Dude, Where&#39;s My Car",men,0,Comedy,PG13,18940717,5.5,Danny Leiner,0.40000000000000002,0.0
+1230,2000,tt0195685,Erin Brockovich,ok,1,Biography,R,67645419,7.3,Steven Soderbergh,2.0,3.0
+1231,2000,tt0195714,Final Destination,notalk,0,Horror,R,31116893,6.7,James Wong,0.40000000000000002,2.75
+1232,2000,tt0172495,Gladiator,nowomen,0,Action,R,139349563,8.5,Ridley Scott,0.59999999999999998,0.0
+1233,2000,tt0187078,Gone in Sixty Seconds,notalk,0,Action,PG13,139755436,6.5,Dominic Sena,0.80000000000000004,0.0
+1234,2000,tt0146882,High Fidelity,men,0,Comedy,R,27058168,7.6,Stephen Frears,1.0,0
+1235,2000,tt0164052,Hollow Man,ok,1,Sci-Fi,R,121761754,5.7,Paul Verhoeven,2.2000000000000002,1.6666666666666667
+1236,2000,tt0185431,Little Nicky,notalk,0,Comedy,PG13,108232671,5.3,Steven Brill,1.2,0.0
+1237,2000,tt0199725,Love &amp; Basketball,ok,1,Drama,PG13,20293626,7.2,Gina Prince-Bythewood,1.6000000000000001,2.0
+1238,2000,tt0212338,Meet the Parents,men,0,Comedy,PG13,74409961,7.0,Jay Roach,1.2,0
+1239,2000,tt0209144,Memento,notalk,0,Mystery,R,6764542,8.5,Christopher Nolan,1.2,0.0
+1240,2000,tt0212346,Miss Congeniality,ok,1,Action,PG13,60880877,6.1,Donald Petrie,3.7999999999999998,0
+1241,2000,tt0183523,Mission to Mars,notalk,0,Adventure,PG,121761754,5.5,Brian De Palma,1.2,0.0
+1242,2000,tt0190590,"O Brother, Where Art Thou?",nowomen,0,Adventure,PG13,35175618,7.8,Joel Coen,1.3999999999999999,0.66666666666666663
+1243,2000,tt0134847,Pitch Black,ok,1,Action,R,31116893,7.1,David Twohy,2.6000000000000001,1.6000000000000001
+1244,2000,tt0257001,Pokemon: The Movie 2000,men,0,Animation,G,40587251,5.8,Michael Haigney,0.0,0.0
+1245,2000,tt0199753,Red Planet,nowomen,0,Action,PG13,108232671,5.6,Antony Hoffman,1.8,0.33333333333333331
+1246,2000,tt0210945,Remember the Titans,notalk,0,Biography,PG,40587251,7.7,Boaz Yakin,0.40000000000000002,0.0
+1247,2000,tt0180093,Requiem for a Dream,ok,1,Drama,R,6088088,8.4,Darren Aronofsky,2.2000000000000002,0
+1248,2000,tt0122459,Return to Me,dubious,0,Comedy,PG,32469801,6.9,Bonnie Hunt,0.80000000000000004,0
+1249,2000,tt0165929,Romeo Must Die,nowomen,0,Action,R,33822710,6.1,Andrzej Bartkowiak,0.40000000000000002,0.66666666666666663
+1250,2000,tt0213203,Rugrats in Paris:,ok,1,Animation,G,40587251,6.1,Stig Bergqvist,1.2,1.8888888888888888
+1251,2000,tt0195234,Saving Grace,ok,1,Comedy,R,5411634,6.9,Nigel Cole,1.3999999999999999,1.0
+1252,2000,tt0134084,Scream 3,ok,1,Horror,R,54116335,5.5,Wes Craven,1.6000000000000001,2.5
+1253,2000,tt0203119,Sexy Beast,men,0,Crime,R,5817506,7.3,Jonathan Glazer,0.80000000000000004,0.0
+1254,2000,tt0184894,Shanghai Noon,notalk,0,Action,PG13,74409961,6.6,Tom Dey,1.2,0.5
+1255,2000,tt0208092,Snatch.,nowomen,0,Comedy,R,13529084,8.3,Guy Ritchie,0.40000000000000002,0.0
+1256,2000,tt0210299,Songcatcher,ok,1,Drama,PG13,2435235,7.2,Maggie Greenwald,1.0,1.0
+1257,2000,tt0163978,The Beach,notalk,0,Adventure,R,67645419,6.6,Danny Boyle,0.40000000000000002,1.0
+1258,2000,tt0209958,The Cell,men,0,Sci-Fi,R,47351793,6.3,Tarsem Singh,1.3999999999999999,1.0
+1259,2000,tt0120917,The Emperor&#39;s New Groove,ok,1,Animation,G,135290838,7.3,Mark Dindal,1.3999999999999999,1.8333333333333333
+1260,2000,tt0219699,The Gift,dubious,0,Drama,R,13529084,6.7,Sam Raimi,2.3999999999999999,0.0
+1261,2000,tt0187393,The Patriot,dubious,0,Action,R,148819922,7.1,Roland Emmerich,1.0,0.0
+1262,2000,tt0138749,The Road to El Dorado,nowomen,0,Animation,PG,128526296,6.8,Bibo Bergeron,0.59999999999999998,0
+1263,2000,tt0202677,The Way of the Gun,men,0,Action,R,12176175,6.7,Christopher McQuarrie,0.0,0.0
+1264,2000,tt0190138,The Whole Nine Yards,ok,1,Comedy,R,32469801,6.7,Jonathan Lynn,2.0,2.0
+1265,2000,tt0146309,Thirteen days,notalk,0,Drama,PG13,108232671,7.3,Roger Donaldson,0.0,0.0
+1266,2000,tt0120913,Titan A.E.,ok,1,Animation,PG,101468129,6.6,Don Bluth,2.2000000000000002,2.0
+1267,2000,tt0217869,Unbreakable,nowomen,0,Drama,PG13,99091212,7.2,M. Night Shyamalan,2.3999999999999999,0.0
+1268,2000,tt0182508,Urbania,notalk,0,Drama,R,304404,7.0,Jon Shear,0.40000000000000002,0.0
+1269,2000,tt0190865,Vertical Limit,notalk,0,Action,PG13,101468129,5.8,Martin Campbell,0.0,0.0
+1270,2000,tt0161081,What Lies Beneath,ok,1,Drama,PG13,121761754,6.6,Robert Zemeckis,1.6000000000000001,1.0
+1271,2000,tt0207201,What Women Want,notalk,0,Comedy,PG13,87939045,6.4,Nancy Meyers,1.3999999999999999,0.59999999999999998
+1272,2000,tt0198021,Where the Heart Is,ok,1,Comedy,PG13,20293626,6.8,Matt Williams,3.0,1.3333333333333333
+1273,2000,tt0190332,"Wo hu cang long (Crouching Tiger, Hidden Dragon)",ok,1,Action,PG13,20293626,7.9,Ang Lee,1.2,1.0
+1274,2000,tt0120903,X-Men,notalk,0,Action,PG13,101468129,7.4,Bryan Singer,3.2000000000000002,1.3333333333333333
+1275,1999,tt0147800,10 Things I Hate About You,ok,1,Comedy,PG13,18180006,7.2,Gil Junger,1.3999999999999999,2.3333333333333335
+1276,1999,tt0134273,8MM,notalk,0,Crime,R,55938481,6.5,Joel Schumacher,0.59999999999999998,0.0
+1277,1999,tt0169547,American Beauty,ok,1,Drama,R,20976930,8.4,Sam Mendes,2.6000000000000001,1.0
+1278,1999,tt0163651,American Pie,men,0,Comedy,R,16781544,7.0,Paul Weitz,0.80000000000000004,0
+1279,1999,tt0122933,Analyze This,notalk,0,Comedy,R,41953861,6.7,Harold Ramis,0.59999999999999998,0.20000000000000001
+1280,1999,tt0166485,Anna and the King,men,0,Drama,PG13,104884652,6.7,Andy Tennant,0.80000000000000004,0.0
+1281,1999,tt0149691,Anywhere But Here,dubious,0,Comedy,PG13,32164627,6.1,Wayne Wang,1.2,0.5
+1282,1999,tt0145660,Austin Powers: The Spy Who Shagged Me,notalk,0,Action,PG13,48946171,6.6,Jay Roach,0.80000000000000004,0.0
+1283,1999,tt0120601,Being John Malkovich,ok,1,Comedy,R,18180006,7.8,Spike Jonze,2.2000000000000002,1.0
+1284,1999,tt0165643,Black and White,ok,1,Crime,R,13984620,5.0,James Toback,1.3999999999999999,1.0
+1285,1999,tt0181316,Blue Streak,notalk,0,Action,PG13,50344633,6.2,Les Mayfield,0.40000000000000002,0.0
+1286,1999,tt0171804,Boys Don&#39;t Cry,ok,1,Biography,R,2796924,7.6,Kimberly Peirce,1.8,0
+1287,1999,tt0179116,But I&#39;m a Cheerleader,ok,1,Comedy,R,1678154,6.5,Jamie Babbit,2.0,1.0
+1288,1999,tt0144814,Carrie 2: The Rage,ok,1,Horror,R,29367703,4.6,Katt Shea,1.6000000000000001,1.0
+1289,1999,tt0139134,Cruel Intentions,ok,1,Drama,R,15383082,6.9,Roger Kumble,3.3999999999999999,0
+1290,1999,tt0144168,Dick,ok,1,Comedy,PG13,18180006,6.1,Andrew Fleming,3.2000000000000002,1.0
+1291,1999,tt0120655,Dogma,dubious,0,Adventure,R,13984620,7.4,Kevin Smith,0.0,2.0
+1292,1999,tt0157503,Drop Dead Gorgeous,ok,1,Comedy,PG13,13984620,6.5,Michael Patrick Jann,3.0,1.0
+1293,1999,tt0126886,Election,ok,1,Comedy,R,11886927,7.3,Alexander Payne,2.2000000000000002,1.6666666666666667
+1294,1999,tt0120663,Eyes Wide Shut,ok,1,Drama,R,90900032,7.3,Stanley Kubrick,1.8,1.0
+1295,1999,tt0137523,Fight Club,notalk,0,Drama,R,90900032,8.9,David Fincher,0.59999999999999998,0.0
+1296,1999,tt0155711,Flawless,notalk,0,Comedy,R,37758475,6.4,Joel Schumacher,1.6000000000000001,0.0
+1297,1999,tt0126916,For Love of the Game,men,0,Drama,PG13,69923101,6.5,Sam Raimi,1.8,0.0
+1298,1999,tt0177789,Galaxy Quest,notalk,0,Action,PG,62930791,7.3,Dean Parisot,1.6000000000000001,0.0
+1299,1999,tt0172493,"Girl, Interrupted",ok,1,Biography,R,33563089,7.3,James Mangold,2.2000000000000002,1.25
+1300,1999,tt0139239,Go!,ok,1,Comedy,R,9090003,7.3,Doug Liman,1.6000000000000001,0
+1301,1999,tt0155776,Jawbreaker,ok,1,Comedy,R,4195386,5.4,Darren Stein,1.6000000000000001,1.0
+1302,1999,tt0175880,Magnolia,notalk,0,Drama,R,51743095,8.0,Paul Thomas Anderson,0.0,0.0
+1303,1999,tt0158811,Muppets From Space,ok,1,Adventure,G,33563089,6.2,Tim Hill,1.0,1.6666666666666667
+1304,1999,tt0132347,Mystery Men,nowomen,0,Action,PG13,95095418,6.0,Kinka Usher,1.0,0
+1305,1999,tt0125439,Notting Hill,ok,1,Comedy,PG13,58735405,7.0,Roger Michell,2.2000000000000002,3.0
+1306,1999,tt0151804,Office Space,notalk,0,Comedy,R,13984620,7.8,Mike Judge,0.40000000000000002,0.0
+1307,1999,tt0120784,Payback,notalk,0,Action,R,69923101,7.1,Brian Helgeland,1.0,0.0
+1308,1999,tt0190641,Pocket Monsters: Mewtwo Strikes Back!,notalk,0,Animation,G,41953861,5.7,Kunihiko Yuyama,0.0,0.0
+1309,1999,tt0129332,Ravenous,notalk,0,Horror,R,16781544,7.1,Antonia Bird,0.59999999999999998,0.0
+1310,1999,tt0162661,Sleepy Hollow,ok,1,Drama,R,97892342,7.4,Tim Burton,3.2000000000000002,1.5
+1311,1999,tt0158983,South Park: Bigger Longer &amp; Uncut,dubious,0,Animation,R,29367703,7.8,Trey Parker,0.0,0.0
+1312,1999,tt0120915,Star Wars: Episode I - The Phantom Menace,ok,1,Action,PG,160823133,6.6,George Lucas,3.2000000000000002,1.0
+1313,1999,tt0164912,Stuart Little,notalk,0,Animation,PG,146838513,5.9,Rob Minkoff,0.80000000000000004,0.33333333333333331
+1314,1999,tt0120855,Tarzan,men,0,Animation,G,202776994,7.2,Chris Buck,1.0,1.1200000000000001
+1315,1999,tt0120657,The 13th Warrior,dubious,0,Action,R,174807753,6.6,John McTiernan,0.80000000000000004,0.66666666666666663
+1316,1999,tt0185937,The Blair Witch Project,ok,1,Horror,R,839077,6.4,Daniel Myrick,1.0,1.0
+1317,1999,tt0144117,The Boondock Saints,nowomen,0,Action,R,9789234,7.9,Troy Duffy,0.20000000000000001,0.0
+1318,1999,tt0120689,The Green Mile,notalk,0,Crime,R,83907722,8.5,Frank Darabont,2.2000000000000002,0.5
+1319,1999,tt0171363,The Haunting,ok,1,Fantasy,PG13,111876962,4.9,Jan de Bont,3.2000000000000002,0
+1320,1999,tt0129167,The Iron Giant,nowomen,0,Animation,PG,69923101,8.0,Brad Bird,1.0,0.0
+1321,1999,tt0133093,The Matrix,ok,1,Action,R,90900032,8.7,Andy Wachowski,3.2000000000000002,7.5
+1322,1999,tt0120616,The Mummy,notalk,0,Action,PG13,111876962,7.0,Stephen Sommers,1.8,0.14285714285714285
+1323,1999,tt0167404,The Sixth Sense,dubious,0,Drama,PG13,55938481,8.2,M. Night Shyamalan,2.0,0.0
+1324,1999,tt0134119,The Talented Mr. Ripley,dubious,0,Crime,R,55938481,7.3,Anthony Minghella,3.2000000000000002,1.0
+1325,1999,tt0144640,Three to Tango,notalk,0,Comedy,PG13,27969241,6.1,Damon Santostefano,1.2,0.0
+1326,1999,tt0151568,Topsy-Turvy,ok,1,Biography,R,27969241,7.4,Mike Leigh,1.0,5.0
+1327,1999,tt0120363,Toy Story 2,notalk,0,Animation,G,125861583,7.9,John Lasseter,2.2000000000000002,0.625
+1328,1999,tt0120458,Virus,dubious,0,Action,R,104884652,4.8,John Bruno,1.0,0.0
+1329,1999,tt0120891,Wild Wild West,men,0,Action,PG13,244730855,4.8,Barry Sonnenfeld,1.2,0.83333333333333337
+1330,1999,tt0131646,Wing Commander,men,0,Action,PG13,41953861,4.1,Chris Roberts,0.80000000000000004,0.0
+1331,1998,tt0120577,54,notalk,0,Drama,R,18578720,5.8,Mark Christopher,0.59999999999999998,0.0
+1332,1998,tt0120623,A Bug&#39;s Life,ok,1,Animation,G,64310954,7.2,John Lasseter,2.0,1.9090909090909092
+1333,1998,tt0120586,American History X,men,0,Crime,R,14291323,8.6,Tony Kaye,0.0,0.0
+1334,1998,tt0120591,Armageddon,notalk,0,Action,PG13,200078524,6.6,Michael Bay,2.3999999999999999,0.66666666666666663
+1335,1998,tt0120603,Beloved,ok,1,Drama,R,75744013,5.8,Jonathan Demme,1.2,2.0
+1336,1998,tt0120611,Blade,notalk,0,Action,R,64310954,7.1,Stephen Norrington,0.40000000000000002,2.0
+1337,1998,tt0144120,Bride of Chucky,notalk,0,Comedy,R,35728308,5.3,Ronny Yu,1.2,2.0
+1338,1998,tt0118789,Buffalo &#39;66,notalk,0,Comedy,R,2143698,7.5,Vincent Gallo,1.0,0.0
+1339,1998,tt0118929,Dark City,notalk,0,Mystery,R,38586572,7.7,Alex Proyas,1.2,0.25
+1340,1998,tt0120647,Deep Impact,ok,1,Action,PG13,114330585,6.1,Mimi Leder,2.6000000000000001,1.5
+1341,1998,tt0134619,Disturbing Behavior,notalk,0,Horror,R,21436985,5.5,David Nutter,0.40000000000000002,0.0
+1342,1998,tt0127536,Elizabeth,ok,1,Biography,R,35728308,7.5,Shekhar Kapur,2.3999999999999999,1.0
+1343,1998,tt0120660,Enemy of the State,notalk,0,Action,R,121476247,7.3,Tony Scott,1.8,0.0
+1344,1998,tt0120631,Ever After,ok,1,Comedy,PG13,37157440,7.0,Andy Tennant,1.8,1.5
+1345,1998,tt0120669,Fear and Loathing in Las Vegas,notalk,0,Comedy,R,26438948,7.7,Terry Gilliam,1.8,0.0
+1346,1998,tt0154420,Festen (The Celebration),dubious,0,Drama,R,1857872,8.1,Thomas Vinterberg,0.0,0.0
+1347,1998,tt0162973,Get Real,men,0,Comedy,R,2858265,7.7,Simon Shore,0.0,0
+1348,1998,tt0120685,Godzilla,dubious,0,Action,PG13,178641539,5.3,Roland Emmerich,0.80000000000000004,1.0
+1349,1998,tt0120694,Halloween H20: 20 Years Later,ok,1,Horror,R,24295249,5.6,Steve Miner,2.0,1.8
+1350,1998,tt0147612,Happiness,ok,1,Comedy,NR,4287397,7.8,Todd Solondz,2.3999999999999999,3.0
+1351,1998,tt0119313,Hope Floats,ok,1,Drama,PG13,42873969,5.8,Forest Whitaker,3.2000000000000002,1.0
+1352,1998,tt0147004,Little Voice,ok,1,Comedy,R,8574794,7.0,Mark Herman,2.2000000000000002,0
+1353,1998,tt0120735,"Lock, Stock and Two Smoking Barrels",notalk,0,Comedy,R,1929329,8.2,Guy Ritchie,0.40000000000000002,0.0
+1354,1998,tt0120738,Lost in Space,ok,1,Action,PG13,114330585,5.0,Stephen Hopkins,1.6000000000000001,2.5
+1355,1998,tt0120749,Mercury Rising,notalk,0,Action,R,85747939,6.1,Harold Becker,2.3999999999999999,0.33333333333333331
+1356,1998,tt0120762,Mulan,dubious,0,Animation,G,128621908,7.5,Tony Bancroft,0.0,0.71875
+1357,1998,tt0120780,Out of Sight,men,0,Comedy,R,68598351,7.1,Steven Soderbergh,0.59999999999999998,0.5
+1358,1998,tt0138704,Pi,men,0,Drama,R,97181,7.5,Darren Aronofsky,0.20000000000000001,0
+1359,1998,tt0120791,Practical Magic,ok,1,Comedy,PG13,85747939,6.1,Griffin Dunne,4.2000000000000002,2.5
+1360,1998,tt0119942,Primary Colors,ok,1,Comedy,R,92893600,6.7,Mike Nichols,2.7999999999999998,1.0
+1361,1998,tt0120800,Quest for Camelot,ok,1,Animation,G,57165293,6.2,Frederik Du Chau,2.3999999999999999,1.0
+1362,1998,tt0128442,Rounders,notalk,0,Crime,R,17149588,7.4,John Dahl,1.0,0.0
+1363,1998,tt0130827,Run Lola Run,notalk,0,Action,R,2500982,7.8,Tom Tykwer,0.0,0
+1364,1998,tt0120812,Rush Hour,ok,1,Action,PG13,50019631,6.9,Brett Ratner,2.6000000000000001,1.0
+1365,1998,tt0128445,Rushmore,notalk,0,Comedy,R,14291323,7.7,Wes Anderson,2.0,1.5
+1366,1998,tt0120813,Safe Men,nowomen,0,Comedy,R,1429132,6.1,John Hamburg,1.3999999999999999,0.0
+1367,1998,tt0120815,Saving Private Ryan,nowomen,0,Action,R,92893600,8.6,Steven Spielberg,1.3999999999999999,0.0
+1368,1998,tt0138097,Shakespeare in Love,ok,1,Comedy,R,37157440,7.2,John Madden,2.7999999999999998,1.5
+1369,1998,tt0120828,Six Days Seven Nights,notalk,0,Action,PG13,114330585,5.7,Ivan Reitman,0.59999999999999998,0.0
+1370,1998,tt0120148,Sliding Doors,ok,1,Comedy,R,8574794,6.8,Peter Howitt,2.2000000000000002,1.0
+1371,1998,tt0120831,Slums of Beverly Hills,ok,1,Comedy,R,7145662,6.6,Tamara Jenkins,2.3999999999999999,2.0
+1372,1998,tt0122718,Small Soldiers,notalk,0,Action,PG13,57165293,6.1,Joe Dante,0.20000000000000001,0
+1373,1998,tt0120321,Smoke Signals,ok,1,Comedy,PG13,2858265,7.2,Chris Eyre,1.0,1.0
+1374,1998,tt0120184,Sphere,notalk,0,Drama,PG13,104326659,6.0,Barry Levinson,2.0,0.5
+1375,1998,tt0120844,Star Trek: Insurrection,ok,1,Action,PG,100039262,6.4,Jonathan Frakes,2.2000000000000002,2.0
+1376,1998,tt0120686,Stepmom,ok,1,Comedy,PG13,71456616,6.6,Chris Columbus,4.0,1.1666666666666667
+1377,1998,tt0118661,The Avengers,ok,1,Action,PG13,85747939,3.7,Jeremiah S. Chechik,3.0,1.0
+1378,1998,tt0118715,The Big Lebowski,notalk,0,Comedy,R,21436985,8.2,Joel Coen,2.6000000000000001,1.0
+1379,1998,tt0133751,The Faculty,dubious,0,Horror,R,21436985,6.4,Robert Rodriguez,0.40000000000000002,0.66666666666666663
+1380,1998,tt0120744,The Man in the Iron Mask,notalk,0,Action,PG13,50019631,6.4,Randall Wallace,1.6000000000000001,0.5
+1381,1998,tt0120746,The Mask of Zorro,notalk,0,Action,PG13,92893600,6.7,Martin Campbell,0.0,0.8571428571428571
+1382,1998,tt0120768,The Negotiator,notalk,0,Action,R,71456616,7.3,F. Gary Gray,2.0,0.0
+1383,1998,tt0120794,The Prince of Egypt,notalk,0,Animation,PG,85747939,7.0,Brenda Chapman,2.0,0.0
+1384,1998,tt0120108,The Proposition,men,0,Drama,R,28582646,6.2,Lesli Linka Glatter,0.80000000000000004,0.0
+1385,1998,tt0120863,The Thin Red Line,notalk,0,Drama,R,74314880,7.6,Terrence Malick,0.40000000000000002,0.0
+1386,1998,tt0120382,The Truman Show,notalk,0,Drama,PG,85747939,8.1,Peter Weir,1.0,0.0
+1387,1998,tt0129387,There&#39;s Something About Mary,ok,1,Comedy,R,31440911,7.1,Bobby Farrelly,3.0,1.6666666666666667
+1388,1998,tt0146336,Urban Legend,ok,1,Horror,R,20007852,5.5,Jamie Blanks,2.2000000000000002,1.0
+1389,1998,tt0120877,Vampires (John Carpenter&#39;s),nowomen,0,Action,R,28582646,6.1,John Carpenter,0.20000000000000001,0.5
+1390,1998,tt0120879,Velvet Goldmine,men,0,Drama,R,12862191,7.0,Todd Haynes,1.2,0.0
+1391,1998,tt0120890,Wild Things,men,0,Crime,R,28582646,6.5,John McNaughton,1.3999999999999999,0.0
+1392,1998,tt0128853,You&#39;ve Got Mail,ok,1,Comedy,PG,92893600,6.5,Nora Ephron,3.7999999999999998,1.3333333333333333
+1393,1997,tt0120133,A Simple Wish,ok,1,Comedy,PG,40634668,5.3,Michael Ritchie,1.2,1.0
+1394,1997,tt0118570,Air Bud,notalk,0,Comedy,PG,4353714,5.0,Charles Martin Smith,0.80000000000000004,0.0
+1395,1997,tt0118571,Air Force One,notalk,0,Action,R,123355241,6.4,Wolfgang Petersen,1.8,0.0
+1396,1997,tt0118583,Alien: Resurrection,ok,1,Action,R,87074287,6.3,Jean-Pierre Jeunet,2.2000000000000002,2.3333333333333335
+1397,1997,tt0118617,Anastasia,ok,1,Animation,G,76915621,7.1,Don Bluth,1.8,1.0
+1398,1997,tt0119822,As Good as It Gets,ok,1,Comedy,PG13,72561906,7.8,James L. Brooks,3.0,1.3333333333333333
+1399,1997,tt0118655,Austin Powers: International Man of Mystery,men,0,Comedy,PG13,26122286,7.0,Jay Roach,0.80000000000000004,0.0
+1400,1997,tt0118688,Batman &amp; Robin,men,0,Action,PG13,181404766,3.6,Joel Schumacher,1.0,2.0
+1401,1997,tt0118749,Boogie Nights,dubious,0,Drama,R,21768572,7.9,Paul Thomas Anderson,0.80000000000000004,0.0
+1402,1997,tt0118829,Cats Don&#39;t Dance,ok,1,Animation,G,46439620,6.9,Mark Dindal,1.0,1.2727272727272727
+1403,1997,tt0118842,Chasing Amy,ok,1,Comedy,R,362810,7.4,Kevin Smith,1.8,2.0
+1404,1997,tt0128996,Cinderella,ok,1,Musical,G,4208591,6.4,Robert Iscove,1.0,1.0
+1405,1997,tt0118866,Clockwatchers,ok,1,Comedy,PG13,2902476,6.4,Jill Sprecher,1.8,1.0
+1406,1997,tt0118880,Con Air,notalk,0,Action,R,116099050,6.8,Simon West,0.80000000000000004,0.0
+1407,1997,tt0118883,Conspiracy Theory,men,0,Action,R,116099050,6.7,Richard Donner,1.3999999999999999,0.0
+1408,1997,tt0118884,Contact,ok,1,Drama,PG,130611431,7.4,Robert Zemeckis,2.0,1.6000000000000001
+1409,1997,tt0119080,Eve&#39;s Bayou,ok,1,Drama,R,7256191,7.3,Kasi Lemmons,2.6000000000000001,1.0
+1410,1997,tt0119081,Event Horizon,ok,1,Horror,R,87074287,6.7,Paul W.S. Anderson,1.3999999999999999,1.0
+1411,1997,tt0119114,Fever Pitch,ok,1,Comedy,R,58049525,6.7,David Evans,1.6000000000000001,1.5
+1412,1997,tt0119137,Flubber,men,0,Comedy,PG,116099050,5.1,Les Mayfield,1.3999999999999999,0.0
+1413,1997,tt0119173,G.I. Jane,ok,1,Action,R,72561906,5.8,Ridley Scott,1.3999999999999999,1.3333333333333333
+1414,1997,tt0119177,Gattaca,notalk,0,Drama,PG13,52244573,7.8,Andrew Niccol,0.59999999999999998,0.0
+1415,1997,tt0119190,George of the Jungle,ok,1,Action,PG,79818097,5.4,Sam Weisman,2.6000000000000001,1.5
+1416,1997,tt0119217,Good Will Hunting,nowomen,0,Drama,R,14512381,8.3,Gus Van Sant,1.8,0.0
+1417,1997,tt0119229,Grosse Pointe Blank,ok,1,Action,R,21768572,7.4,George Armitage,3.3999999999999999,1.0
+1418,1997,tt0119282,Hercules,ok,1,Animation,G,101586669,7.2,Ron Clements,1.6000000000000001,1.9411764705882353
+1419,1997,tt0119345,I Know What You Did Last Summer,ok,1,Horror,R,24671048,5.6,Jim Gillespie,1.6000000000000001,1.5
+1420,1997,tt0119361,In the Company of Men,notalk,0,Comedy,R,36281,7.3,Neil LaBute,0.20000000000000001,0.0
+1421,1997,tt0119396,Jackie Brown,ok,1,Crime,R,17414858,7.5,Quentin Tarantino,2.0,2.0
+1422,1997,tt0119468,Kiss the Girls,men,0,Crime,R,39183429,6.5,Gary Fleder,1.2,0.5
+1423,1997,tt0119488,L.A. Confidential,notalk,0,Crime,R,50793334,8.3,Curtis Hanson,1.6000000000000001,0.0
+1424,1997,tt0119528,Liar Liar,notalk,0,Comedy,PG13,65305716,6.8,Tom Shadyac,1.3999999999999999,0.0
+1425,1997,tt0119654,Men in Black,notalk,0,Comedy,PG13,130611431,7.2,Barry Sonnenfeld,1.2,0.66666666666666663
+1426,1997,tt0119698,Mononoke-hime,ok,1,Animation,PG13,29024763,8.4,Hayao Miyazaki,1.8,2.0
+1427,1997,tt0119707,Mortal Kombat: Annihilation,ok,1,Action,PG13,43537144,3.6,John R. Leonetti,1.3999999999999999,1.0
+1428,1997,tt0417001,Must love Dogs,men,0,Comedy,PG13,50793334,5.9,Gary David Goldberg,1.2,0
+1429,1997,tt0119738,My Best Friend&#39;s Wedding,men,0,Comedy,PG13,66756954,6.3,P.J. Hogan,2.7999999999999998,0.0
+1430,1997,tt0124819,Orgazmo,notalk,0,Comedy,R,1451238,6.2,Trey Parker,0.0,0.0
+1431,1997,tt0120082,Scream 2,ok,1,Horror,R,34829715,6.1,Wes Craven,1.3999999999999999,3.0
+1432,1997,tt0120094,Selena,ok,1,Biography,PG,29024763,6.6,Gregory Nava,1.6000000000000001,1.0
+1433,1997,tt0120152,Smilla&#39;s Sense of Snow,ok,1,Action,R,50793334,6.4,Bille August,1.3999999999999999,1.0
+1434,1997,tt0120177,Spawn,ok,1,Action,R,58049525,5.2,Mark A.Z. Dippé,2.2000000000000002,1.5
+1435,1997,tt0120201,Starship Troopers,ok,1,Action,R,145123812,7.2,Paul Verhoeven,1.6000000000000001,1.0
+1436,1997,tt0118971,The Devil&#39;s Advocate,ok,1,Drama,R,82720573,7.5,Taylor Hackford,2.0,1.3333333333333333
+1437,1997,tt0119116,The Fifth Element,notalk,0,Action,PG13,137867622,7.6,Luc Besson,2.7999999999999998,1.6666666666666667
+1438,1997,tt0119174,The Game,notalk,0,Drama,R,72561906,7.8,David Fincher,0.80000000000000004,1.0
+1439,1997,tt0119567,The Lost World: Jurassic Park,dubious,0,Action,PG13,108842859,6.5,Steven Spielberg,1.2,2.0
+1440,1997,tt0119874,The Peacemaker,dubious,0,Action,R,72561906,5.9,Mimi Leder,0.80000000000000004,0.0
+1441,1997,tt0119925,The Postman,notalk,0,Action,R,116099050,5.9,Kevin Costner,0.40000000000000002,0.0
+1442,1997,tt0120338,Titanic,ok,1,Drama,PG13,290247625,7.7,James Cameron,2.3999999999999999,4.0
+1443,1997,tt0120461,Volcano,ok,1,Action,PG13,130611431,5.4,Mick Jackson,2.2000000000000002,1.3333333333333333
+1444,1996,tt0115591,August,dubious,0,Comedy,PG,5049561,6.0,Anthony Hopkins,0.20000000000000001,0.0
+1445,1996,tt0115736,Bound,ok,1,Crime,R,6683242,7.4,Andy Wachowski,1.2,7.5
+1446,1996,tt0115759,Broken Arrow,nowomen,0,Action,R,96535720,6.0,John Woo,1.3999999999999999,1.0
+1447,1996,tt0115857,Chain Reaction,notalk,0,Action,PG13,81684071,5.5,Andrew Davis,3.3999999999999999,0.20000000000000001
+1448,1996,tt0116136,DragonHeart,men,0,Action,PG13,84654401,6.4,Rob Cohen,1.0,0.0
+1449,1996,tt0116191,Emma,ok,1,Comedy,PG,8762473,6.8,Douglas McGrath,2.6000000000000001,2.5
+1450,1996,tt0116225,Escape from L.A.,notalk,0,Action,R,74258246,5.6,John Carpenter,1.3999999999999999,2.0
+1451,1996,tt0116260,Eye for an Eye,ok,1,Crime,R,29703299,6.1,John Schlesinger,1.8,1.0
+1452,1996,tt0116282,Fargo,ok,1,Crime,R,10396154,8.2,Joel Coen,2.2000000000000002,1.0
+1453,1996,tt0116361,Freeway,ok,1,Comedy,R,4455495,6.9,Matthew Bright,2.3999999999999999,1.0
+1454,1996,tt0116367,From Dusk Till Dawn,notalk,0,Action,R,29703299,7.3,Robert Rodriguez,0.0,1.0
+1455,1996,tt0116477,Hamlet,notalk,0,Drama,PG13,2970330,7.8,Kenneth Branagh,0.80000000000000004,0.0
+1456,1996,tt0116493,Harriet the Spy,ok,1,Family,PG,19307144,5.9,Bronwen Hughes,1.8,1.3999999999999999
+1457,1996,tt0116629,Independence Day,ok,1,Action,PG13,111387369,6.9,Roland Emmerich,1.8,1.0
+1458,1996,tt0116705,Jingle All the Way,notalk,0,Comedy,PG,89109896,5.4,Brian Levant,0.20000000000000001,0.0
+1459,1996,tt0116778,Kingpin,notalk,0,Comedy,PG13,37129123,6.9,Bobby Farrelly,1.0,0.0
+1460,1996,tt0116931,Love and Other Catastrophes,ok,1,Comedy,R,371291,6.4,Emma-Kate Croghan,2.0,1.0
+1461,1996,tt0116996,Mars Attacks!,ok,1,Comedy,PG13,118813194,6.3,Tim Burton,3.0,1.2857142857142858
+1462,1996,tt0117060,Mission: Impossible,notalk,0,Action,PG13,118813194,7.1,Brian De Palma,0.80000000000000004,1.0
+1463,1996,tt0117509,Romeo + Juliet,dubious,0,Drama,PG13,21534891,6.8,Baz Luhrmann,2.0,0.33333333333333331
+1464,1996,tt0117571,Scream,ok,1,Horror,R,22277474,7.2,Wes Craven,1.8,4.0
+1465,1996,tt0117589,Secrets &amp; Lies,ok,1,Drama,R,6683242,8.0,Mike Leigh,1.3999999999999999,5.0
+1466,1996,tt0117603,Set It Off,ok,1,Action,R,13366484,6.8,F. Gary Gray,1.6000000000000001,1.3333333333333333
+1467,1996,tt0117705,Space Jam,notalk,0,Animation,PG,118813194,6.2,Joe Pytka,0.20000000000000001,0.5
+1468,1996,tt0117723,Spy Hard,notalk,0,Comedy,PG13,26732969,5.2,Rick Friedberg,0.80000000000000004,0.5
+1469,1996,tt0117731,Star Trek: First Contact,ok,1,Action,PG13,68317587,7.6,Jonathan Frakes,2.2000000000000002,2.0
+1470,1996,tt0117765,Striptease,dubious,0,Comedy,R,74258246,4.3,Andrew Bergman,1.0,0.0
+1471,1996,tt0117887,That Thing You Do!,ok,1,Comedy,PG,3712912,6.8,Tom Hanks,2.2000000000000002,1.0
+1472,1996,tt0115798,The Cable Guy,notalk,0,Comedy,PG13,69802752,6.0,Ben Stiller,2.0,0.0
+1473,1996,tt0115963,The Craft,ok,1,Drama,R,22277474,6.2,Andrew Fleming,1.3999999999999999,1.6666666666666667
+1474,1996,tt0116209,The English Patient,ok,1,Drama,R,51980772,7.4,Anthony Minghella,2.0,1.5
+1475,1996,tt0116277,The Fan,notalk,0,Action,R,81684071,5.8,Tony Scott,1.8,0.0
+1476,1996,tt0116313,The First Wives Club,ok,1,Comedy,PG,44554948,6.1,Hugh Wilson,3.2000000000000002,1.0
+1477,1996,tt0116421,The Glimmer Man,notalk,0,Action,R,66832422,5.3,John Gray,0.80000000000000004,0.0
+1478,1996,tt0116583,The Hunchback of Notre Dame,notalk,0,Animation,G,148516493,6.9,Gary Trousdale,0.20000000000000001,0.80000000000000004
+1479,1996,tt0116908,The Long Kiss Goodnight,notalk,0,Action,R,96535720,6.7,Renny Harlin,1.0,0.0
+1480,1996,tt0117057,The Mirror Has Two Faces,ok,1,Comedy,PG13,62376927,6.4,Barbra Streisand,1.2,1.6666666666666667
+1481,1996,tt0117500,The Rock,notalk,0,Action,R,111387369,7.4,Michael Bay,1.8,0.0
+1482,1996,tt0117951,Trainspotting,men,0,Drama,R,4604011,8.2,Danny Boyle,0.80000000000000004,0.0
+1483,1996,tt0117998,Twister,ok,1,Action,PG13,130694514,6.3,Jan de Bont,2.7999999999999998,1.5
+1484,1996,tt0118113,Walking and Talking,ok,1,Comedy,R,1485165,6.8,Nicole Holofcener,2.0,4.0
+1485,1996,tt0115856,When the Cat&#39;s Away,ok,1,Comedy,R,445549,6.9,Cédric Klapisch,1.0,1.0
+1486,1995,tt0112384,Apollo 13,ok,1,Adventure,PG,99370665,7.6,Ron Howard,3.7999999999999998,1.0
+1487,1995,tt0112401,Assassins,notalk,0,Action,R,76438973,6.3,Richard Donner,1.2,5.4000000000000004
+1488,1995,tt0112462,Batman Forever,notalk,0,Action,PG13,152877946,5.4,Joel Schumacher,1.3999999999999999,0.66666666666666663
+1489,1995,tt0112471,Before Sunrise,nowomen,0,Drama,R,3821949,8.1,Richard Linklater,0.20000000000000001,1.0
+1490,1995,tt0112573,Braveheart,men,0,Action,R,110072121,8.4,Mel Gibson,0.20000000000000001,0.0
+1491,1995,tt0112641,Casino,men,0,Biography,R,79496532,8.2,Martin Scorsese,1.0,0
+1492,1995,tt0112642,Casper,ok,1,Comedy,PG,84082870,6.0,Brad Silberling,1.0,1.0
+1493,1995,tt0112697,Clueless,ok,1,Comedy,PG13,20944279,6.8,Amy Heckerling,1.8,1.0
+1494,1995,tt0112715,Congo,nowomen,0,Action,PG13,76438973,5.0,Frank Marshall,0.80000000000000004,1.5
+1495,1995,tt0112722,Copycat,dubious,0,Crime,R,30575589,6.6,Jon Amiel,1.6000000000000001,0.0
+1496,1995,tt0112864,Die Hard: With a Vengeance,notalk,0,Action,R,137590151,7.6,John McTiernan,2.2000000000000002,0.5
+1497,1995,tt0113101,Four rooms,notalk,0,Comedy,R,6115118,6.7,Allison Anders,0.20000000000000001,0.75
+1498,1995,tt0113321,Home for the holidays,ok,1,Comedy,PG13,30575589,6.6,Jodie Foster,1.8,1.0
+1499,1995,tt0113497,Jumanji,ok,1,Adventure,PG,99370665,6.8,Joe Johnston,1.6000000000000001,2.1428571428571428
+1500,1995,tt0113749,Mallrats,notalk,0,Comedy,R,9325555,7.2,Kevin Smith,1.2,2.0
+1501,1995,tt0113855,Mortal Kombat,notalk,0,Action,PG13,30575589,5.8,Paul W.S. Anderson,0.59999999999999998,0
+1502,1995,tt0114069,Outbreak,ok,1,Action,R,76438973,6.5,Wolfgang Petersen,3.0,1.0
+1503,1995,tt0114148,Pocahontas,ok,1,Animation,G,84082870,6.6,Mike Gabriel,1.6000000000000001,1.3571428571428572
+1504,1995,tt0114319,Sabrina,ok,1,Comedy,PG,88669209,6.2,Sydney Pollack,2.6000000000000001,0
+1505,1995,tt0114323,Safe,ok,1,Drama,R,50449722,7.1,Todd Haynes,1.6000000000000001,0
+1506,1995,tt0114369,Se7en,notalk,0,Drama,R,45863384,8.7,David Fincher,0.59999999999999998,0
+1507,1995,tt0114388,Sense and Sensibility,ok,1,Drama,PG,25224861,7.7,Ang Lee,3.3999999999999999,0
+1508,1995,tt0114436,Showgirls,ok,1,Drama,R,61151178,4.5,Paul Verhoeven,1.2,0
+1509,1995,tt0114508,Species,dubious,0,Action,R,53507281,5.8,Roger Donaldson,0.59999999999999998,0
+1510,1995,tt0114614,Tank Girl,ok,1,Action,R,38219486,5.2,Rachel Talalay,1.2,0
+1511,1995,tt0112346,The American President,ok,1,Comedy,PG13,94784326,6.8,Rob Reiner,2.6000000000000001,2.0
+1512,1995,tt0112579,The Bridges of Madison County,ok,1,Drama,PG13,33633148,7.5,Clint Eastwood,1.3999999999999999,1.5
+1513,1995,tt0113416,The Incredibly True Adventures of Two Girls in Love,ok,1,Comedy,R,382195,6.5,Maria Maggenti,1.0,1.0
+1514,1995,tt0113957,The Net,ok,1,Action,PG13,33633148,5.8,Irwin Winkler,2.7999999999999998,0
+1515,1995,tt0114214,The Quick and the Dead,notalk,0,Action,R,48920943,6.4,Sam Raimi,0.80000000000000004,0
+1516,1995,tt0114814,The Usual Suspects,notalk,0,Crime,R,9172677,8.6,Bryan Singer,1.2,0.0
+1517,1995,tt0114709,Toy Story,notalk,0,Animation,G,45863384,8.3,John Lasseter,1.0,1.125
+1518,1995,tt0114746,Twelve Monkeys,notalk,0,Mystery,R,44334604,8.1,Terry Gilliam,0.40000000000000002,0.0
+1519,1995,tt0114898,Waterworld,nowomen,0,Action,PG13,267536405,6.1,Kevin Reynolds,0.0,1.0
+1520,1995,tt0114906,Welcome to the Dollhouse,ok,1,Comedy,R,1223024,7.5,Todd Solondz,1.0,3.0
+1521,1994,tt0109040,Ace Ventura: Pet Detective,men,0,Comedy,PG13,18859976,6.9,Tom Shadyac,0.80000000000000004,0.0
+1522,1994,tt0109254,Beverly Hills Cop III,nowomen,0,Action,R,78583235,5.5,John Landis,0.40000000000000002,0.66666666666666663
+1523,1994,tt0109445,Clerks.,notalk,0,Comedy,R,42435,7.9,Kevin Smith,0.20000000000000001,2.0
+1524,1994,tt0109504,Crooklyn,ok,1,Comedy,PG13,22003306,6.9,Spike Lee,1.2,1.5
+1525,1994,tt0109686,Dumb &amp; Dumber,men,0,Comedy,PG13,25146635,7.3,Peter Farrelly,1.0,0.66666666666666663
+1526,1994,tt0109707,Ed Wood,ok,1,Biography,R,28289965,7.9,Tim Burton,2.7999999999999998,1.0
+1527,1994,tt0109830,Forrest Gump,notalk,0,Drama,PG13,86441558,8.8,Robert Zemeckis,1.6000000000000001,0.0
+1528,1994,tt0110322,Legends of the Fall,ok,1,Drama,R,47149941,7.5,Edward Zwick,2.3999999999999999,1.0
+1529,1994,tt0110367,Little Women,ok,1,Drama,PG,23574970,7.3,Gillian Armstrong,1.8,1.5
+1530,1994,tt0110622,Naked Gun 33 1/3: The Final Insult,men,0,Comedy,PG13,47149941,6.4,Peter Segal,0.40000000000000002,0.0
+1531,1994,tt0110857,Police Academy: Mission to Moscow,notalk,0,Comedy,PG,15716647,3.2,Alan Metter,0.0,0.25
+1532,1994,tt0110889,Priest,ok,1,Drama,R,94299882,7.2,Antonia Bird,2.3999999999999999,1.0
+1533,1994,tt0110912,Pulp Fiction,ok,1,Crime,R,12573318,8.9,Quentin Tarantino,1.8,2.3333333333333335
+1534,1994,tt0111257,Speed,ok,1,Action,R,47149941,7.2,Jan de Bont,2.0,1.0
+1535,1994,tt0111282,Stargate,notalk,0,Action,PG13,86441558,7.0,Roland Emmerich,0.40000000000000002,0
+1536,1994,tt0111301,Street Fighter,ok,1,Action,PG13,55008264,3.7,Steven E. de Souza,1.2,1.0
+1537,1994,tt0109446,The Client,ok,1,Crime,PG13,70724911,6.7,Joel Schumacher,1.2,2.0
+1538,1994,tt0110074,The Hudsucker Proxy,notalk,0,Comedy,PG,62866588,7.3,Joel Coen,0.59999999999999998,1.0
+1539,1994,tt0110357,The Lion King,notalk,0,Animation,G,124633011,8.5,Roger Allers,0.40000000000000002,0.62068965517241381
+1540,1994,tt0110475,The Mask,notalk,0,Comedy,PG13,28289965,6.8,Chuck Russell,0.59999999999999998,0.0
+1541,1994,tt0111070,The Santa Clause,notalk,0,Comedy,PG,34576623,6.3,John Pasquin,0.40000000000000002,0.0
+1542,1994,tt0111143,The Shadow,nowomen,0,Action,PG13,62866588,5.9,Russell Mulcahy,0.80000000000000004,1.0
+1543,1994,tt0111161,The Shawshank Redemption,nowomen,0,Crime,R,39291617,9.3,Frank Darabont,1.6000000000000001,0.5
+1544,1994,tt0111255,The Specialist,notalk,0,Action,R,70724911,5.4,Luis Llosa,1.0,0.0
+1545,1994,tt0111438,Timecop,notalk,0,Action,R,44006612,5.8,Peter Hyams,0.40000000000000002,0.0
+1546,1994,tt0111503,True Lies,notalk,0,Action,R,157166470,7.2,James Cameron,1.3999999999999999,0.25
+1547,1993,tt0106582,Cliffhanger,notalk,0,Action,R,104809829,6.4,Renny Harlin,0.20000000000000001,0.25
+1548,1993,tt0106611,Cool Runnings,notalk,0,Adventure,PG,22574425,6.9,Jon Turteltaub,0.0,0.0
+1549,1993,tt0106677,Dazed and Confused,ok,1,Comedy,R,11125966,7.7,Richard Linklater,1.2,2.0
+1550,1993,tt0107007,Gettysburg,nowomen,0,Drama,PG,40311473,7.7,Ron Maxwell,0.40000000000000002,0.0
+1551,1993,tt0107048,Groundhog Day,men,0,Comedy,PG,23541900,8.1,Harold Ramis,1.0,0.0
+1552,1993,tt0107120,Hocus Pocus,ok,1,Comedy,PG,45148849,6.6,Kenny Ortega,1.6000000000000001,1.5
+1553,1993,tt0107290,Jurassic Park,ok,1,Adventure,PG13,101584911,8.1,Steven Spielberg,1.3999999999999999,1.6666666666666667
+1554,1993,tt0107614,Mrs. Doubtfire,ok,1,Comedy,PG13,40311473,6.9,Chris Columbus,1.8,1.6666666666666667
+1555,1993,tt0311648,Pieces of April,ok,1,Comedy,PG13,483738,7.1,Peter Hedges,2.0,1.0
+1556,1993,tt0108052,Schindler&#39;s List,ok,1,Biography,R,40311473,8.9,Steven Spielberg,2.3999999999999999,1.0
+1557,1993,tt0108255,Super Mario Bros.,dubious,0,Adventure,PG,67723274,4.0,Annabel Jankel,1.3999999999999999,0.33333333333333331
+1558,1993,tt0106226,The Age of Innocence,ok,1,Drama,PG,54823603,7.2,Martin Scorsese,2.3999999999999999,0
+1559,1993,tt0106977,The Fugitive,men,0,Action,PG13,70948192,7.8,Andrew Davis,1.2,1.0
+1560,1993,tt0112389,The Princess and the Cobbler,nowomen,0,Animation,G,38699014,7.2,Richard Williams,0.0,0.0
+1561,1993,tt0107943,The Remains of the Day,nowomen,0,Drama,PG,24186884,7.9,James Ivory,1.8,0.5
+1562,1993,tt0108358,Tombstone,ok,1,Action,R,40311473,7.8,George P. Cosmatos,1.8,1.0
+1563,1992,tt0104257,A Few Good Men,notalk,0,Drama,R,54791459,7.6,Rob Reiner,1.3999999999999999,1.0
+1564,1992,tt0104694,A League of Their Own,ok,1,Comedy,PG,66413889,7.2,Penny Marshall,2.2000000000000002,1.25
+1565,1992,tt0103639,Aladdin,nowomen,0,Animation,G,46489723,8.0,Ron Clements,0.0,0
+1566,1992,tt0103644,Alien 3,nowomen,0,Horror,R,91319098,6.4,David Fincher,1.2,1.5
+1567,1992,tt0106308,Army of Darkness,men,0,Comedy,R,18263820,7.6,Sam Raimi,0.0,0
+1568,1992,tt0103776,Batman Returns,nowomen,0,Action,PG13,132827779,7.0,Tim Burton,1.6000000000000001,0.5
+1569,1992,tt0103893,Buffy the Vampire Slayer,ok,1,Action,PG13,11622431,5.5,Fran Rubel Kuzui,1.0,2.0
+1570,1992,tt0104070,Death Becomes Her,ok,1,Comedy,PG13,91319098,6.4,Robert Zemeckis,2.3999999999999999,1.5
+1571,1992,tt0104815,El Mariachi,nowomen,0,Action,R,11622,6.9,Robert Rodriguez,0.0,4.0
+1572,1992,tt0104348,Glengarry Glen Ross,nowomen,0,Drama,R,20754340,7.9,James Foley,3.2000000000000002,0.0
+1573,1992,tt0104412,Hero,notalk,0,Comedy,PG13,69734584,6.4,Stephen Frears,1.6000000000000001,0.25
+1574,1992,tt0104431,Home Alone 2: Lost in New York,notalk,0,Adventure,PG,33206945,6.5,Chris Columbus,0.80000000000000004,0.5
+1575,1992,tt0104797,Malcolm X,dubious,0,Biography,PG13,58112153,7.7,Spike Lee,0.59999999999999998,0.25
+1576,1992,tt0104952,My Cousin Vinny,notalk,0,Comedy,R,18263820,7.5,Jonathan Lynn,0.59999999999999998,0.0
+1577,1992,tt0105236,Reservoir Dogs,nowomen,0,Crime,R,1992417,8.4,Quentin Tarantino,1.3999999999999999,2.3333333333333335
+1578,1992,tt0104036,The Crying Game,men,0,Crime,R,6641389,7.3,Neil Jordan,1.0,1.0
+1579,1992,tt0104868,The Mighty Ducks,notalk,0,Action,PG,16603472,6.4,Stephen Herek,0.0,0.0
+1580,1992,tt0104940,The Muppet Christmas Carol,notalk,0,Comedy,G,19924167,7.7,Brian Henson,0.40000000000000002,0.0
+1581,1992,tt0105151,The Player,ok,1,Comedy,R,13282778,7.7,Robert Altman,1.6000000000000001,1.5
+1582,1992,tt0105793,Wayne&#39;s World,notalk,0,Comedy,PG13,33206945,7.0,Penelope Spheeris,0.59999999999999998,0.0
+1583,1991,tt0101414,Beauty and the Beast,ok,1,Animation,G,34216807,8.0,Gary Trousdale,1.0,1.8333333333333333
+1584,1991,tt0101452,Bill &amp; Ted&#39;s Bogus Journey,notalk,0,Adventure,PG,34216807,6.2,Peter Hewitt,0.80000000000000004,0.5
+1585,1991,tt0102057,Hook,men,0,Adventure,PG,119758826,6.7,Steven Spielberg,2.0,1.1666666666666667
+1586,1991,tt0102070,Hudson Hawk,ok,1,Action,R,111204624,5.7,Michael Lehmann,2.2000000000000002,1.25
+1587,1991,tt0102798,Robin Hood: Prince of Thieves,dubious,0,Action,PG13,85542018,6.9,Kevin Reynolds,1.3999999999999999,0.0
+1588,1991,tt0102943,Slacker,ok,1,Comedy,R,39349,7.1,Richard Linklater,1.0,2.0
+1589,1991,tt0102975,Star Trek VI: The Undiscovered Country,men,0,Action,PG,46192690,7.2,Nicholas Meyer,0.20000000000000001,0.5
+1590,1991,tt0103060,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,ok,1,Action,PG,42771009,6.0,Michael Pressman,1.0,1.0
+1591,1991,tt0103064,Terminator 2: Judgement Day,dubious,0,Action,R,171084037,8.5,James Cameron,0.59999999999999998,2.0
+1592,1991,tt0101272,The Addams Family,ok,1,Comedy,PG13,51325211,6.8,Barry Sonnenfeld,1.8,2.0
+1593,1991,tt0102510,The Naked Gun 2 1/2: The Smell of Fear,notalk,0,Comedy,PG13,39349328,6.8,David Zucker,0.0,0.20000000000000001
+1594,1991,tt0102926,The Silence of the Lambs,ok,1,Thriller,R,34216807,8.6,Jonathan Demme,1.3999999999999999,1.0
+1595,1991,tt0103247,White Fang,notalk,0,Adventure,PG,23951765,6.6,Randal Kleiser,0.59999999999999998,0.0
+1596,1990,tt0099088,Back to the Future Part III,notalk,0,Adventure,PG,71319016,7.4,Robert Zemeckis,1.2,2.2000000000000002
+1597,1990,tt0099253,Child&#39;s Play 2,ok,1,Horror,R,23178680,5.7,John Lafia,1.3999999999999999,2.0
+1598,1990,tt0099817,Dark Angel (I Come in Peace),nowomen,0,Action,R,12480828,6.0,Craig R. Baxley,0.0,1.0
+1599,1990,tt0099423,Die Hard 2,dubious,0,Action,R,124808278,7.1,Renny Harlin,1.6000000000000001,0.66666666666666663
+1600,1990,tt0099487,Edward Scissorhands,ok,1,Drama,PG13,35659508,8.0,Tim Burton,3.6000000000000001,2.3333333333333335
+1601,1990,tt0099582,Flatliners,ok,1,Drama,R,46357360,6.5,Joel Schumacher,3.0,2.0
+1602,1990,tt0099653,Ghost,men,0,Drama,PG13,39225459,7.0,Jerry Zucker,0.40000000000000002,1.0
+1603,1990,tt0099685,Goodfellas,men,0,Biography,R,44574385,8.7,Martin Scorsese,0.59999999999999998,0.0
+1604,1990,tt0099785,Home Alone,men,0,Comedy,PG,26744631,7.4,Chris Columbus,0.20000000000000001,1.0
+1605,1990,tt0100263,Nikita,ok,1,Action,R,12480828,7.4,Luc Besson,1.0,3.0
+1606,1990,tt0100403,Predator 2,men,0,Action,R,62404139,6.2,Stephen Hopkins,0.0,0.0
+1607,1990,tt0100405,Pretty Woman,ok,1,Comedy,R,24961656,6.9,Garry Marshall,2.2000000000000002,2.0
+1608,1990,tt0099810,The Hunt for Red October,notalk,0,Action,PG,53489262,7.6,John McTiernan,1.8,0.33333333333333331
+1609,1990,tt0100802,Total Recall,notalk,0,Action,R,222871925,7.5,Paul Verhoeven,0.40000000000000002,1.4285714285714286
+1610,1990,tt0100814,Tremors,ok,1,Comedy,PG13,17829754,7.2,Ron Underwood,1.2,1.3999999999999999
+1611,1989,tt0096874,Back to the Future Part II,ok,1,Adventure,PG,75183554,7.8,Robert Zemeckis,1.8,2.2000000000000002
+1612,1989,tt0096895,Batman,notalk,0,Action,PG13,65785609,7.6,Tim Burton,0.59999999999999998,0.25
+1613,1989,tt0096928,Bill &amp; Ted&#39;s Excellent Adventure,men,0,Adventure,PG,18795888,6.9,Stephen Herek,0.80000000000000004,0.5
+1614,1989,tt0097165,Dead Poets Society,notalk,0,Drama,PG,30825257,8.0,Peter Weir,0.59999999999999998,0.0
+1615,1989,tt0097499,Henry V,ok,1,Action,PG13,16916300,7.8,Kenneth Branagh,1.0,0
+1616,1989,tt0097576,Indiana Jones and the Last Crusade,nowomen,0,Action,PG13,90220264,8.3,Steven Spielberg,0.80000000000000004,0
+1617,1989,tt0097742,Licence to Kill,men,0,Action,PG13,78942731,6.6,John Glen,0.40000000000000002,0
+1618,1989,tt0097815,Major League,notalk,0,Comedy,R,20675477,7.2,David S. Ward,0.20000000000000001,0
+1619,1989,tt0098206,Road House,notalk,0,Action,R,18795888,6.4,Rowdy Herrington,0.40000000000000002,0
+1620,1989,tt0098724,"Sex, Lies, and Videotape",men,0,Drama,R,2255507,7.2,Steven Soderbergh,1.0,0.0
+1621,1989,tt0098382,Star Trek V: The Final Frontier,notalk,0,Action,PG,56387665,5.4,William Shatner,0.20000000000000001,0.40000000000000002
+1622,1989,tt0096754,The Abyss,ok,1,Adventure,PG13,131571219,7.6,James Cameron,1.3999999999999999,4.0
+1623,1989,tt0098519,Troop Beverly Hills,ok,1,Adventure,PG,33832599,5.4,Jeff Kanew,1.0,1.0
+1624,1989,tt0098546,UHF,notalk,0,Comedy,PG13,9397944,7.0,Jay Levey,0.0,0.0
+1625,1988,tt0094612,Action Jackson,notalk,0,Action,R,13787529,5.1,Craig R. Baxley,0.59999999999999998,0.0
+1626,1988,tt0094625,Akira,notalk,0,Animation,R,15757176,8.1,Katsuhiro Ôtomo,0.0,0.0
+1627,1988,tt0094721,Beetle Juice,ok,1,Comedy,PG,29544705,7.4,Tim Burton,1.2,1.25
+1628,1988,tt0092675,Bloodsport,notalk,0,Action,R,2954471,6.8,Newt Arnold,0.59999999999999998,0.0
+1629,1988,tt0094862,Child&#39;s Play,ok,1,Horror,R,17726823,6.5,Tom Holland,1.3999999999999999,1.5
+1630,1988,tt0094947,Dangerous Liaisons,ok,1,Drama,R,27575058,7.7,Stephen Frears,2.0,1.3333333333333333
+1631,1988,tt0095016,Die Hard,ok,1,Action,R,55150116,8.3,John McTiernan,1.8,1.3333333333333333
+1632,1988,tt0095631,Midnight Run,men,0,Action,R,59089410,7.6,Martin Brest,0.59999999999999998,0.0
+1633,1988,tt0095687,My Stepmother Is an Alien,ok,1,Comedy,PG13,31514352,5.2,Richard Benjamin,1.3999999999999999,1.0
+1634,1988,tt0095690,Mystic Pizza,ok,1,Comedy,R,11817882,6.2,Donald Petrie,2.2000000000000002,1.0
+1635,1988,tt0095889,Poltergeist III,ok,1,Horror,PG13,18711647,4.5,Gary Sherman,1.3999999999999999,1.0
+1636,1988,tt0095953,Rain Man,notalk,0,Drama,R,49241175,8.0,Barry Levinson,0.20000000000000001,0.66666666666666663
+1637,1988,tt0096061,Scrooged,ok,1,Comedy,PG13,63028704,7.0,Richard Donner,1.0,1.0
+1638,1988,tt0095489,The Land Before Time,ok,1,Animation,G,24226658,7.3,Don Bluth,1.0,0
+1639,1988,tt0095497,The Last Temptation of Christ,men,0,Drama,R,13787529,7.6,Martin Scorsese,0.0,0.5
+1640,1988,tt0096256,They Live,nowomen,0,Action,R,7878588,7.3,John Carpenter,0.59999999999999998,1.5
+1641,1988,tt0096320,Twins,men,0,Comedy,PG,29544705,5.9,Ivan Reitman,0.80000000000000004,0.5
+1642,1988,tt0096438,Who Framed Roger Rabbit,notalk,0,Animation,PG,137875291,7.7,Robert Zemeckis,0.59999999999999998,0.66666666666666663
+1643,1988,tt0096487,Young Guns,notalk,0,Action,R,25605411,6.8,Christopher Cain,0.59999999999999998,0.0
+1644,1987,tt0092644,Beverly Hills Cop II,notalk,0,Action,R,41007948,6.4,Tony Scott,0.59999999999999998,0.5
+1645,1987,tt0092991,Evil Dead II,dubious,0,Comedy,R,7176391,7.8,Sam Raimi,0.0,0.5
+1646,1987,tt0093010,Fatal Attraction,dubious,0,Drama,R,28705563,6.9,Adrian Lyne,1.0,0.0
+1647,1987,tt0093105,"Good Morning, Vietnam",notalk,0,Comedy,R,26655166,7.3,Barry Levinson,0.80000000000000004,0.0
+1648,1987,tt0093177,Hellraiser,ok,1,Horror,R,2050397,7.1,Clive Barker,1.0,1.0
+1649,1987,tt0093409,Lethal Weapon,notalk,0,Action,R,30755961,7.6,Richard Donner,0.40000000000000002,0.0
+1650,1987,tt0093773,Predator,nowomen,0,Action,R,36907153,7.8,John McTiernan,0.20000000000000001,0.0
+1651,1987,tt0093818,Radio Days,notalk,0,Comedy,PG,32806358,7.6,Woody Allen,0.0,5.0
+1652,1987,tt0093870,RoboCop,notalk,0,Action,R,246047687,7.5,Paul Verhoeven,0.20000000000000001,0.5
+1653,1987,tt0094012,Spaceballs,dubious,0,Adventure,PG,46544021,7.1,Mel Brooks,0.40000000000000002,0.33333333333333331
+1654,1987,tt0094074,Superman IV: The Quest for Peace,ok,1,Action,PG,34856756,3.7,Sidney J. Furie,1.6000000000000001,0
+1655,1987,tt0093389,The Last Emperor,dubious,0,Biography,PG13,51259935,7.8,Bernardo Bertolucci,0.0,0.0
+1656,1987,tt0093437,The Lost Boys,notalk,0,Comedy,R,17428378,7.2,Joel Schumacher,0.59999999999999998,0.0
+1657,1987,tt0093779,The Princess Bride,men,0,Adventure,PG,30755961,8.2,Rob Reiner,0.20000000000000001,0.0
+1658,1986,tt0090605,Aliens,ok,1,Action,R,36104000,8.4,James Cameron,1.6000000000000001,2.1666666666666665
+1659,1986,tt0090555,Crocodile Dundee,dubious,0,Adventure,PG13,10618824,6.5,Peter Faiman,0.20000000000000001,0.0
+1660,1986,tt0091203,Highlander,ok,1,Action,R,33980236,7.2,Russell Mulcahy,1.2,1.0
+1661,1986,tt0091225,Howard The Duck,dubious,0,Action,PG,63712942,4.5,Willard Huyck,1.0,0.0
+1662,1986,tt0091419,Little Shop of Horrors,notalk,0,Comedy,PG13,63712942,6.9,Frank Oz,0.20000000000000001,0.0
+1663,1986,tt0091738,Peggy Sue Got Married,ok,1,Comedy,PG13,38227765,6.3,Francis Ford Coppola,1.0,1.0
+1664,1986,tt0091763,Platoon,nowomen,0,Drama,R,12742588,8.1,Oliver Stone,1.3999999999999999,0.0
+1665,1986,tt0092005,Stand By Me,nowomen,0,Adventure,R,16990118,8.1,Rob Reiner,0.20000000000000001,0.33333333333333331
+1666,1986,tt0090848,The Clan of the Cave Bear,ok,1,Adventure,R,31856471,5.3,Michael Chapman,1.3999999999999999,1.0
+1667,1986,tt0092099,Top Gun,men,0,Action,PG,31856471,6.8,Tony Scott,0.59999999999999998,0.0
+1668,1985,tt0088763,Back to the Future,notalk,0,Adventure,PG,41136059,8.5,Robert Zemeckis,1.6000000000000001,2.0
+1669,1985,tt0088846,Brazil,ok,1,Sci-Fi,R,32475836,8.0,Terry Gilliam,1.6000000000000001,1.3333333333333333
+1670,1985,tt0088944,Commando,notalk,0,Action,R,21650558,6.7,Mark L. Lester,0.59999999999999998,1.0
+1671,1985,tt0088993,Day of the Dead,nowomen,0,Drama,NR,38971004,7.2,George A. Romero,0.0,2.0
+1672,1985,tt0089457,Ladyhawke,nowomen,0,Adventure,PG13,43301115,7.0,Richard Donner,1.3999999999999999,0
+1673,1985,tt0089469,Legend,dubious,0,Adventure,PG,54126394,6.5,Ridley Scott,0.20000000000000001,0
+1674,1985,tt0091578,My Beautiful Laundrette,men,0,Comedy,R,866022,6.9,Stephen Frears,0.59999999999999998,0.0
+1675,1985,tt0089893,Red Sonja,ok,1,Action,PG13,38754498,4.9,Richard Fleischer,1.0,0
+1676,1985,tt0089908,Return to Oz,ok,1,Adventure,PG,58456506,6.7,Walter Murch,1.3999999999999999,0
+1677,1985,tt0088939,The Color Purple,ok,1,Drama,PG13,32475836,7.8,Steven Spielberg,1.3999999999999999,1.0
+1678,1984,tt0087800,A nightmare on Elm Street,men,0,Horror,R,78450540,7.5,Wes Craven,0.0,0.0
+1679,1984,tt0086879,Amadeus,ok,1,Biography,R,40345992,8.4,Milos Forman,1.0,1.0
+1680,1984,tt0086960,Beverly Hills Cop,nowomen,0,Action,R,33621660,7.3,Martin Brest,0.59999999999999998,0.0
+1681,1984,tt0086984,Body Double,men,0,Crime,R,22414440,6.7,Brian De Palma,0.20000000000000001,0.0
+1682,1984,tt0087078,Conan the Destroyer,dubious,0,Action,PG,40345992,5.8,Richard Fleischer,0.40000000000000002,0.0
+1683,1984,tt0087182,Dune,dubious,0,Action,PG13,100864980,6.6,David Lynch,0.59999999999999998,0.0
+1684,1984,tt0087298,Friday the 13th Part IV: The Final Chapter,ok,1,Horror,R,5827754,5.9,Joseph Zito,1.0,1.1428571428571428
+1685,1984,tt0087332,Ghostbusters,notalk,0,Comedy,PG,67243320,7.8,Ivan Reitman,1.2,0.0
+1686,1984,tt0087363,Gremlins,notalk,0,Comedy,PG,24655884,7.2,Joe Dante,0.0,0.0
+1687,1984,tt0087469,Indiana Jones and the Temple of Doom,nowomen,0,Action,PG,62760432,7.6,Steven Spielberg,0.20000000000000001,0.0
+1688,1984,tt0087928,Police Academy,dubious,0,Comedy,R,10086498,6.6,Hugh Wilson,0.40000000000000002,0.40000000000000002
+1689,1984,tt0087995,Repo Man,men,0,Action,R,3362166,6.9,Alex Cox,0.0,0.0
+1690,1984,tt0088161,Splash,notalk,0,Comedy,PG,17931552,6.2,Ron Howard,1.6000000000000001,0.59999999999999998
+1691,1984,tt0088170,Star Trek III: The Search for Spock,notalk,0,Action,PG,40345992,6.6,Leonard Nimoy,0.20000000000000001,1.0
+1692,1984,tt0087538,The Karate Kid,ok,1,Action,PG,89657760,7.2,John G. Avildsen,1.3999999999999999,1.0
+1693,1984,tt0088247,The Terminator,men,0,Action,R,14345242,8.1,James Cameron,1.0,1.6666666666666667
+1694,1983,tt0085549,Flashdance,ok,1,Drama,R,16375486,6.1,Adrian Lyne,1.0,1.0
+1695,1983,tt0086190,Star Wars: Episode VI - Return of the Jedi,nowomen,0,Action,PG,76029041,8.4,Richard Marquand,0.20000000000000001,0.0
+1696,1983,tt0086393,Superman III,ok,1,Action,PG,91234849,4.9,Richard Lester,1.8,1.25
+1697,1983,tt0086541,Videodrome,men,0,Sci-Fi,R,13923842,7.3,David Cronenberg,0.0,0.0
+1698,1983,tt0086567,WarGames,notalk,0,Sci-Fi,PG,28072261,7.1,John Badham,0.59999999999999998,0.0
+1699,1982,tt0083658,Blade Runner,notalk,0,Sci-Fi,R,67571504,8.2,Ridley Scott,0.40000000000000002,0.0
+1700,1982,tt0083722,Cat People,ok,1,Drama,R,30165850,6.1,Paul Schrader,1.6000000000000001,1.0
+1701,1982,tt0082198,Conan the Barbarian,notalk,0,Adventure,R,48265360,6.9,John Milius,0.59999999999999998,0.0
+1702,1982,tt0083833,Diner,notalk,0,Comedy,R,12066340,7.2,Barry Levinson,1.3999999999999999,0.0
+1703,1982,tt0083866,E.T.: The Extra-Terrestrial,dubious,0,Family,PG,25339314,7.9,Steven Spielberg,0.59999999999999998,0.0
+1704,1982,tt0083929,Fast Times at Ridgemont High,men,0,Comedy,R,10859706,7.2,Amy Heckerling,0.20000000000000001,0.5
+1705,1982,tt0083944,First Blood,nowomen,0,Action,R,33785752,7.7,Ted Kotcheff,0.20000000000000001,0.25
+1706,1982,tt0083972,Friday the 13th Part III,dubious,0,Horror,R,5429853,5.6,Steve Miner,0.0,0.5
+1707,1982,tt0084516,Poltergeist,ok,1,Horror,PG,25821968,7.4,Tobe Hooper,1.2,1.0
+1708,1982,tt0084522,Porky&#39;s,men,0,Comedy,R,9653072,6.1,Bob Clark,0.0,0.0
+1709,1982,tt0084726,Star Trek: The Wrath of Khan,dubious,0,Action,PG,28959216,7.7,Nicholas Meyer,0.20000000000000001,0.33333333333333331
+1710,1982,tt0083642,The Best Little Whorehouse in Texas,ok,1,Comedy,R,49471994,5.7,Colin Higgins,1.2,1.3999999999999999
+1711,1982,tt0084805,Tootsie,notalk,0,Comedy,PG,36199020,7.4,Sydney Pollack,0.80000000000000004,0.14285714285714285
+1712,1982,tt0084827,TRON,nowomen,0,Action,PG,41025556,6.8,Steven Lisberger,0.59999999999999998,0.0
+1713,1981,tt0082096,Das Boot,nowomen,0,Adventure,R,30742635,8.4,Wolfgang Petersen,0.0,0.0
+1714,1981,tt0082340,Escape from New York,nowomen,0,Action,R,15371317,7.2,John Carpenter,0.40000000000000002,1.5
+1715,1981,tt0082418,Friday the 13th Part 2,notalk,0,Horror,R,3202358,6.0,Steve Miner,0.0,0.33333333333333331
+1716,1981,tt0082495,Halloween II,ok,1,Horror,R,6404716,6.5,Rick Rosenthal,1.3999999999999999,3.5
+1717,1981,tt0082509,Heavy Metal,notalk,0,Animation,R,23825542,6.7,Gerald Potterton,0.0,0.33333333333333331
+1718,1981,tt0082517,History of the World: Part I,notalk,0,Comedy,R,28180748,6.9,Mel Brooks,0.40000000000000002,0.0
+1719,1981,tt0082971,Raiders of the Lost Ark,nowomen,0,Action,PG,51237724,8.6,Steven Spielberg,0.59999999999999998,0.0
+1720,1981,tt0083907,The Evil Dead,notalk,0,Horror,R,960707,7.6,Sam Raimi,0.0,1.0
+1721,1981,tt0081633,Time Bandits,notalk,0,Adventure,PG,30742635,7.0,Terry Gilliam,0.80000000000000004,0
+1722,1980,tt0080339,Airplane!,dubious,0,Comedy,PG,9897188,7.8,Jim Abrahams,0.0,0.0
+1723,1980,tt0080492,Can&#39;t Stop the Music,ok,1,Comedy,PG,56555357,4.5,Nancy Walker,1.0,1.5
+1724,1980,tt0080716,Fame,ok,1,Drama,R,50899822,6.5,Alan Parker,1.2,1.0
+1725,1980,tt0080745,Flash Gordon,dubious,0,Action,PG,98971875,6.4,Mike Hodges,0.20000000000000001,0.0
+1726,1980,tt0080761,Friday the 13th,men,0,Horror,R,48072054,6.5,Sean S. Cunningham,1.0,1.0
+1727,1980,tt0080855,Heaven&#39;s Gate,nowomen,0,Adventure,R,124421786,6.7,Michael Cimino,1.6000000000000001,0.0
+1728,1980,tt0081375,Private Benjamin,ok,1,Comedy,R,42416518,6.1,Howard Zieff,1.3999999999999999,0
+1729,1980,tt0081398,Raging Bull,notalk,0,Biography,R,50899822,8.3,Martin Scorsese,0.59999999999999998,0
+1730,1980,tt0081534,Somewhere in Time,men,0,Drama,PG,14421616,7.3,Jeannot Szwarc,0.80000000000000004,0
+1731,1980,tt0080684,Star Wars: Episode V - The Empire Strikes Back,nowomen,0,Action,PG,65038661,8.8,Irvin Kershner,0.20000000000000001,0.0
+1732,1980,tt0081573,Superman II,dubious,0,Action,PG,152699465,6.8,Richard Lester,0.59999999999999998,0
+1733,1980,tt0080455,The Blues Brothers,notalk,0,Action,R,76349732,8.0,John Landis,0.40000000000000002,0.0
+1734,1980,tt0080749,The Fog,ok,1,Horror,R,50899822,6.8,John Carpenter,1.2,2.6666666666666665
+1735,1980,tt0081505,The Shining,men,0,Horror,R,53727589,8.5,Stanley Kubrick,0.40000000000000002,0
+1736,1979,tt0078748,Alien,ok,1,Horror,R,28886103,8.5,Ridley Scott,2.0,2.3333333333333335
+1737,1979,tt0078788,Apocalypse Now,nowomen,0,Drama,R,101101360,8.5,Francis Ford Coppola,1.0,0.0
+1738,1979,tt0079574,Moonraker,notalk,0,Action,PG,99496576,6.2,Lewis Gilbert,0.0,0.0
+1739,1979,tt0079945,Star Trek: The Motion Picture,notalk,0,Adventure,PG,112334844,6.4,Robert Wise,0.20000000000000001,0.66666666666666663
+1740,1979,tt0078767,The Amityville Horror,ok,1,Drama,R,59376989,6.2,Stuart Rosenberg,1.2,1.0
+1741,1978,tt0077975,Animal House,men,0,Comedy,R,10712118,7.6,John Landis,0.0,0.66666666666666663
+1742,1978,tt0077402,Dawn of the Dead,nowomen,0,Drama,NR,99979768,8.0,George A. Romero,0.20000000000000001,2.0
+1743,1978,tt0077405,Days of Heaven,ok,1,Drama,PG,10712118,8.0,Terrence Malick,1.3999999999999999,1.0
+1744,1978,tt0077631,Grease,ok,1,Musical,PG13,21424236,7.2,Randal Kleiser,2.0,1.25
+1745,1978,tt0077651,Halloween,dubious,0,Horror,R,53560590,7.9,John Carpenter,0.59999999999999998,3.5
+1746,1978,tt0077713,I Spit on Your Grave,nowomen,0,Horror,R,6248735,5.6,Meir Zarchi,0.0,0.0
+1747,1978,tt0078346,Superman,notalk,0,Action,PG,196388829,7.3,Richard Donner,0.59999999999999998,0.875
+1748,1978,tt0077416,The Deer Hunter,notalk,0,Drama,R,53560590,8.2,Michael Cimino,1.2,0.0
+1749,1977,tt0075784,A Bridge Too Far,notalk,0,Drama,PG,99921804,7.4,Richard Attenborough,0.0,0.0
+1750,1977,tt0075686,Annie Hall,ok,1,Comedy,PG,15372585,8.1,Woody Allen,1.6000000000000001,3.0
+1751,1977,tt0075860,Close Encounters of the Third Kind,notalk,0,Drama,PG,76862926,7.7,Steven Spielberg,0.0,0.59999999999999998
+1752,1977,tt0074486,Eraserhead,nowomen,0,Drama,NR,384315,7.4,David Lynch,0.40000000000000002,1.0
+1753,1977,tt0076141,High Anxiety,notalk,0,Comedy,PG,13066697,6.7,Mel Brooks,0.20000000000000001,0.0
+1754,1977,tt0076245,Julia,ok,1,Drama,PG,23058878,7.4,Fred Zinnemann,1.2,1.0
+1755,1977,tt0076759,Star Wars,notalk,0,Action,PG,42274609,8.7,George Lucas,0.20000000000000001,1.0
+1756,1976,tt0074156,Assault on Precinct 13,notalk,0,Action,R,122754817,7.4,John Carpenter,0.0,3.0
+1757,1976,tt0074512,Family Plot,ok,1,Thriller,PG,12275482,6.8,Alfred Hitchcock,1.6000000000000001,0
+1758,1976,tt0074812,Logan&#39;s Run,men,0,Action,PG,28642791,6.8,Michael Anderson,0.20000000000000001,0.0
+1759,1976,tt0074958,Network,ok,1,Drama,R,15548943,8.2,Sidney Lumet,1.3999999999999999,1.0
+1760,1976,tt0075148,Rocky,notalk,0,Drama,PG,4091827,8.1,John G. Avildsen,0.20000000000000001,0.0
+1761,1976,tt0075222,Silent Movie,notalk,0,Comedy,PG,18004040,6.7,Mel Brooks,0.40000000000000002,0.0
+1762,1976,tt0075249,Sparkle,ok,1,Drama,PG,40918272,7.1,Sam O'Steen,1.2,1.5
+1763,1976,tt0075314,Taxi Driver,notalk,0,Crime,R,4091827,8.4,Martin Scorsese,0.0,0.0
+1764,1975,tt0072684,Barry Lyndon,notalk,0,Adventure,PG,47609104,8.1,Stanley Kubrick,0.0,0.5
+1765,1975,tt0073195,Jaws,notalk,0,Drama,PG,51937204,8.1,Steven Spielberg,0.20000000000000001,0
+1766,1975,tt0071853,Monty Python and the Holy Grail,men,0,Adventure,PG,1731240,8.3,Terry Gilliam,0.40000000000000002,0.0
+1767,1975,tt0073486,One Flew Over the Cuckoo&#39;s Nest,men,0,Drama,R,19043641,8.7,Milos Forman,0.0,0
+1768,1975,tt0073629,The Rocky Horror Picture Show,dubious,0,Comedy,R,5193720,7.4,Jim Sharman,0.80000000000000004,0
+1769,1974,tt0071222,Black Christmas,ok,1,Horror,R,42513535,7.2,Bob Clark,1.2,1.0
+1770,1974,tt0071230,Blazing Saddles,notalk,0,Comedy,R,12281688,7.8,Mel Brooks,0.0,0.0
+1771,1974,tt0071360,The Conversation,notalk,0,Drama,PG,7557962,7.9,Francis Ford Coppola,0.40000000000000002,1.0
+1772,1974,tt0071562,The Godfather: Part II,ok,1,Crime,R,61408439,9.1,Francis Ford Coppola,2.6000000000000001,1.6666666666666667
+1773,1974,tt0072271,The Texas Chain Saw Massacre,notalk,0,Horror,R,661322,7.5,Tobe Hooper,0.0,0.0
+1774,1974,tt0072308,The Towering Inferno,notalk,0,Action,PG,661322,6.9,John Guillermin,0.20000000000000001,0.0
+1775,1974,tt0072431,Young Frankenstein,men,0,Comedy,PG,13226433,8.1,Mel Brooks,0.20000000000000001,0.0
+1776,1973,tt0069704,American Graffiti,men,0,Comedy,PG,4074506,7.5,George Lucas,0.0,0.33333333333333331
+1777,1973,tt0068699,High Plains Drifter,notalk,0,Western,R,82329139,7.6,Clint Eastwood,0.40000000000000002,0.0
+1778,1973,tt0070707,Sleeper,notalk,0,Comedy,PG,10487788,7.3,Woody Allen,1.0,3.0
+1779,1973,tt0070047,The Exorcist,ok,1,Horror,R,62926730,8.0,William Friedkin,1.2,0
+1780,1973,tt0070735,The Sting,notalk,0,Comedy,PG,28841418,8.4,George Roy Hill,0.40000000000000002,0.0
+1781,1972,tt0068156,1776,notalk,0,Drama,PG,22288557,7.6,Peter H. Hunt,0.0,0.0
+1782,1972,tt0069089,Pink Flamingos,ok,1,Comedy,R,66866,6.1,John Waters,1.2,2.0
+1783,1972,tt0068646,The Godfather,notalk,0,Crime,R,39004975,9.2,Francis Ford Coppola,0.80000000000000004,0.66666666666666663
+1784,1971,tt0067065,Escape from the Planet of the Apes,notalk,0,Action,G,14386286,6.3,Don Taylor,0.0,0.0
+1785,1971,tt0067741,Shaft,notalk,0,Action,R,305063707,6.6,Gordon Parks,0.0,0.0
+1786,1971,tt0067800,Straw Dogs,notalk,0,Crime,NR,143862856,7.5,Sam Peckinpah,0.20000000000000001,0.66666666666666663
+1787,1971,tt0067116,The French Connection,notalk,0,Action,R,12659931,7.8,William Friedkin,0.20000000000000001,0.0
+1788,1971,tt0067992,Willy Wonka &amp; the Chocolate Factory,men,0,Family,G,17263543,7.8,Mel Stuart,0.0,0.33333333333333331
+1789,1970,tt0065466,Beyond the Valley of the Dolls,ok,1,Comedy,R,5997631,6.2,Russ Meyer,1.0,0
