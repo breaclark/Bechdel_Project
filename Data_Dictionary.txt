@@ -1,0 +1,5 @@
+#Data Dictionary
+
+df - data frame from bechdel_data_min.csv data
+
+columns of the df- 
