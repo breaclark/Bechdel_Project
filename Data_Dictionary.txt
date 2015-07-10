@@ -1,5 +1,23 @@
 #Data Dictionary
 
-df - data frame from bechdel_data_min.csv data
+year - the year the movie came out
 
-columns of the df- 
+imdb - the imdb id required to look the movie up in the imdb database
+
+title - the title of the movie
+
+clean_test -  why the movie fails the bechdel test or if it passes
+
+binary - if the movie passes or fails the bechdel test
+
+genre - the genre of the movie
+
+age_rating - the age rating of the movie (R, PG, etc)
+
+budget_2013 - the budget of the movie, adjusted to the year 2013
+
+star_rating - the star rating of the movie on imdb
+
+cast - the cast average, the calculation of which is described in the paper
+
+writer - the cast average, the calculation of which is described in the paper
