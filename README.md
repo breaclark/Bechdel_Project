@@ -10,9 +10,9 @@ Slides featuring this information can be found here: https://docs.google.com/pre
 
 ## Screenshots
 
-<img src="" alt="screenshot">
-<img src="" alt="screenshot">
-<img src="" alt="screenshot">
+<img src="https://raw.githubusercontent.com/breaclark/Bechdel_Project/master/Screen%20Shot%202018-06-14%20at%209.58.55%20AM.png" alt="screenshot">
+<img src="https://raw.githubusercontent.com/breaclark/Bechdel_Project/master/Screen%20Shot%202018-06-14%20at%209.59.15%20AM.png" alt="screenshot">
+<img src="https://raw.githubusercontent.com/breaclark/Bechdel_Project/master/Screen%20Shot%202018-06-14%20at%2010.00.14%20AM.png" alt="screenshot">
 
 ## Setup/Installation Requirements
 
